@@ -1,0 +1,9 @@
+{
+  "_comment": "Streets a rule proposes but that were reviewed and rejected; run.py drops them. Keep a reason for each.",
+  "vocabulary": {
+    "Sint-Annaziekenhuislaan": "a hospital named after the saint, not the saint's street",
+    "Reedijk": "more likely a surname or place name than a roe deer",
+    "Valkhof": "probably a place name rather than a falcon",
+    "Hoenshoeve": "'hoen' is not in the species dictionary; the label would be the Dutch word"
+  }
+}
