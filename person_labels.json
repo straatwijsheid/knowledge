@@ -1,0 +1,518 @@
+{
+ "Aalbersestraat": [
+  "politician_statesman",
+  "Petrus Aalberse"
+ ],
+ "Aaltostraat": [
+  "architect_or_historian",
+  "Alvar Aalto"
+ ],
+ "Aertsenstraat": [
+  "artist_visual",
+  "Pieter Aertsen"
+ ],
+ "Aubertstraat": [
+  "musician_composer",
+  "Daniel Auber"
+ ],
+ "Barentszstraat": [
+  "explorer",
+  "Willem Barentsz"
+ ],
+ "Benoitlaan": [
+  "musician_composer",
+  "Peter Benoit"
+ ],
+ "Berlagestraat": [
+  "architect_or_historian",
+  "H.P. Berlage"
+ ],
+ "Berliozstraat": [
+  "musician_composer",
+  "Hector Berlioz"
+ ],
+ "Billrothstraat": [
+  "scientist",
+  "Theodor Billroth"
+ ],
+ "Blériotlaan": [
+  "aviation_pioneer",
+  "Louis Blériot"
+ ],
+ "Bosboomstraat": [
+  "artist_visual",
+  "Johannes Bosboom"
+ ],
+ "Bosschaertpad": [
+  "artist_visual",
+  "Ambrosius Bosschaert"
+ ],
+ "Bothastraat": [
+  "military",
+  "Louis Botha"
+ ],
+ "Boylestraat": [
+  "scientist",
+  "Robert Boyle"
+ ],
+ "Bradleystraat": [
+  "military",
+  "Omar Bradley"
+ ],
+ "Camphuysenlaan": [
+  "writer_poet",
+  "Dirck Rafaelsz Camphuysen"
+ ],
+ "Catharinastraat": [
+  "religious",
+  "Catherine (saint)"
+ ],
+ "Churchilllaan": [
+  "politician_statesman",
+  "Winston Churchill"
+ ],
+ "Churchillplein": [
+  "politician_statesman",
+  "Winston Churchill"
+ ],
+ "Churchillstraat": [
+  "politician_statesman",
+  "Winston Churchill"
+ ],
+ "Colijnstraat": [
+  "politician_statesman",
+  "Hendrikus Colijn"
+ ],
+ "Cronjéstraat": [
+  "military",
+  "Piet Cronjé"
+ ],
+ "Daendelsstraat": [
+  "politician_statesman",
+  "Herman Willem Daendels"
+ ],
+ "Daltonstraat": [
+  "scientist",
+  "John Dalton"
+ ],
+ "Distlerstraat": [
+  "musician_composer",
+  "Hugo Distler"
+ ],
+ "Dostalstraat": [
+  "musician_composer",
+  "Nico Dostal"
+ ],
+ "Drebbelstraat": [
+  "scientist",
+  "Cornelis Drebbel"
+ ],
+ "Drossaardstraat": [
+  "monarch_statesman",
+  "Drossaard (steward)"
+ ],
+ "Dudokstraat": [
+  "architect_or_historian",
+  "Willem Dudok"
+ ],
+ "Eisenhowerstraat": [
+  "military",
+  "Dwight D. Eisenhower"
+ ],
+ "Evertsenstraat": [
+  "military_naval_or_politician",
+  "Evertsen family (Dutch admirals)"
+ ],
+ "Evertsenweg": [
+  "military_naval_or_politician",
+  "Evertsen family (Dutch admirals)"
+ ],
+ "Fabritiusstraat": [
+  "artist_visual",
+  "Carel Fabritius"
+ ],
+ "Fauréstraat": [
+  "musician_composer",
+  "Gabriel Fauré"
+ ],
+ "Fokkerlaan": [
+  "aviation_pioneer",
+  "Anthony Fokker"
+ ],
+ "Galvanistraat": [
+  "scientist",
+  "Luigi Galvani"
+ ],
+ "Galvaniweg": [
+  "scientist",
+  "Luigi Galvani"
+ ],
+ "Gerbrandyhof": [
+  "politician_statesman",
+  "Pieter Sjoerds Gerbrandy"
+ ],
+ "Gerbrandylaan": [
+  "politician_statesman",
+  "Pieter Sjoerds Gerbrandy"
+ ],
+ "Gerbrandystraat": [
+  "politician_statesman",
+  "Pieter Sjoerds Gerbrandy"
+ ],
+ "Glinkastraat": [
+  "musician_composer",
+  "Mikhail Glinka"
+ ],
+ "Gravenstraat": [
+  "monarch_statesman",
+  "Counts"
+ ],
+ "Gravesandestraat": [
+  "scientist",
+  "Willem 's Gravesande"
+ ],
+ "Gretrystraat": [
+  "musician_composer",
+  "André Grétry"
+ ],
+ "Gropiusstraat": [
+  "architect_or_historian",
+  "Walter Gropius"
+ ],
+ "Haendellaan": [
+  "musician_composer",
+  "George Frideric Handel"
+ ],
+ "Halleystraat": [
+  "scientist",
+  "Edmond Halley"
+ ],
+ "Hendrikstraat": [
+  "monarch_statesman",
+  "Hendrik (House of Orange)"
+ ],
+ "Hortastraat": [
+  "architect_or_historian",
+  "Victor Horta"
+ ],
+ "Hubblestraat": [
+  "scientist",
+  "Edwin Hubble"
+ ],
+ "Humperdinckstraat": [
+  "musician_composer",
+  "Engelbert Humperdinck"
+ ],
+ "Kalmanstraat": [
+  "musician_composer",
+  "Emmerich Kálmán"
+ ],
+ "Kelvinstraat": [
+  "scientist",
+  "Lord Kelvin"
+ ],
+ "Kennedylaan": [
+  "politician_statesman",
+  "John F. Kennedy"
+ ],
+ "Koninginnestraat": [
+  "monarch_statesman",
+  "Queens"
+ ],
+ "Kuyperdreef": [
+  "politician_statesman",
+  "Abraham Kuyper"
+ ],
+ "Kuyperstraat": [
+  "politician_statesman",
+  "Abraham Kuyper"
+ ],
+ "Künnekestraat": [
+  "musician_composer",
+  "Eduard Künneke"
+ ],
+ "Landinistraat": [
+  "musician_composer",
+  "Francesco Landini"
+ ],
+ "Landréstraat": [
+  "musician_composer",
+  "Willem Landré"
+ ],
+ "Lassuslaan": [
+  "musician_composer",
+  "Orlande de Lassus"
+ ],
+ "Lindberghlaan": [
+  "aviation_pioneer",
+  "Charles Lindbergh"
+ ],
+ "Locatellilaan": [
+  "musician_composer",
+  "Pietro Locatelli"
+ ],
+ "Léharstraat": [
+  "musician_composer",
+  "Franz Lehár"
+ ],
+ "Marnixlaan": [
+  "writer_poet",
+  "Philips van Marnix van St. Aldegonde"
+ ],
+ "Marnixstraat": [
+  "writer_poet",
+  "Philips van Marnix van St. Aldegonde"
+ ],
+ "Mascagnilaan": [
+  "musician_composer",
+  "Pietro Mascagni"
+ ],
+ "Massenetlaan": [
+  "musician_composer",
+  "Jules Massenet"
+ ],
+ "Massenetstraat": [
+  "musician_composer",
+  "Jules Massenet"
+ ],
+ "Mauritsstraat": [
+  "monarch_statesman",
+  "Maurits (House of Orange)"
+ ],
+ "Mauvestraat": [
+  "artist_visual",
+  "Anton Mauve"
+ ],
+ "Memlingstraat": [
+  "artist_visual",
+  "Hans Memling"
+ ],
+ "Meyerbeerstraat": [
+  "musician_composer",
+  "Giacomo Meyerbeer"
+ ],
+ "Morsestraat": [
+  "scientist",
+  "Samuel Morse"
+ ],
+ "Musschenbroekstraat": [
+  "scientist",
+  "Pieter van Musschenbroek"
+ ],
+ "Nansenweg": [
+  "explorer",
+  "Fridtjof Nansen"
+ ],
+ "Oranjestraat": [
+  "monarch_statesman",
+  "House of Orange"
+ ],
+ "Parmentierlaan": [
+  "scientist",
+  "Antoine Parmentier"
+ ],
+ "Pascallaan": [
+  "scientist",
+  "Blaise Pascal"
+ ],
+ "Pattonstraat": [
+  "military",
+  "George S. Patton"
+ ],
+ "Pergolesilaan": [
+  "musician_composer",
+  "Giovanni Battista Pergolesi"
+ ],
+ "Perkstraat": [
+  "writer_poet",
+  "Jacques Perk"
+ ],
+ "Philipslaan": [
+  "scientist",
+  "Philips (industrial family)"
+ ],
+ "Prinsenhof": [
+  "monarch_statesman",
+  "Prince of Orange"
+ ],
+ "Prinsenstraat": [
+  "monarch_statesman",
+  "Princes"
+ ],
+ "Queridolaan": [
+  "writer_poet",
+  "Israël Querido"
+ ],
+ "Raiffeisenstraat": [
+  "politician_statesman",
+  "Friedrich Wilhelm Raiffeisen"
+ ],
+ "Rietveldstraat": [
+  "architect_or_historian",
+  "Gerrit Rietveld"
+ ],
+ "Rodenbachstraat": [
+  "writer_poet",
+  "Rodenbach (Flemish writer)"
+ ],
+ "Roggeveenstraat": [
+  "explorer",
+  "Jacob Roggeveen"
+ ],
+ "Rubenslaan": [
+  "artist_visual",
+  "Peter Paul Rubens"
+ ],
+ "Rubinsteinstraat": [
+  "musician_composer",
+  "Anton Rubinstein"
+ ],
+ "Semmelweisweg": [
+  "scientist",
+  "Ignaz Semmelweis"
+ ],
+ "Smutsstraat": [
+  "politician_statesman",
+  "Jan Smuts"
+ ],
+ "Stuyvesantstraat": [
+  "explorer",
+  "Peter Stuyvesant"
+ ],
+ "Sullivandreef": [
+  "musician_composer",
+  "Arthur Sullivan"
+ ],
+ "Talmastraat": [
+  "politician_statesman",
+  "Talma (Dutch politician)"
+ ],
+ "Tartinistraat": [
+  "musician_composer",
+  "Giuseppe Tartini"
+ ],
+ "Tasmanstraat": [
+  "explorer",
+  "Abel Tasman"
+ ],
+ "Thorbeckelaan": [
+  "politician_statesman",
+  "Johan Rudolph Thorbecke"
+ ],
+ "Thorbeckeplein": [
+  "politician_statesman",
+  "Johan Rudolph Thorbecke"
+ ],
+ "Thorbeckestraat": [
+  "politician_statesman",
+  "Johan Rudolph Thorbecke"
+ ],
+ "Tooropstraat": [
+  "artist_visual",
+  "Jan Toorop"
+ ],
+ "Troelstralaan": [
+  "politician_statesman",
+  "Pieter Jelles Troelstra"
+ ],
+ "Troelstrastraat": [
+  "politician_statesman",
+  "Pieter Jelles Troelstra"
+ ],
+ "Tromplaan": [
+  "military_naval_or_politician",
+  "Tromp family (Dutch admirals)"
+ ],
+ "Trompstraat": [
+  "military_naval_or_politician",
+  "Tromp family (Dutch admirals)"
+ ],
+ "Van 't Hoffstraat": [
+  "scientist",
+  "Jacobus van 't Hoff"
+ ],
+ "Van Eyckstraat": [
+  "artist_visual",
+  "Jan van Eyck"
+ ],
+ "Van Heemskerckstraat": [
+  "military_naval_or_politician",
+  "Heemskerck (Dutch naval officer)"
+ ],
+ "Van Houtenstraat": [
+  "scientist",
+  "Coenraad van Houten"
+ ],
+ "Van Musschenbroekstraat": [
+  "scientist",
+  "Pieter van Musschenbroek"
+ ],
+ "Van Ravesteynstraat": [
+  "artist_visual",
+  "Jan van Ravesteyn"
+ ],
+ "Van Voorst tot Voorststraat": [
+  "politician_statesman",
+  "Van Voorst tot Voorst"
+ ],
+ "Verhulstlaan": [
+  "musician_composer",
+  "Johannes Verhulst"
+ ],
+ "Vestdijk": [
+  "writer_poet",
+  "Simon Vestdijk"
+ ],
+ "Viveslaan": [
+  "writer_poet",
+  "Juan Luis Vives"
+ ],
+ "Von Gluckstraat": [
+  "musician_composer",
+  "Christoph Willibald Gluck"
+ ],
+ "Von Weberlaan": [
+  "musician_composer",
+  "Carl Maria von Weber"
+ ],
+ "Weberlaan": [
+  "musician_composer",
+  "Weber (composer)"
+ ],
+ "Weberstraat": [
+  "musician_composer",
+  "Weber (composer)"
+ ],
+ "Weissenbruchstraat": [
+  "artist_visual",
+  "Johan Hendrik Weissenbruch"
+ ],
+ "Wibautstraat": [
+  "politician_statesman",
+  "Floor Wibaut"
+ ],
+ "Wilhelminaplein": [
+  "monarch_statesman",
+  "Queen Wilhelmina"
+ ],
+ "Willaertpark": [
+  "musician_composer",
+  "Adrian Willaert"
+ ],
+ "Willemstraat": [
+  "monarch_statesman",
+  "Willem (House of Orange)"
+ ],
+ "Zoutmanstraat": [
+  "military_naval_or_politician",
+  "Johan Arnold Zoutman"
+ ],
+ "Zoutmanweg": [
+  "military_naval_or_politician",
+  "Johan Arnold Zoutman"
+ ],
+ "van Musschenbroekstraat": [
+  "scientist",
+  "Pieter van Musschenbroek"
+ ]
+}

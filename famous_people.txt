@@ -1,0 +1,135 @@
+Aalbersestraat|pol|Petrus Aalberse
+Aaltostraat|arc|Alvar Aalto
+Aertsenstraat|art|Pieter Aertsen
+Aubertstraat|mus|Daniel Auber
+Barentszstraat|exp|Willem Barentsz
+Benoitlaan|mus|Peter Benoit
+Berlagestraat|arc|H.P. Berlage
+Bernini|art|Gian Lorenzo Bernini
+Billrothstraat|sci|Theodor Billroth
+Blériotlaan|avi|Louis Blériot
+Bosboomstraat|art|Johannes Bosboom
+Bosschaertpad|art|Ambrosius Bosschaert
+Bothastraat|mil|Louis Botha
+Boylestraat|sci|Robert Boyle
+Bradleystraat|mil|Omar Bradley
+Camphuysenlaan|wri|Dirck Rafaelsz Camphuysen
+Churchilllaan|pol|Winston Churchill
+Churchillplein|pol|Winston Churchill
+Churchillstraat|pol|Winston Churchill
+Collinsstraat|sci|Michael Collins (astronaut)
+Cronjéstraat|mil|Piet Cronjé
+Daendelsstraat|pol|Herman Willem Daendels
+Daltonstraat|sci|John Dalton
+Dijksterhuisstraat|sci|Eduard Jan Dijksterhuis
+Distlerstraat|mus|Hugo Distler
+Dostalstraat|mus|Nico Dostal
+Dudokstraat|arc|Willem Dudok
+Dudokhof|arc|Willem Dudok
+Dufourstraat|mil|Guillaume Henri Dufour
+Eisenhowerstraat|mil|Dwight D. Eisenhower
+Evertsenweg|nav|Evertsen family (Dutch admirals)
+Fabritiusstraat|art|Carel Fabritius
+Fauréstraat|mus|Gabriel Fauré
+Faurestraat|mus|Gabriel Fauré
+Fokkerlaan|avi|Anthony Fokker
+Fröbelstraat|sci|Friedrich Fröbel
+Galvanistraat|sci|Luigi Galvani
+Galvaniweg|sci|Luigi Galvani
+Gerbrandylaan|pol|Pieter Sjoerds Gerbrandy
+Gerbrandystraat|pol|Pieter Sjoerds Gerbrandy
+Glinkastraat|mus|Mikhail Glinka
+Gretrystraat|mus|André Grétry
+Gropiusstraat|arc|Walter Gropius
+Grotiusplantsoen|law|Hugo Grotius
+Gravesandestraat|sci|Willem 's Gravesande
+Haendellaan|mus|George Frideric Handel
+Halleystraat|sci|Edmond Halley
+Hortastraat|arc|Victor Horta
+Hubblestraat|sci|Edwin Hubble
+Humperdinckstraat|mus|Engelbert Humperdinck
+Kalmanstraat|mus|Emmerich Kálmán
+Kelvinstraat|sci|Lord Kelvin
+Kennedylaan|pol|John F. Kennedy
+Kuyperdreef|pol|Abraham Kuyper
+Künnekestraat|mus|Eduard Künneke
+Landinistraat|mus|Francesco Landini
+Landréstraat|mus|Willem Landré
+Lassuslaan|mus|Orlande de Lassus
+Lindberghlaan|avi|Charles Lindbergh
+Locatellilaan|mus|Pietro Locatelli
+Léharstraat|mus|Franz Lehár
+Marnixlaan|wri|Philips van Marnix van St. Aldegonde
+Marnixstraat|wri|Philips van Marnix van St. Aldegonde
+Martinilaan|mus|Giovanni Battista Martini
+Mascagnilaan|mus|Pietro Mascagni
+Massenetlaan|mus|Jules Massenet
+Massenetstraat|mus|Jules Massenet
+Mauvestraat|art|Anton Mauve
+Memlingstraat|art|Hans Memling
+Mercatorlaan|exp|Gerardus Mercator
+Meyerbeerstraat|mus|Giacomo Meyerbeer
+Morsestraat|sci|Samuel Morse
+Musschenbroekstraat|sci|Pieter van Musschenbroek
+Nansenweg|exp|Fridtjof Nansen
+Oldenbarneveltstraat|pol|Johan van Oldenbarnevelt
+Orbisonstraat|mus|Roy Orbison
+Orffstraat|mus|Carl Orff
+Orteliuslaan|exp|Abraham Ortelius
+Parmentierlaan|sci|Antoine Parmentier
+Pascallaan|sci|Blaise Pascal
+Pascalerf|sci|Blaise Pascal
+Pattonstraat|mil|George S. Patton
+Pergolesilaan|mus|Giovanni Battista Pergolesi
+Perkstraat|wri|Jacques Perk
+Philipslaan|sci|Philips (industrial family)
+Pomponstraat|art|François Pompon
+Querido|wri|Querido
+Queridolaan|wri|Israël Querido
+Raiffeisenstraat|pol|Friedrich Wilhelm Raiffeisen
+Rietveldstraat|arc|Gerrit Rietveld
+Roggeveenstraat|exp|Jacob Roggeveen
+Rubinsteinstraat|mus|Anton Rubinstein
+Semmelweisweg|sci|Ignaz Semmelweis
+Smutsstraat|pol|Jan Smuts
+Stuyvesantstraat|exp|Peter Stuyvesant
+Sullivandreef|mus|Arthur Sullivan
+Tartinistraat|mus|Giuseppe Tartini
+Tasmanstraat|exp|Abel Tasman
+Thijssenweg|wri|Theo Thijssen
+Thorbeckeplein|pol|Johan Rudolph Thorbecke
+Tooropstraat|art|Jan Toorop
+Troelstralaan|pol|Pieter Jelles Troelstra
+Tromplaan|nav|Tromp family (Dutch admirals)
+Van 't Hoffstraat|sci|Jacobus van 't Hoff
+Van Eyckstraat|art|Jan van Eyck
+Van Manderlaan|art|Karel van Mander
+Van Musschenbroekstraat|sci|Pieter van Musschenbroek
+van Musschenbroekstraat|sci|Pieter van Musschenbroek
+Van Ravesteynstraat|art|Jan van Ravesteyn
+Van Voorst tot Voorststraat|pol|Van Voorst tot Voorst
+Verhulstlaan|mus|Johannes Verhulst
+Viveslaan|wri|Juan Luis Vives
+Von Gluckstraat|mus|Christoph Willibald Gluck
+Von Weberlaan|mus|Carl Maria von Weber
+Von Weberstraat|mus|Carl Maria von Weber
+Weberlaan|mus|Weber (composer)
+Weberstraat|mus|Weber (composer)
+Weissenbruchstraat|art|Johan Hendrik Weissenbruch
+Wibautstraat|pol|Floor Wibaut
+Willaertpark|mus|Adrian Willaert
+Zappastraat|mus|Frank Zappa
+Zeisstraat|sci|Carl Zeiss
+Zeislaan|sci|Carl Zeiss
+Zoutmanstraat|nav|Johan Arnold Zoutman
+Zoutmanweg|nav|Johan Arnold Zoutman
+Van der Waalsstraat|sci|Johannes van der Waals
+van der Waalstraat|sci|Johannes van der Waals
+Valentijnlaan|exp|François Valentijn
+Valentijnstraat|exp|François Valentijn
+Van Heemskerckstraat|nav|Heemskerck (Dutch naval officer)
+Van Heemskerckstraat|nav|Heemskerck (Dutch naval officer)
+Van Houtenstraat|sci|Coenraad van Houten
+van Houtenstraat|sci|Coenraad van Houten
+Thorbeckestraat|pol|Johan Rudolph Thorbecke
+Thorbeckelaan|pol|Johan Rudolph Thorbecke

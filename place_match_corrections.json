@@ -1,0 +1,1781 @@
+{
+ "named_places": {
+  "Agger": [
+   "Agger",
+   "River in Germany",
+   "river"
+  ],
+  "Albilaan": [
+   "Albi",
+   "City in France",
+   "foreign_town"
+  ],
+  "Ambonstraat": [
+   "Ambon",
+   "Island in the former Dutch East Indies",
+   "dutch_east_indies"
+  ],
+  "Angerslaan": [
+   "Angers",
+   "City in France",
+   "foreign_town"
+  ],
+  "Bankastraat": [
+   "Banka",
+   "Island in the former Dutch East Indies",
+   "dutch_east_indies"
+  ],
+  "Barcelona": [
+   "Barcelona",
+   "City in Spain",
+   "foreign_town"
+  ],
+  "Berlinstraat": [
+   "Berlin",
+   "Capital of Germany",
+   "foreign_town"
+  ],
+  "Bradfordstraat": [
+   "Bradford",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Brommastraat": [
+   "Bromma",
+   "Stockholm's Bromma airport, Sweden",
+   "foreign_town"
+  ],
+  "Charlevillehof": [
+   "Charleville-Mézières",
+   "Town in France",
+   "foreign_town"
+  ],
+  "Cheltenhamstraat": [
+   "Cheltenham",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Creuselaan": [
+   "Creuse",
+   "River in France",
+   "river"
+  ],
+  "Croydonstraat": [
+   "Croydon",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Dillenburglaan": [
+   "Dillenburg",
+   "Town in Germany; ancestral seat of the House of Nassau",
+   "foreign_town"
+  ],
+  "Dillenburgstraat": [
+   "Dillenburg",
+   "Town in Germany; ancestral seat of the House of Nassau",
+   "foreign_town"
+  ],
+  "Dinkelpad": [
+   "Dinkel",
+   "River in Germany and the Netherlands",
+   "river"
+  ],
+  "Dinkelstraat": [
+   "Dinkel",
+   "River in Germany and the Netherlands",
+   "river"
+  ],
+  "Eems": [
+   "Ems",
+   "River in Germany and the Netherlands",
+   "river"
+  ],
+  "Emmerweg": [
+   "Emmer",
+   "Stream/place near the German border",
+   "river"
+  ],
+  "Fornebustraat": [
+   "Fornebu",
+   "Former Oslo airport, Norway",
+   "foreign_town"
+  ],
+  "Garonnelaan": [
+   "Garonne",
+   "River in France",
+   "river"
+  ],
+  "Hamar": [
+   "Hamar",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Indrelaan": [
+   "Indre",
+   "River in France",
+   "river"
+  ],
+  "Kevelaar": [
+   "Kevelaer",
+   "Pilgrimage town in Germany",
+   "foreign_town"
+  ],
+  "Kevelaerstraat": [
+   "Kevelaer",
+   "Pilgrimage town in Germany",
+   "foreign_town"
+  ],
+  "Kristiansand": [
+   "Kristiansand",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Lancasterstraat": [
+   "Lancaster",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Languedoclaan": [
+   "Languedoc",
+   "Historic region in southern France",
+   "dutch_region"
+  ],
+  "Larvik": [
+   "Larvik",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Lillehammer": [
+   "Lillehammer",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Londonstraat": [
+   "London",
+   "Capital of the United Kingdom",
+   "foreign_town"
+  ],
+  "Maidstone": [
+   "Maidstone",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Mainelaan": [
+   "Maine",
+   "River in France",
+   "river"
+  ],
+  "Marne": [
+   "Marne",
+   "River in France; WWI battlefield",
+   "river"
+  ],
+  "Muizenberglaan": [
+   "Muizenberg",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Niers": [
+   "Niers",
+   "River in Germany and the Netherlands",
+   "river"
+  ],
+  "Niersstraat": [
+   "Niers",
+   "River in Germany and the Netherlands",
+   "river"
+  ],
+  "Oderstraat": [
+   "Oder",
+   "River in Poland and Germany",
+   "river"
+  ],
+  "Oeralweg": [
+   "Ural Mountains",
+   "Mountain range in Russia",
+   "alpine_geography"
+  ],
+  "Piketberg": [
+   "Piketberg",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Rhônelaan": [
+   "Rhône",
+   "River in France and Switzerland",
+   "river"
+  ],
+  "Rustenburg": [
+   "Rustenburg",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Saônelaan": [
+   "Saône",
+   "River in France",
+   "river"
+  ],
+  "Schelde": [
+   "Scheldt",
+   "River in Belgium, the Netherlands and France",
+   "river"
+  ],
+  "Scheldelaan": [
+   "Scheldt",
+   "River in Belgium, the Netherlands and France",
+   "river"
+  ],
+  "Scheldestraat": [
+   "Scheldt",
+   "River in Belgium, the Netherlands and France",
+   "river"
+  ],
+  "Scheldeweg": [
+   "Scheldt",
+   "River in Belgium, the Netherlands and France",
+   "river"
+  ],
+  "Seinelaan": [
+   "Seine",
+   "River in France",
+   "river"
+  ],
+  "Sommelaan": [
+   "Somme",
+   "River in France; WWI battlefield",
+   "river"
+  ],
+  "Stavanger": [
+   "Stavanger",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Stellenboschlaan": [
+   "Stellenbosch",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Stellenboschstraat": [
+   "Stellenbosch",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Tarnlaan": [
+   "Tarn",
+   "River in France",
+   "river"
+  ],
+  "Tauernpad": [
+   "Hohe Tauern",
+   "Mountain range in the Alps, Austria",
+   "alpine_geography"
+  ],
+  "Trondheim": [
+   "Trondheim",
+   "City in Norway",
+   "foreign_town"
+  ],
+  "Tulbagh": [
+   "Tulbagh",
+   "Place in South Africa",
+   "south_africa"
+  ],
+  "Vesuviusstraat": [
+   "Mount Vesuvius",
+   "Volcano near Naples, Italy",
+   "mountain"
+  ],
+  "Warwickstraat": [
+   "Warwick",
+   "Town in England",
+   "foreign_town"
+  ],
+  "Waterlooplein": [
+   "Waterloo",
+   "Waterloo, Belgium, where Napoleon was defeated in 1815",
+   "foreign_town"
+  ],
+  "Waterloostraat": [
+   "Waterloo",
+   "Waterloo, Belgium, where Napoleon was defeated in 1815",
+   "foreign_town"
+  ],
+  "Zandrivierstraat": [
+   "Sand River",
+   "Sand River Convention (1852), South Africa",
+   "south_africa"
+  ]
+ },
+ "not_a_place": {
+  "'t Haantje": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "'t Zand": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Ahornstraat": [
+   "thing",
+   "flora",
+   "Maple",
+   "Acer; German/Dutch 'ahorn'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Allemansweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Ameliastraat": [
+   "person",
+   "other",
+   null,
+   "Named after a woman's given name; not identified",
+   "Given name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Antennestraat": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Arendsberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Aurorastraat": [
+   "person",
+   "mythological_figure",
+   "Aurora",
+   null,
+   "Mythological name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bakhuis": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bakhuisweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Beekakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Beekhof": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Beeklaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Beekpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Beekstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Berkendonk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bieberglaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bolberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Boshoven": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Boskamp": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Brakenstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Brandestraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bredesteeg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bredestraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bredeweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Brugesstraat": [
+   "place",
+   "dutch_town",
+   "Bruges",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Brugpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Brugstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Brugweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Bunders": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Carillonhof": [
+   "thing",
+   "instrument",
+   "Clarinet/carillon",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Castorstraat": [
+   "person",
+   "mythological_figure",
+   "Castor",
+   null,
+   "Mythological name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Cheviotstraat": [
+   "thing",
+   "fauna",
+   "Cheviot sheep",
+   "Ovis aries",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Concordialaan": [
+   "person",
+   "mythological_figure",
+   "Concordia",
+   null,
+   "Mythological name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Concordiastraat": [
+   "person",
+   "mythological_figure",
+   "Concordia",
+   null,
+   "Mythological name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Daverveld": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Hoef": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Knip": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Loo": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Omloop": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Rijt": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Werken": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "De Wiel": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Den Hil": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Den Hoek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Distelberg": [
+   "thing",
+   "flora",
+   "Thistle",
+   "Carduus / Cirsium; Dutch name 'distel'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Distelbergstraat": [
+   "thing",
+   "flora",
+   "Thistle",
+   "Carduus / Cirsium; Dutch name 'distel'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Dodenberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Dordtsestraat": [
+   "place",
+   "dutch_town",
+   "Dordrecht",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Dukatendreef": [
+   "thing",
+   "currency",
+   "Historic coin",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Elsakkerpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Emerald": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Erebusstraat": [
+   "person",
+   "mythological_figure",
+   "Erebus",
+   null,
+   "Mythological name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Flint": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Flintdijk": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Frederiksweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Frettenpad": [
+   "thing",
+   "fauna",
+   "Ferret",
+   "Mustela furo; Dutch name 'fret'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Galmeidijk": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Gemsberg": [
+   "thing",
+   "fauna",
+   "Chamois",
+   "Rupicapra rupicapra",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Gotenpark": [
+   "thing",
+   "archaeology_term",
+   "Ancient people",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Graafsedijk": [
+   "place",
+   "dutch_town",
+   "Grave",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Graafsestraat": [
+   "place",
+   "dutch_town",
+   "Grave",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Graafseweg": [
+   "place",
+   "dutch_town",
+   "Grave",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Grindweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Grote Berg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Halseweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hamseweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hanedreef": [
+   "thing",
+   "fauna",
+   "Rooster",
+   "Gallus gallus; Dutch name 'haan'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Heesakkerweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heide": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heidebaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heidehof": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heidestraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heideweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Heiligenberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Helenahoeve": [
+   "person",
+   "other",
+   null,
+   "Named after a woman's given name; not identified",
+   "Given name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Helenastraat": [
+   "person",
+   "other",
+   null,
+   "Named after a woman's given name; not identified",
+   "Given name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Het Zand": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hil": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hilstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoekakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoekstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoevendijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoevenstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoevenweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hogebergdreef": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hoogeinde": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Hunnenplein": [
+   "thing",
+   "archaeology_term",
+   "Ancient people",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Industriekade": [
+   "thing",
+   "development_concept",
+   "Industry",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Industriestraat": [
+   "thing",
+   "development_concept",
+   "Industry",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Industrieweg": [
+   "thing",
+   "development_concept",
+   "Industry",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Jadedijk": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Jadestraat": [
+   "thing",
+   "mineral",
+   "Mineral or gemstone",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Johansberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kammerbergweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kammetweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kampakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kampweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Keelakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Keerdijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Keerkade": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kerkakkers": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kerkakkerstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kettingdreef": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Kettingstraat": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Klarinethof": [
+   "thing",
+   "instrument",
+   "Clarinet/carillon",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Klarinetstraat": [
+   "thing",
+   "instrument",
+   "Clarinet/carillon",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Korf": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Korfakker": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Kouter": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kouterstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kouterweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Kwakerpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Lageheiweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Langenakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Langendijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Langenhof": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Lavadijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Litas": [
+   "thing",
+   "currency",
+   "Historic coin",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Loopakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Loopstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Martenstraat": [
+   "thing",
+   "fauna",
+   "Marten",
+   "Martes; Dutch name 'marter'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Meerberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Meers": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Melkpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Melkweg": [
+   "thing",
+   "astronomy",
+   "Pleiades / Milky Way",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Mezenhof": [
+   "thing",
+   "fauna",
+   "Tit",
+   "Paridae; Dutch name 'mees'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Mezenlaan": [
+   "thing",
+   "fauna",
+   "Tit",
+   "Paridae; Dutch name 'mees'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Mezenstraat": [
+   "thing",
+   "fauna",
+   "Tit",
+   "Paridae; Dutch name 'mees'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Middenhofstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Molenbeek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Molenbeekstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Molenbergdreef": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Molenberglaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Molenbergstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Mollenberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Mosquitostraat": [
+   "thing",
+   "fauna",
+   "Mosquito",
+   "Culicidae",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Mosstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Nieuwenakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Nieuwendijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Noordeinde": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Olmentuin": [
+   "thing",
+   "flora",
+   "Elm",
+   "Ulmus; Dutch name 'olm'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Oostdijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Oosteind": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Oostlaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Oudendijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Oudesluis": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Overakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Overbroek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Overhage": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Overlaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Overweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Parabaan": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Pietseweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Pleiades": [
+   "thing",
+   "astronomy",
+   "Pleiades / Milky Way",
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Pyramidedreef": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Ravensnest": [
+   "thing",
+   "fauna",
+   "Raven",
+   "Corvus corax; Dutch name 'raaf'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Reebok": [
+   "thing",
+   "fauna",
+   "Roebuck",
+   "Capreolus capreolus; Dutch name 'reebok'",
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Regenweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Rijsdijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Rode Baan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Rondom": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Schalkeveld": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Schildwacht": [
+   "thing",
+   "technology_term",
+   null,
+   null,
+   "Not a place: Wikidata matched an unrelated place of the same name"
+  ],
+  "Simonsberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Steenbergsestraat": [
+   "place",
+   "dutch_town",
+   "Steenbergen",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Steenbergseweg": [
+   "place",
+   "dutch_town",
+   "Steenbergen",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Strienestraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Thomasberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Tonsedijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Torenberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Torenberglaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Tussenakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Tussenbaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Tussenweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Valkenhorst": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Valkenhorstlaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vazalstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Veenakker": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Veenstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Veersehof": [
+   "place",
+   "dutch_town",
+   "Veere",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Veerseweg": [
+   "place",
+   "dutch_town",
+   "Veere",
+   "Road named after the place it leads to",
+   "Directional road; Wikidata matched the river or an unrelated place"
+  ],
+  "Venstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Venweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Verlorenhoek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vierwindenlaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vierwindenstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vingelenweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vogelenzang": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vogelenzanglaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vogelenzangstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vogelenzangweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Vorleweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Wagenstraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Walsestraat": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Weeldijk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Werveld": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Wiek": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Winde": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Wolfsdonk": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zandberg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zandberglaan": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zandbergpad": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zandbergplein": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zandbergweg": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zuideinde": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "Zwartven": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "de Sluis": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ],
+  "het Zand": [
+   "place",
+   "local_landscape_feature",
+   null,
+   null,
+   "Ordinary Dutch word / field name; Wikidata matched an unrelated place of the same name"
+  ]
+ }
+}
