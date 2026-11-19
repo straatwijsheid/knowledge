@@ -5,5 +5,10 @@
     "Reedijk": "more likely a surname or place name than a roe deer",
     "Valkhof": "probably a place name rather than a falcon",
     "Hoenshoeve": "'hoen' is not in the species dictionary; the label would be the Dutch word"
+  },
+  "titles": {
+    "Ter Vorseldreef": "'Ter Vorsel' may be a place or estate name rather than a surname",
+    "Van Gorkumlaan": "Gorkum is the old name of Gorinchem: may lead to the town, not name a person",
+    "Van Strijenstraat": "Strijen is a Dutch town; may be a directional road rather than a surname"
   }
 }
