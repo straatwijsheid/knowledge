@@ -817,3 +817,4 @@ patrijzen=Partridge|Perdix perdix
 pluvieren=Plover|Charadrius
 raven=Raven|Corvus corax
 pluvier=Plover|Charadrius
+hoen=Chicken|Gallus gallus

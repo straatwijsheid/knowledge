@@ -1,0 +1,512 @@
+{
+ "_comment": "Reviewed street-level corrections applied by rule `corrections` (src/rules/corrections.py). Keep a reason for each.",
+ "corrections": [
+  {
+   "gemeente": "Cranendonck",
+   "street": "Oranje Nassaulaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "a royal house is filed as the kind 'monarch_statesman'; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Mecklenburgstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "a princely house is filed as 'monarch_statesman'; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Amazonenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Argonautenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Muzenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Borneolaan",
+   "category": "place",
+   "subcategory": "dutch_east_indies",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "Borneo is a place (Dutch East Indies theme), not a thing",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Sint Eustatiusstraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "the buurt (Goirke Noord) is named after the Dutch Antilles (Aruba, Bonaire, Curaçao, Saba); the island, not a saint",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Romeinsestraat",
+   "category": "thing",
+   "subcategory": "archaeology_term",
+   "entity_label": "Romans",
+   "entity_description": "Romans (ancient people); the OSM etymology tag points to Romain Rolland, which looks like a tagging error",
+   "confidence": 0.4,
+   "reason": "OSM tag judged wrong"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Abdijlaan",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "the label repeated the street name"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Cousinsstraat",
+   "category": "person",
+   "subcategory": "military",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "buurt Hoge Akker names WWII Allied commanders; the name is not a writer's, individual not identified"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Altena",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Altena",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Altena",
+   "street": "Altenastraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Altenaweg",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Altenaweg",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Drimmelen",
+   "street": "Bergen",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergen op Zoom",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a Norwegian city; the street leads to Bergen op Zoom"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Bergenstraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergen op Zoom",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a Norwegian city; the street leads to Bergen op Zoom"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Croystraat",
+   "category": "place",
+   "subcategory": "castle_estate",
+   "entity_label": "Croÿ (noble house)",
+   "entity_description": "Noble house; the buurt (Ypelaar) names noble houses and estates",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a Scottish village"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Dammestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Damme",
+   "entity_description": "Town in West Flanders, Belgium (the buurt names Belgian towns)",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German town"
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Dammestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Damme",
+   "entity_description": "Town in West Flanders, Belgium (the buurt names Belgian towns)",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German town"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Essendreef",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Essen",
+   "entity_description": "Border town in Belgium; the buurt names roads after the places they lead to",
+   "confidence": 0.4,
+   "reason": "directional road in a buurt of directional roads"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Essendreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Ash",
+   "entity_description": "Fraxinus excelsior; Dutch name 'es' (plural 'essen')",
+   "confidence": 0.45,
+   "reason": "the buurt names trees and flowers; 'essen' are ash trees"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Essenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Ash",
+   "entity_description": "Fraxinus excelsior; Dutch name 'es' (plural 'essen')",
+   "confidence": 0.45,
+   "reason": "the buurt names trees and flowers; 'essen' are ash trees"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Diepenstraat",
+   "category": "person",
+   "subcategory": "artist_visual",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "buurt Schildersbuurt Noord names painters; individual not identified"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Köpkeshof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "surname in a buurt of local priests and notables; individual not identified"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Limbastraat",
+   "category": "thing",
+   "subcategory": "wood_type",
+   "entity_label": "Limba",
+   "entity_description": "Tropical timber (Terminalia superba); the buurt (Notre Dame) names tropical woods",
+   "confidence": 0.5,
+   "reason": "Wikidata matched a Romanian village"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Mackaystraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Æneas Mackay",
+   "entity_description": "Dutch prime minister 1888-1891; the buurt names Dutch statesmen",
+   "confidence": 0.45,
+   "reason": "Wikidata matched an Australian city"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Mackayhof",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Æneas Mackay",
+   "entity_description": "Dutch prime minister 1888-1891; the buurt names Dutch statesmen",
+   "confidence": 0.45,
+   "reason": "Wikidata matched an Australian city"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Maïsberg",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Maize",
+   "entity_description": "Zea mays; the buurt (Weihoek-Oost) names plants and animals with '-berg'",
+   "confidence": 0.5,
+   "reason": "Wikidata matched an Austrian mountain"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Mill Hillplein",
+   "category": "thing",
+   "subcategory": "religious_order",
+   "entity_label": "Mill Hill Missionaries",
+   "entity_description": "Catholic missionary society",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a district in South Africa"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Oester",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Oyster",
+   "entity_description": "Ostreidae; the buurt (Bergse Plaat) names sea life",
+   "confidence": 0.5,
+   "reason": "Wikidata matched a German river"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Ravensteinlaan",
+   "category": "place",
+   "subcategory": "castle_estate",
+   "entity_label": "Ravenstein",
+   "entity_description": "Castle and town in North Brabant; the buurt (Landerije) names castles",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German municipality"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Van Reenenstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "buurt Staatsliedenbuurt names Dutch statesmen; individual not identified"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Beversestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Drogesestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Gompenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Gradinastraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Kolzinstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Mondsestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Panna",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Risten",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Roelandshof",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Ruitersboslaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Scheenenweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Thornerstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Ussenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Velmerweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Vredepark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Willandstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Wittenburg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}
