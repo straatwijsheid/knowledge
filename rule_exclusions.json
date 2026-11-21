@@ -12,5 +12,9 @@
   },
   "osm_etymology": {
     "Jupiterweg": "the OSM tag says juniper; the buurten (Loovelt: planets and gods; an industrial estate) point to Jupiter"
+  },
+  "name_resolver": {
+    "Schellingstraat": "Schelling the philosopher, not the coin (ambiguous across gemeenten)",
+    "Philipsweg": "label 'Philips (industrial family)' came from a famous-people entry typed as scientist; not established for this street"
   }
 }

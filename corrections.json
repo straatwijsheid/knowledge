@@ -508,6 +508,16 @@
    "entity_description": null,
    "confidence": 0.3,
    "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Philipsweg",
+   "category": "thing",
+   "subcategory": "organization",
+   "entity_label": "Philips (company)",
+   "entity_description": "Koninklijke Philips N.V., Dutch electronics company headquartered in Eindhoven (Wikidata Q170416)",
+   "confidence": 0.5,
+   "reason": "local-knowledge inference by the project owner: the road in Maarheeze heads to the A2 and connects to the Eindhovenseweg, i.e. toward Eindhoven where Philips was headquartered (Strijp), and the buurt is an industrial estate (Den Engelsman/Rondven); an inference, not a documented naming record"
   }
  ]
 }
