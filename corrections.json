@@ -81,12 +81,13 @@
   {
    "gemeente": "Cranendonck",
    "street": "Romeinsestraat",
-   "category": "thing",
-   "subcategory": "archaeology_term",
-   "entity_label": "Romans",
-   "entity_description": "Romans (ancient people); the OSM etymology tag points to Romain Rolland, which looks like a tagging error",
-   "confidence": 0.4,
-   "reason": "OSM tag judged wrong"
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "named after Rome (Wikidata Q220): the Budel buurt names roads after European places and rivers (Duitsestraat, Brusselsestraat, Luxemburgsestraat, Utrechtsestraat, Seinestraat, Moezelstraat, Rijnstraat); the OSM etymology tag on one way was corrected to Q220 by the OSM contributor on 2026-11-21 (the other way still says Romain Rolland, Q47162)",
+   "from_osm": true
   },
   {
    "gemeente": "Tilburg",
