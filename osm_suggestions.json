@@ -1,0 +1,39 @@
+{
+  "_comment": "Streets whose OSM ways lack name:etymology:wikidata but where we are confident of the namesake. osm_fixes.py lists the ways that still lack the tag (it re-reads OSM when generating OSM_FIXES.md).",
+  "suggestions": [
+    {
+      "street": "Philipsweg",
+      "gemeente": "Cranendonck",
+      "qid": "Q170416",
+      "label": "Koninklijke Philips N.V. (the company)",
+      "reason": "the road in Maarheeze heads toward the A2 and the Eindhovenseweg, i.e. toward Eindhoven, where Philips was headquartered; the buurt is an industrial estate (Den Engelsman/Rondven). One way was already tagged by the OSM contributor on 2026-11-21."
+    },
+    {
+      "street": "Doctor Anton Philipsweg",
+      "gemeente": "Tilburg",
+      "qid": "Q592767",
+      "label": "Anton Philips (the person)",
+      "reason": "the name is Anton Philips's (Anton Philipslaan streets elsewhere already carry Q592767)."
+    }
+  ],
+  "other_ways": [
+    {
+      "street": "Doctor Anton Philipsweg",
+      "where": "Maarheeze area, just outside our Noord-Brabant data (the roads continue across the border; ~51.28-51.29 N, 5.645-5.665 E)",
+      "qid": "Q592767",
+      "label": "Anton Philips (the person)",
+      "tagged": [
+        268417255
+      ],
+      "todo": [
+        7134635,
+        7134696,
+        252715506,
+        252715507,
+        317108823,
+        527758503
+      ],
+      "reason": "same road, tagged Q592767 by the OSM contributor on 2026-11-21 (way 268417255); the other ways of the road carry no etymology tag. Also untagged: Anton Philipsweg ways 47981476/47981492/338519956 are already Q592767; the Anton Philipsweg ways in Noord-Holland/Utrecht (7368144, 7432917, 120495713, 331977059, 437414872, 1147000196, 1244959494) carry none."
+    }
+  ]
+}

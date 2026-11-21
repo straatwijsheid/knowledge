@@ -1,0 +1,5 @@
+{
+ "_comment": "Reviewed (category, subcategory) for Wikidata items that OSM etymology tags point to, where the generic classifier is wrong or cannot tell (it reads occupations; companies have none).",
+ "Q592767": ["person", "engineer", "Anton Philips: industrialist and co-leader of Philips (Wikidata lists several occupations; 'explorer' is not what he is known for)"],
+ "Q170416": ["thing", "organization", "Koninklijke Philips N.V., the company"]
+}
