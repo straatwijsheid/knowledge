@@ -1,0 +1,36 @@
+{
+ "_comment": "Gemeente acquisition exceptions (src/acquire.py). Default for any gemeente: street network from the outline of its own CBS/PDOK buurten, buurten fetched under the same name. Listed here only where that fails.",
+ "aliases": {
+  "Nuenen": {
+   "pdok": "Nuenen, Gerwen en Nederwetten",
+   "place": "Nuenen, North Brabant, Netherlands"
+  }
+ },
+ "merged": {
+  "Weesp": {
+   "pdok": "Amsterdam",
+   "buurt_prefix": "BU0363S"
+  },
+  "Sint-Oedenrode": {
+   "pdok": "Meierijstad",
+   "buurt_prefix": "BU194803"
+  },
+  "Uden": {
+   "pdok": "Maashorst",
+   "buurt_prefix": "BU199101,BU199102"
+  },
+  "Schijndel": {
+   "pdok": "Meierijstad",
+   "buurt_prefix": "BU194802"
+  },
+  "Veghel": {
+   "pdok": "Meierijstad",
+   "buurt_prefix": "BU194801,BU194804"
+  },
+  "Landerd": {
+   "pdok": "Maashorst",
+   "buurt_prefix": "BU199103,BU199104,BU199105,BU199106"
+  }
+ },
+ "early_place_polygon": "Eindhoven, Helmond and the other first-wave gemeenten were fetched from the OSM place polygon, not the CBS outline; they are in the data already."
+}
