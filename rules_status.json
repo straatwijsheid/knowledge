@@ -1,0 +1,7 @@
+{
+ "_comment": "Rules left out of runs that name no rule (`rules/run.py --check`, `--apply`) until their proposals are reviewed. Naming one explicitly still runs it.",
+ "disabled": {
+  "bare_surname": "2026-11-22: sampled ~50% wrong on the supplement (Anker, Kogge as monarchs); common nouns are not surnames",
+  "wikidata_place_review": "2026-11-22: turns Linden/Heide into 'foreign towns'; needs review"
+ }
+}
