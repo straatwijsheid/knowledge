@@ -1,0 +1,17 @@
+{
+ "layer": "person_consensus",
+ "overrides": [
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Prinsenstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princes",
+   "entity_description": "Chosen because the buurt 'Geertruidenberg-Kom' has 4 other streets named after the same kind of person; other gemeenten' same-named streets agree",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Buurt-theme supported classification"
+  }
+ ]
+}

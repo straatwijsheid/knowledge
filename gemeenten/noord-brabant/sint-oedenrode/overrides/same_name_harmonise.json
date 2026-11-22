@@ -1,0 +1,53 @@
+{
+ "layer": "same_name_harmonise",
+ "overrides": [
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Anemonenstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Anemone",
+   "entity_description": "Anemone; Dutch name 'anemone'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (3/4 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Gagel",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Bog myrtle",
+   "entity_description": "Myrica gale; Dutch name 'gagel'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (6/7 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Grasklokje",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Harebell",
+   "entity_description": "Campanula rotundifolia; Dutch name 'grasklokje'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (5/6 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Industrieweg",
+   "category": "thing",
+   "subcategory": "development_concept",
+   "entity_label": "Industry",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (17/24 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  }
+ ]
+}

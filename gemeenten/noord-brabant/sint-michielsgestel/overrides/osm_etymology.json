@@ -1,0 +1,173 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Ambachtsweg",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "craft",
+   "entity_description": "field of work that requires particular skills and knowledge of skilled work",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q2207288",
+   "notes": "OpenStreetMap wikidata P138: Q2207288"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Beatrixplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Beatrix of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1980 to 2013 (born 1938)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q29574",
+   "notes": "OpenStreetMap wikidata P138: Q29574"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Beatrixstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Beatrix of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1980 to 2013 (born 1938)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q29574",
+   "notes": "OpenStreetMap wikidata P138: Q29574"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Bernhardstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Prince Bernhard of Lippe-Biesterfeld",
+   "entity_description": "husband of Queen Juliana of the Netherlands (1911-2004); prince consort of the Netherlands (1911-2004)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q57304",
+   "notes": "OpenStreetMap wikidata P138: Q57304"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Beukenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "individual beech tree",
+   "entity_description": "popular deciduous tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q59779138",
+   "notes": "OpenStreetMap wikidata P138: Q59779138"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Eikenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "notable oak tree",
+   "entity_description": "type of tree; a particular (notable) oak tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q33036816",
+   "notes": "OpenStreetMap wikidata P138: Q33036816"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Emmastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Emma of Waldeck and Pyrmont",
+   "entity_description": "Queen consort of the Netherlands (r. 1879–1890)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q57664",
+   "notes": "OpenStreetMap wikidata P138: Q57664"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Irenestraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Irene of the Netherlands",
+   "entity_description": "Dutch princess; second child of Queen Juliana of the Netherlands and Prince Bernhard (born 1939)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q263623",
+   "notes": "OpenStreetMap wikidata P138: Q263623"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Johan Frisoplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Prince Friso of Orange-Nassau",
+   "entity_description": "second son of Beatrix of the Netherlands and Claus von Amsberg; brother of King Willem-Alexander of the Netherlands (1968-2013)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q352981",
+   "notes": "OpenStreetMap wikidata P138: Q352981"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Raadhuisplein",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Rathaus",
+   "entity_description": "municipal administration building in the German language; for a town hall use Q25550691",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q543654",
+   "notes": "OpenStreetMap wikidata P138: Q543654"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Rozenstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Rosa",
+   "entity_description": "genus of plants",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q34687",
+   "notes": "OpenStreetMap wikidata P138: Q34687"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Sint Jorisstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint George",
+   "entity_description": "Christian saint and martyr (died 303)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q48438",
+   "notes": "OpenStreetMap wikidata P138: Q48438"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Wilhelminastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Wilhelmina of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1890 to 1948 (1880-1962)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q150747",
+   "notes": "OpenStreetMap wikidata P138: Q150747"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Willem Alexanderplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "layer": "theme_forced_name_fit",
+ "overrides": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "A-B pad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "B-C pad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Bloemschevaertpad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "D-E pad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Flaneerdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Majoppepad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Visdonktunnel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/mineral' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  }
+ ]
+}

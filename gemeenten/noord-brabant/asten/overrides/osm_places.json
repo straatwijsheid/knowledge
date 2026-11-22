@@ -1,0 +1,113 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Asten",
+   "street": "Behelp",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Behelp",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42495933",
+   "notes": "Same-named OpenStreetMap feature 'Behelp' (place=hamlet) 502 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Laarbroek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Laarbroek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/11034563349",
+   "notes": "Same-named OpenStreetMap feature 'Laarbroek' (place=hamlet) 281 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Leensel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Leensel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42552227",
+   "notes": "Same-named OpenStreetMap feature 'Leensel' (place=hamlet) 817 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Loverbosch",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loverbosch",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9548460668",
+   "notes": "Same-named OpenStreetMap feature 'Loverbosch' (place=neighbourhood) 392 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Ommelse Bos",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Ommelse Bos",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1770876920",
+   "notes": "Same-named OpenStreetMap feature 'Ommelse Bos' (place=hamlet) 60 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Oostappen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Oostappen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929168782",
+   "notes": "Same-named OpenStreetMap feature 'Oostappen' (place=hamlet) 647 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Rinkveld",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Rinkveld",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42553329",
+   "notes": "Same-named OpenStreetMap feature 'Rinkveld' (place=hamlet) 52 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Stegen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Stegen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42562071",
+   "notes": "Same-named OpenStreetMap feature 'Stegen' (place=hamlet) 429 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Voordeldonk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Voordeldonk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42543982",
+   "notes": "Same-named OpenStreetMap feature 'Voordeldonk' (place=hamlet) 382 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

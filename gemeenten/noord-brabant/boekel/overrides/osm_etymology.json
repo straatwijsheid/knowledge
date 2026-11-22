@@ -1,0 +1,17 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Boekel",
+   "street": "Professor van der Veldenstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Henricus van der Velden",
+   "entity_description": "Dutch vicar apostolic (1798-1857)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q22927669",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q22927669"
+  }
+ ]
+}

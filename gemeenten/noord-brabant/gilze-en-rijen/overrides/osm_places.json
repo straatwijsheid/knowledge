@@ -1,0 +1,101 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Biestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Biestraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4421169774",
+   "notes": "Same-named OpenStreetMap feature 'Biestraat' (place=hamlet) 19 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Bolberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Bolberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4421169775",
+   "notes": "Same-named OpenStreetMap feature 'Bolberg' (place=hamlet) 33 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Langereit",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Langereit",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4421169777",
+   "notes": "Same-named OpenStreetMap feature 'Langereit' (place=hamlet) 145 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Valkenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Valkenberg",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/6323052",
+   "notes": "Same-named OpenStreetMap feature 'Valkenberg' (leisure=nature_reserve) 158 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Vijf Eiken",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vijf Eiken",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1496229313",
+   "notes": "Same-named OpenStreetMap feature 'Vijf Eiken' (place=hamlet) 276 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Vossenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vossenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4421169778",
+   "notes": "Same-named OpenStreetMap feature 'Vossenberg' (place=hamlet) 527 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Weilenseind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Weilenseind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4421267586",
+   "notes": "Same-named OpenStreetMap feature 'Weilenseind' (place=hamlet) 45 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Wolfsweidelaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Wolfsweide",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1496229296",
+   "notes": "Same-named OpenStreetMap feature 'Wolfsweide' (place=neighbourhood) 166 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

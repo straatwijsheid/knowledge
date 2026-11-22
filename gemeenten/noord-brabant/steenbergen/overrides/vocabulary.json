@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Steenbergen",
+   "street": "Klaverstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Rozemarijnstraat",
+   "category": "thing",
+   "subcategory": "flora_herb",
+   "entity_label": "Rosemary",
+   "entity_description": "Salvia rosmarinus; Dutch name 'rozemarijn'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

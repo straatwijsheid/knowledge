@@ -1,0 +1,77 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Nuenen",
+   "street": "Geldropsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Geldrop",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Gerwenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gerwen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Hoevensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Lieshoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lieshout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Mierlosedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Mierlo",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Stiphoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Stiphout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

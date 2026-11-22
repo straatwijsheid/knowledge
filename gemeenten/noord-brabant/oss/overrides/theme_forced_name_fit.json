@@ -1,0 +1,113 @@
+{
+ "layer": "theme_forced_name_fit",
+ "overrides": [
+  {
+   "gemeente": "Oss",
+   "street": "Achterschaykstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/archaeology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Bernard van Buelpad",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name has a title/first-name pattern, so it is a person; the buurt theme had forced 'thing/fauna'; individual not identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Nijverheidsstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/other' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Oostenakkerstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/politician_statesman' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Peilschaal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/infrastructure' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Spieker",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/archaeology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sterrebos",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/writer_poet' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Uitstroom",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/infrastructure' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "fam. Janssensteeg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/infrastructure' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  }
+ ]
+}

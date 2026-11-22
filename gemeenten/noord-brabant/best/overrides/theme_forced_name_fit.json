@@ -1,0 +1,65 @@
+{
+ "layer": "theme_forced_name_fit",
+ "overrides": [
+  {
+   "gemeente": "Best",
+   "street": "De Schakel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/military_naval_or_politician' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Ganzenmars",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/sport' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Haasje over",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/sport' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Zaagbok",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Best",
+   "street": "de Tongelreep",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'place/river' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  }
+ ]
+}

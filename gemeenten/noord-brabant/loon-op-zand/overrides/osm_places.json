@@ -1,0 +1,65 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Duiksehoef",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Duiksehoef",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5225209692",
+   "notes": "Same-named OpenStreetMap feature 'Duiksehoef' (place=hamlet) 491 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Kraanven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kraanven",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5225209691",
+   "notes": "Same-named OpenStreetMap feature 'Kraanven' (place=hamlet) 253 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Molenwijck",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Molenwijck",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6444673362",
+   "notes": "Same-named OpenStreetMap feature 'Molenwijck' (place=neighbourhood) 207 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Ruigrijk Laan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Ruigrijk",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2321848397",
+   "notes": "Same-named OpenStreetMap feature 'Ruigrijk' (place=locality) 104 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Sprangsevaart",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Sprangsevaart",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5225209690",
+   "notes": "Same-named OpenStreetMap feature 'Sprangsevaart' (place=hamlet) 514 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

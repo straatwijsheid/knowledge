@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Rucphen",
+   "street": "Mahlerstraat",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": "Gustav Mahler",
+   "entity_description": "Composer",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Van Gogh park",
+   "category": "person",
+   "subcategory": "artist_visual",
+   "entity_label": "Vincent van Gogh",
+   "entity_description": "Painter",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "layer": "theme_forced_name_fit",
+ "overrides": [
+  {
+   "gemeente": "Schijndel",
+   "street": "Bergweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "De Kuilen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Kerkepad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Kloosterpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/other' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Mobweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Spitfireweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Vlagheide",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/technology_term' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  }
+ ]
+}

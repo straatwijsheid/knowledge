@@ -1,0 +1,29 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Boxtel",
+   "street": "Gestelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sint-Michielsgestel",
+   "entity_description": "village in Sint-Michielsgestel, the Netherlands",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q12013374",
+   "notes": "OpenStreetMap wikidata P138: Q12013374"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Raadhuisplein",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Rathaus",
+   "entity_description": "municipal administration building in the German language; for a town hall use Q25550691",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q543654",
+   "notes": "OpenStreetMap wikidata P138: Q543654"
+  }
+ ]
+}

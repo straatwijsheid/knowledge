@@ -1,0 +1,137 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Veghel",
+   "street": "Boekelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boekel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Boerdonksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boerdonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Eerdsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eerde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Erpsesteeg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Erp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Erpseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Erp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Gemertsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gemert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Goordonksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Goordonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Keldonkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Keldonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Udenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Uden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Veghelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veghel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

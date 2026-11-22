@@ -1,0 +1,101 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Bladel",
+   "street": "Alberdingk Thijmlaan",
+   "category": "person",
+   "subcategory": "writer_poet",
+   "entity_label": "Joseph Albert Alberdingk Thijm",
+   "entity_description": "Dutch writer and poet (1820-1889)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q1978794",
+   "notes": "OpenStreetMap wikidata P138: Q1978794"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Emmastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Emma of Waldeck and Pyrmont",
+   "entity_description": "Queen consort of the Netherlands (r. 1879–1890)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q57664",
+   "notes": "OpenStreetMap wikidata P138: Q57664"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Irenelaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Irene of the Netherlands",
+   "entity_description": "Dutch princess; second child of Queen Juliana of the Netherlands and Prince Bernhard (born 1939)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q263623",
+   "notes": "OpenStreetMap wikidata P138: Q263623"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Prins Bernhardstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Prince Bernhard of Lippe-Biesterfeld",
+   "entity_description": "husband of Queen Juliana of the Netherlands (1911-2004); prince consort of the Netherlands (1911-2004)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q57304",
+   "notes": "OpenStreetMap wikidata P138: Q57304"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Prins Clausstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Prince Claus of the Netherlands",
+   "entity_description": "Consort of the Netherlands (1980 - 2002)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q159609",
+   "notes": "OpenStreetMap wikidata P138: Q159609"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Prins Hendriklaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Duke Henry of Mecklenburg-Schwerin",
+   "entity_description": "Prince consort of the Netherlands from 1901 to 1934 (1876-1934)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q503991",
+   "notes": "OpenStreetMap wikidata P138: Q503991"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Wilhelminalaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Wilhelmina of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1890 to 1948 (1880-1962)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q150747",
+   "notes": "OpenStreetMap wikidata P138: Q150747"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Wilhelminaplantsoen",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Wilhelmina of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1890 to 1948 (1880-1962)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q150747",
+   "notes": "OpenStreetMap wikidata P138: Q150747"
+  }
+ ]
+}

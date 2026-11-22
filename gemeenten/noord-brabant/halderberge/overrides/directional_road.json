@@ -1,0 +1,149 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Bosschenhoofdsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bosschenhoofd",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Bovendonksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bovendonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Dinteloordseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Dinteloord",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Gastelsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gastel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Kruislandseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Kruisland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Moerdijksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Moerdijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Moleneindsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Moleneind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Noordhoeksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Noordhoek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Roosendaalsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Roosendaal",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Roosendaalseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Roosendaal",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Rucphenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Rucphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Standdaarbuitensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Standdaarbuiten",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

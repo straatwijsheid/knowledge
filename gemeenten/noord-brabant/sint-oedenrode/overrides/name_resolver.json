@@ -1,0 +1,113 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Airborneweg",
+   "category": "thing",
+   "subcategory": "military",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'military' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.735, margin 0.506)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Elzenpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Alder",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 31 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.835, margin 0.443)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Gaspeldoorn",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Gorse",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 5 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.472, margin 0.209)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Kerkplein",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 57 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.497, margin 0.276)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Magnoliahof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Magnolia",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 13 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.715, margin 0.351)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Mauritsstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Maurice of Orange",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 18 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.803, margin 0.388)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Oranje Nassaulaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "House of Orange-Nassau",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.821, margin 0.751)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Seringenhof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Lilac",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 14 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.703, margin 0.348)"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Sluisplein",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.46, margin 0.245)"
+  }
+ ]
+}

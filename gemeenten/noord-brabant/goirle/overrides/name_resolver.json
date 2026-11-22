@@ -1,0 +1,161 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Goirle",
+   "street": "Baarlesebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baarle-Nassau",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.705, margin 0.288)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Berkenrode",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Birch",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.577, margin 0.406)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Biesakkers",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Rush",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.5, margin 0.5)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Bronstijd",
+   "category": "thing",
+   "subcategory": "archaeology_term",
+   "entity_label": "Bronze Age",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'archaeology_term' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.823, margin 0.823)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Buizerd",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common buzzard",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 12 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.724, margin 0.37)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "De Run",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Run",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'river' backed by 6 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.672, margin 0.472)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Hilvarenbeekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hilvarenbeek",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 1 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.705, margin 0.288)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Hoevensepad",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 10 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.72, margin 0.316)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Kennedylaan",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "John F. Kennedy",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 9 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.496, margin 0.248)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Oude Rielseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Riel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.705, margin 0.288)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Tamboerstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tamboer",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.607, margin 0.409)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Turnhoutsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Turnhout",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.645, margin 0.264)"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Urnenveld",
+   "category": "thing",
+   "subcategory": "archaeology_term",
+   "entity_label": "Urnfield",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'archaeology_term' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.674, margin 0.542)"
+  }
+ ]
+}

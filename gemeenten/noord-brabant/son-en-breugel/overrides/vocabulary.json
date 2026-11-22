@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Bremlaan",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Herculeslaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": "Hercules",
+   "entity_description": "Mythological figure or deity",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Heriklaan",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Charlock",
+   "entity_description": "Sinapis arvensis; Dutch name 'herik'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Meldelaan",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Orache",
+   "entity_description": "Atriplex; Dutch name 'melde'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

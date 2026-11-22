@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Breda",
+   "street": "Brabantplein",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Brabant",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Cornelis Nahuysstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Jan Meijvisplein",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Lindestraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Lime (linden)",
+   "entity_description": "Tilia; Dutch name 'linde'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Annadreef",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Janstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Wilgenpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Willow",
+   "entity_description": "Salix; Dutch name 'wilgen'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Willemstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Dutch King Willem",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Wolfsklauwpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clubmoss",
+   "entity_description": "Lycopodium; Dutch name 'wolfsklauw'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Boxtel",
+   "street": "Bergstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Berg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43090019",
+   "notes": "Same-named OpenStreetMap feature 'Berg' (place=hamlet) 342 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "De Vorst",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vorst",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43071190",
+   "notes": "Same-named OpenStreetMap feature 'Vorst' (place=hamlet) 230 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Den Berg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Berg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43090019",
+   "notes": "Same-named OpenStreetMap feature 'Berg' (place=hamlet) 148 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Hal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hal",
+   "entity_description": "forest (OpenStreetMap landuse=forest); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/272477506",
+   "notes": "Same-named OpenStreetMap feature 'Hal' (landuse=forest) 801 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Huisvennen",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Huisvennen",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/84057516",
+   "notes": "Same-named OpenStreetMap feature 'Huisvennen' (natural=water) 619 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Kinderbos",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kinderbos",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3130810510",
+   "notes": "Same-named OpenStreetMap feature 'Kinderbos' (place=locality) 99 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Langenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Langenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43192567",
+   "notes": "Same-named OpenStreetMap feature 'Langenberg' (place=hamlet) 572 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Luissel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Luissel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43156568",
+   "notes": "Same-named OpenStreetMap feature 'Luissel' (place=hamlet) 406 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Nergena",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nergena",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43183152",
+   "notes": "Same-named OpenStreetMap feature 'Nergena' (place=hamlet) 312 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Tongeren",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Tongeren",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43156981",
+   "notes": "Same-named OpenStreetMap feature 'Tongeren' (place=hamlet) 448 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Velder",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Velder",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/14098752",
+   "notes": "Same-named OpenStreetMap feature 'Velder' (leisure=nature_reserve) 911 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Venrodeweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Venrode",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/6323482",
+   "notes": "Same-named OpenStreetMap feature 'Venrode' (leisure=nature_reserve) 625 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Vorsenpoel",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Vorsenpoel",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/84045334",
+   "notes": "Same-named OpenStreetMap feature 'Vorsenpoel' (natural=water) 116 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

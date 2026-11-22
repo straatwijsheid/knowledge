@@ -1,0 +1,17 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Dongen",
+   "street": "Cousinsstraat",
+   "category": "person",
+   "subcategory": "military",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: buurt Hoge Akker names WWII Allied commanders; the name is not a writer's, individual not identified"
+  }
+ ]
+}

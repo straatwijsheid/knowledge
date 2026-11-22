@@ -1,0 +1,89 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Geldropseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Geldrop",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Gijzenrooiseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gijzenrooi",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Lungendonksebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lungendonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Mierloseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Mierlo",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Nuenenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nuenen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Rielsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Riel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

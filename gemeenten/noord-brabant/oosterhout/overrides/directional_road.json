@@ -1,0 +1,89 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Oosterhout",
+   "street": "Baarschotsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baarschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Bavelsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bavel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Bredaseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Heikantsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Oosterhoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oosterhout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Steenovensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Steenoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

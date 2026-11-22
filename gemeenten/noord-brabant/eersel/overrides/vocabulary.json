@@ -1,0 +1,77 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Eersel",
+   "street": "Dennenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Gerardus van Grootelhof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Henk Imming plein",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Sergeant Arthur Fraserpad",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Sparrelaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Spruce",
+   "entity_description": "Picea abies; Dutch name 'sparre'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Vossenweg",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vossen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

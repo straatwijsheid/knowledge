@@ -1,0 +1,125 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Alphensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Alphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Bredaseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Chaamseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Chaam",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Galderseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Galder",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Heikantsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Maastrichtsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Maastricht",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Rielseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Riel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Strijbeekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Strijbeek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Ulicotensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Ulicoten",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Ulicotenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Ulicoten",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

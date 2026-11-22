@@ -1,0 +1,173 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Bernheze",
+   "street": "Berktstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Berkt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43614702",
+   "notes": "Same-named OpenStreetMap feature 'Berkt' (place=hamlet) 223 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Broekhoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Broekhoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43685861",
+   "notes": "Same-named OpenStreetMap feature 'Broekhoek' (place=hamlet) 277 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Bus",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Bus",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681761",
+   "notes": "Same-named OpenStreetMap feature 'Bus' (place=hamlet) 42 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Donzel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Donzel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43618103",
+   "notes": "Same-named OpenStreetMap feature 'Donzel' (place=hamlet) 137 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Fokkershoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Fokkershoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43409955",
+   "notes": "Same-named OpenStreetMap feature 'Fokkershoek' (place=hamlet) 178 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Hooge Wijststraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hooge Wijst",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681777",
+   "notes": "Same-named OpenStreetMap feature 'Hooge Wijst' (place=hamlet) 126 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Kameren",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kameren",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681747",
+   "notes": "Same-named OpenStreetMap feature 'Kameren' (place=hamlet) 417 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Kantje",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kantje",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43567783",
+   "notes": "Same-named OpenStreetMap feature 'Kantje' (place=hamlet) 114 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Lage Wijststraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lage Wijst",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43649189",
+   "notes": "Same-named OpenStreetMap feature 'Lage Wijst' (place=hamlet) 10 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Lariestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lariestraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43403979",
+   "notes": "Same-named OpenStreetMap feature 'Lariestraat' (place=hamlet) 415 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Loo",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loo",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43592143",
+   "notes": "Same-named OpenStreetMap feature 'Loo' (place=hamlet) 863 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Menzel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Menzel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43549748",
+   "notes": "Same-named OpenStreetMap feature 'Menzel' (place=hamlet) 107 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Muggenhoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Muggenhoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43409013",
+   "notes": "Same-named OpenStreetMap feature 'Muggenhoek' (place=hamlet) 715 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Rukven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Rukven",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43466906",
+   "notes": "Same-named OpenStreetMap feature 'Rukven' (place=hamlet) 824 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

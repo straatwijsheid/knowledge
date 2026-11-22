@@ -1,0 +1,161 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Veldhoven",
+   "street": "Antwerpsebaan",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Antwerp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Blaarthemseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Blaarthem",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Bossebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Eindhovensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Heikantsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Heikantsepad",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Hoogeloonsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoogeloon",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Knegselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Knegsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Strijpsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Strijp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Westerveldseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Westerveld",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Wintelresedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wintelre",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Zandoerleseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zandoerle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Zittardsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sittard",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

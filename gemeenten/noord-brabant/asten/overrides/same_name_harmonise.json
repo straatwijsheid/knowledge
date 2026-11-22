@@ -1,0 +1,17 @@
+{
+ "layer": "same_name_harmonise",
+ "overrides": [
+  {
+   "gemeente": "Asten",
+   "street": "Industrielaan",
+   "category": "thing",
+   "subcategory": "development_concept",
+   "entity_label": "Industry",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (4/5 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  }
+ ]
+}

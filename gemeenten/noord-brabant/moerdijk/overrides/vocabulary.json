@@ -1,0 +1,41 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Moerdijk",
+   "street": "Rozemarijnstraat",
+   "category": "thing",
+   "subcategory": "flora_herb",
+   "entity_label": "Rosemary",
+   "entity_description": "Salvia rosmarinus; Dutch name 'rozemarijn'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Sint Antonisweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Antonis",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Sint Martinuspark",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

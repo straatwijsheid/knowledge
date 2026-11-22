@@ -1,0 +1,29 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Steenbergen",
+   "street": "Sint Jorisstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint George",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Sint Ontcommerstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Wilgefortis (Ontcommer)",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

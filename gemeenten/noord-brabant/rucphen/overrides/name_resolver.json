@@ -1,0 +1,137 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Rucphen",
+   "street": "Bosschenhoofdseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bosschenhoofd",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 1 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.635, margin 0.635)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "De Berg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.676, margin 0.611)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Eindstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eind",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 2 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.538, margin 0.229)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Irishof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Iris",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.601, margin 0.303)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Korhoenpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Black grouse",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 7 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.544, margin 0.415)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Meerven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Meerven",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.679, margin 0.54)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Narcishof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Daffodil",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.577, margin 0.292)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Raadhuisplein",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Rathaus",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 32 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.528, margin 0.411)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Regerstraat",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'musician_composer' backed by 1 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.511, margin 0.344)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Sprundelsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sprundel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 4 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.7, margin 0.7)"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Vaartweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vaart",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.473, margin 0.26)"
+  }
+ ]
+}

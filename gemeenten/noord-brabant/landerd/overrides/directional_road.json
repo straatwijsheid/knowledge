@@ -1,0 +1,137 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Landerd",
+   "street": "Boekelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boekel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Bossestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Langenboomseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Langenboom",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Millsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Mill",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Reekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Reek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Schaijksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schaijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Schaijkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schaijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Udensedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Uden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Udenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Uden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Volkelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Volkel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Zeelandsedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zeeland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

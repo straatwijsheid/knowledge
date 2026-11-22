@@ -1,0 +1,65 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Steenbergen",
+   "street": "De Ambacht",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "craft",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.487, margin 0.36)"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "De Darink",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.554, margin 0.326)"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Klaproosplein",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Corn poppy",
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 26 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.453, margin 0.36)"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Oranjeplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "House of Orange",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 42 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.616, margin 0.524)"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Triangel",
+   "category": "thing",
+   "subcategory": "instrument",
+   "entity_label": "Triangel",
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'instrument' backed by 5 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.467, margin 0.272)"
+  }
+ ]
+}

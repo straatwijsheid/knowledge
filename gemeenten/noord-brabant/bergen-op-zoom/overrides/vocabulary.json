@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Dopheide",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Cross-leaved heath",
+   "entity_description": "Erica tetralix; Dutch name 'dopheide'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Jupiterweg",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": "Jupiter",
+   "entity_description": "Mythological figure or deity",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Mevrouw Ans van den Berg brug",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Roskamstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Roskam",
+   "entity_description": "Flower",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Rozemarijnstraat",
+   "category": "thing",
+   "subcategory": "flora_herb",
+   "entity_label": "Rosemary",
+   "entity_description": "Salvia rosmarinus; Dutch name 'rozemarijn'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Schimmelpennincklaan",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": "Rutger Jan Schimmelpenninck",
+   "entity_description": "Composer",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Sint-Jakobsschelp",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a clergy member or saint who could not be identified"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Struikheide",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Heather",
+   "entity_description": "Calluna vulgaris; Dutch name 'struikheide'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Vossenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vossen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

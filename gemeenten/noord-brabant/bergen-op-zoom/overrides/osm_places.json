@@ -1,0 +1,137 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Heimolen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heimolen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42707958",
+   "notes": "Same-named OpenStreetMap feature 'Heimolen' (place=hamlet) 727 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Jankenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Jankenberg",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4552926751",
+   "notes": "Same-named OpenStreetMap feature 'Jankenberg' (place=neighbourhood) 272 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Kijkuit",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kijkuit",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681727",
+   "notes": "Same-named OpenStreetMap feature 'Kijkuit' (place=hamlet) 117 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Kladde",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kladde",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43030995",
+   "notes": "Same-named OpenStreetMap feature 'Kladde' (place=hamlet) 245 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Kleine Melanen",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Kleine melanen",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/1166171",
+   "notes": "Same-named OpenStreetMap feature 'Kleine melanen' (natural=water) 181 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Kleine Melanenweg",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Kleine melanen",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/1166171",
+   "notes": "Same-named OpenStreetMap feature 'Kleine melanen' (natural=water) 221 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Meilustpad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Meilust",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4559853586",
+   "notes": "Same-named OpenStreetMap feature 'Meilust' (place=neighbourhood) 549 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Meilustweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Meilust",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4559853586",
+   "notes": "Same-named OpenStreetMap feature 'Meilust' (place=neighbourhood) 293 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Noordgeest",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Noordgeest",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4559853584",
+   "notes": "Same-named OpenStreetMap feature 'Noordgeest' (place=neighbourhood) 151 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Spinolaberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Spinolaberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42872150",
+   "notes": "Same-named OpenStreetMap feature 'Spinolaberg' (place=hamlet) 296 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Vijverberg-Zuid",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Vijverberg Zuid",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/19743887",
+   "notes": "Same-named OpenStreetMap feature 'Vijverberg Zuid' (natural=water) 84 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "Beukenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "individual beech tree",
+   "entity_description": "popular deciduous tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q59779138",
+   "notes": "OpenStreetMap wikidata P138: Q59779138"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Eikenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "notable oak tree",
+   "entity_description": "type of tree; a particular (notable) oak tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q33036816",
+   "notes": "OpenStreetMap wikidata P138: Q33036816"
+  }
+ ]
+}

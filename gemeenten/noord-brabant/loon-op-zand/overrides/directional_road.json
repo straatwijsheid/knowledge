@@ -1,0 +1,77 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Brandsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Brand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Dongenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Dongen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Sprangsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sprang",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Vossenbergselaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vossenberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Waalwijksebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Waalwijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

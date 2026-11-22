@@ -1,0 +1,17 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Altena",
+   "street": "Doctor Martin Luther Kingplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Martin Luther King Jr.",
+   "entity_description": "American Baptist minister and civil rights leader (1929–1968)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q8027",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q8027"
+  }
+ ]
+}

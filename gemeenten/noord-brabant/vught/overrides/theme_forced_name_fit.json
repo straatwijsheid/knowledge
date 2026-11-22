@@ -1,0 +1,53 @@
+{
+ "layer": "theme_forced_name_fit",
+ "overrides": [
+  {
+   "gemeente": "Vught",
+   "street": "Jachterf",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/fauna' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Kastoeristraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/fauna' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Ploegweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'thing/flora' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Zuidoosterlaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Standardised rule: the label 'person/monarch_statesman' came from the buurt theme alone and the street name itself does not indicate it; no namesake identified"
+  }
+ ]
+}

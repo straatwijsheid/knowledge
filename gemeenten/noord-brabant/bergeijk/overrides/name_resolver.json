@@ -1,0 +1,89 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Bergeijk",
+   "street": "Burgemeester Schaepmanstraat",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mayor_local' backed by 0 classified streets elsewhere, rules ['title_pattern']; neighbours in the buurt/wijk fit it (score 0.614, margin 0.351)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Dommelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.625, margin 0.209)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Industrieweg",
+   "category": "thing",
+   "subcategory": "development_concept",
+   "entity_label": "Industry",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'development_concept' backed by 26 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.539, margin 0.34)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Kruisboog",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Kruisboog",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 8 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.772, margin 0.472)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Tamboer",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tamboer",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.843, margin 0.369)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Venakkerweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.758, margin 0.758)"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Waterkuilen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.758, margin 0.758)"
+  }
+ ]
+}

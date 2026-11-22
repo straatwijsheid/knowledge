@@ -1,0 +1,41 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Altenaweg",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Mackayhof",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Æneas Mackay",
+   "entity_description": "Dutch prime minister 1888-1891; the buurt names Dutch statesmen",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched an Australian city"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Panna",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

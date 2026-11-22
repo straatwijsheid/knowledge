@@ -1,0 +1,41 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Zundert",
+   "street": "Luitertweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Luitert",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5970624206",
+   "notes": "Same-named OpenStreetMap feature 'Luitert' (place=hamlet) 55 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Maalbergenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Maalbergen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3130155715",
+   "notes": "Same-named OpenStreetMap feature 'Maalbergen' (place=hamlet) 621 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Raambergweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Raamberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42813745",
+   "notes": "Same-named OpenStreetMap feature 'Raamberg' (place=hamlet) 235 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

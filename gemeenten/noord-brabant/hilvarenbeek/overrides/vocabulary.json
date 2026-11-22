@@ -1,0 +1,125 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Beverstraat",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Beaver",
+   "entity_description": "Castor fiber; Dutch name 'bever'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Bremstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Barbarastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Barbara",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Catharinastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Catherine",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Crispijnstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Crispin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Jorisstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint George",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Josephstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Lambertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Sint Sebastiaanstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Sebastian",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Van Dijcklaan",
+   "category": "person",
+   "subcategory": "artist_visual",
+   "entity_label": "Anthony van Dyck",
+   "entity_description": "Painter",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

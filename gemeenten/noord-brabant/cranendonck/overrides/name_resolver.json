@@ -1,0 +1,161 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Cranendonck",
+   "street": "'t Bergske",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.558, margin 0.558)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "De Spar",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Spruce",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 1 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.507, margin 0.245)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 11 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.473, margin 0.325)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Grote Hoefstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.728, margin 0.592)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Grutto",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Black-tailed godwit",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 17 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.683, margin 0.319)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Havenweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.477, margin 0.297)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Heerakkerstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.558, margin 0.558)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Looierijstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tannery",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 6 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.575, margin 0.319)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Patrijs",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Grey partridge",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 28 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.671, margin 0.301)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Perkstraat",
+   "category": "person",
+   "subcategory": "writer_poet",
+   "entity_label": "Jacques Perk",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'writer_poet' backed by 2 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.476, margin 0.201)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Ridderspoor",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Larkspur",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.621, margin 0.248)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Tureluur",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common redshank",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 4 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.667, margin 0.288)"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Watersnip",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Jack snipe",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 3 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.657, margin 0.267)"
+  }
+ ]
+}

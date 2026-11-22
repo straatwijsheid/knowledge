@@ -1,0 +1,41 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Oss",
+   "street": "Jeneverbes",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Juniperus communis",
+   "entity_description": "species of plant",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q26325",
+   "notes": "OpenStreetMap wikidata P138: Q26325"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Raadhuislaan",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Rathaus",
+   "entity_description": "municipal administration building in the German language; for a town hall use Q25550691",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q543654",
+   "notes": "OpenStreetMap wikidata P138: Q543654"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Willem Alexanderstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

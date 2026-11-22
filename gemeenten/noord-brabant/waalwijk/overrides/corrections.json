@@ -1,0 +1,41 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Waalwijk",
+   "street": "Altenaweg",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched a German town; the street names the Dutch Altena"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Essendreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Ash",
+   "entity_description": "Fraxinus excelsior; Dutch name 'es' (plural 'essen')",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: the buurt names trees and flowers; 'essen' are ash trees"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Gompenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

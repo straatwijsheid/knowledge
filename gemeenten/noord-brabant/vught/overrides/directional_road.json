@@ -1,0 +1,161 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Vught",
+   "street": "Bergenshuizensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergenshuizen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Boxtelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boxtel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Cromvoirtsepad",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Cromvoirt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Cromvoirtseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Cromvoirt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Haldersebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Halder",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Helvoirtsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Helvoirt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Helvoirtseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Helvoirt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Hoevensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Loonsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Loon op Zand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Loverensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Loveren",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Sint-Michielsgestelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sint-Michielsgestel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Udenhoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Udenhout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

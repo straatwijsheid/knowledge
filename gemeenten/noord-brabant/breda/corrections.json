@@ -1,0 +1,54 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Breda",
+   "street": "Croystraat",
+   "category": "place",
+   "subcategory": "castle_estate",
+   "entity_label": "Croÿ (noble house)",
+   "entity_description": "Noble house; the buurt (Ypelaar) names noble houses and estates",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a Scottish village"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Dammestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Damme",
+   "entity_description": "Town in West Flanders, Belgium (the buurt names Belgian towns)",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German town"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Essendreef",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Essen",
+   "entity_description": "Border town in Belgium; the buurt names roads after the places they lead to",
+   "confidence": 0.4,
+   "reason": "directional road in a buurt of directional roads"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Roelandshof",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Ruitersboslaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

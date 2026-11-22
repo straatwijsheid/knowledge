@@ -1,0 +1,17 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

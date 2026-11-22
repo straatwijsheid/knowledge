@@ -1,0 +1,54 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Köpkeshof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "surname in a buurt of local priests and notables; individual not identified"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Beversestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Drogesestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Kolzinstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Mondsestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

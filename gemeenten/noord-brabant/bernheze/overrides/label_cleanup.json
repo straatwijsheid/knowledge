@@ -1,0 +1,17 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Bernheze",
+   "street": "Sint Servatiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Servatius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

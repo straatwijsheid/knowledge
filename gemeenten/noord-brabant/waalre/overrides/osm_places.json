@@ -1,0 +1,77 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Waalre",
+   "street": "Blokvenlaan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Blokven",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/85886142",
+   "notes": "Same-named OpenStreetMap feature 'Blokven' (natural=water) 866 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Heikantstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heikant",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42495028",
+   "notes": "Same-named OpenStreetMap feature 'Heikant' (place=hamlet) 793 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Lissevenlaan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Lisseven",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/1280190",
+   "notes": "Same-named OpenStreetMap feature 'Lisseven' (natural=water) 968 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Loon",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loon",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42504549",
+   "notes": "Same-named OpenStreetMap feature 'Loon' (place=hamlet) 0 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Molenvenlaan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Molenven",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/85869550",
+   "notes": "Same-named OpenStreetMap feature 'Molenven' (natural=water) 233 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Timmereind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Timmereind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42504176",
+   "notes": "Same-named OpenStreetMap feature 'Timmereind' (place=hamlet) 323 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

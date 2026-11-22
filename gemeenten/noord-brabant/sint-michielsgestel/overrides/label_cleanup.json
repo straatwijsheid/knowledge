@@ -1,0 +1,17 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Sint Lambertusweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

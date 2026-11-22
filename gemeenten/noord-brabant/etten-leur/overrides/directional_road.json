@@ -1,0 +1,101 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Attelakenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Attelaken",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Brandseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Brand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Bredaseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Hoevenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Oosteindseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oosteind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Roosendaalseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Roosendaal",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Sprundelsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sprundel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Zundertseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zundert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

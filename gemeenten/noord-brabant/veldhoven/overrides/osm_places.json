@@ -1,0 +1,137 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Veldhoven",
+   "street": "De Run",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Run",
+   "entity_description": "stream (OpenStreetMap waterway=stream); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/95455526",
+   "notes": "Same-named OpenStreetMap feature 'Run' (waterway=stream) 923 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Genderpad",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Gender",
+   "entity_description": "stream (OpenStreetMap waterway=stream); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/34391307",
+   "notes": "Same-named OpenStreetMap feature 'Gender' (waterway=stream) 100 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Genderstraat",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Gender",
+   "entity_description": "stream (OpenStreetMap waterway=stream); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/897748037",
+   "notes": "Same-named OpenStreetMap feature 'Gender' (waterway=stream) 83 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Half Mijl",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Halfmijl",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42573997",
+   "notes": "Same-named OpenStreetMap feature 'Halfmijl' (place=hamlet) 74 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Heers",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heers",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929221548",
+   "notes": "Same-named OpenStreetMap feature 'Heers' (place=hamlet) 163 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Hoogeind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoogeind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42601100",
+   "notes": "Same-named OpenStreetMap feature 'Hoogeind' (place=hamlet) 638 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Runstraat",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Run",
+   "entity_description": "stream (OpenStreetMap waterway=stream); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/95455474",
+   "notes": "Same-named OpenStreetMap feature 'Run' (waterway=stream) 404 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Scherpenering",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Scherpenering",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42634467",
+   "notes": "Same-named OpenStreetMap feature 'Scherpenering' (place=hamlet) 858 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Schoot",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Schoot",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6278351818",
+   "notes": "Same-named OpenStreetMap feature 'Schoot' (place=hamlet) 216 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Toterfout",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Toterfout",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681765",
+   "notes": "Same-named OpenStreetMap feature 'Toterfout' (place=hamlet) 300 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Zandoerle",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zandoerle",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/8450667412",
+   "notes": "Same-named OpenStreetMap feature 'Zandoerle' (place=hamlet) 162 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

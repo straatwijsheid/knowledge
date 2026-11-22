@@ -1,0 +1,89 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Oosterhout",
+   "street": "Groenendijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Groenendijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43398689",
+   "notes": "Same-named OpenStreetMap feature 'Groenendijk' (place=hamlet) 251 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Heistraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heistraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6355091929",
+   "notes": "Same-named OpenStreetMap feature 'Heistraat' (place=hamlet) 576 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Kromgatweg",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Kromgat",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/96160758",
+   "notes": "Same-named OpenStreetMap feature 'Kromgat' (natural=water) 109 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Markkanaalpad",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Markkanaal",
+   "entity_description": "canal (OpenStreetMap waterway=canal); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/17846492",
+   "notes": "Same-named OpenStreetMap feature 'Markkanaal' (waterway=canal) 729 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Paterserf",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Paterserf",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6354524991",
+   "notes": "Same-named OpenStreetMap feature 'Paterserf' (place=neighbourhood) 281 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Ter Aalst",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Teraalst",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43330734",
+   "notes": "Same-named OpenStreetMap feature 'Teraalst' (place=hamlet) 0 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Vrachelseheide",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vrachelse Heide",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/383256956",
+   "notes": "Same-named OpenStreetMap feature 'Vrachelse Heide' (leisure=nature_reserve) 412 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

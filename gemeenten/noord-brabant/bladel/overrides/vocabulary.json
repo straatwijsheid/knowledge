@@ -1,0 +1,65 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Bladel",
+   "street": "Brem",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Dr. A. Zijlmansstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Frans Bruursplein",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Klaverpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Vink",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Finch",
+   "entity_description": "Fringillidae; Dutch name 'vink'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

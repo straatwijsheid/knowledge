@@ -1,0 +1,34 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Rucphen",
+   "street": "Gradinastraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Thornerstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Wittenburg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

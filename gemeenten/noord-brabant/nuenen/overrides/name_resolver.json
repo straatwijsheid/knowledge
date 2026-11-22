@@ -1,0 +1,101 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Nuenen",
+   "street": "Brouwersveld",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 6 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.509, margin 0.214)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Dalkruiddreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Maianthemum bifolium",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 1 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.6, margin 0.2)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "De Rietmussen",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Reed",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.5, margin 0.5)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Gerwensedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gerwen",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.66, margin 0.347)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Heuvelakkers",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.788, margin 0.788)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Kastanjelaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Chestnut",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 47 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.586, margin 0.36)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Stadse Kanaaldijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.795, margin 0.795)"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Sterrenlaan",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'astronomy' backed by 6 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.535, margin 0.276)"
+  }
+ ]
+}

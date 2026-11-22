@@ -1,0 +1,65 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Breda",
+   "street": "Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Ignatiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Ignatius of Loyola",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Josephstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Laurenslaan",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lawrence",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Breda",
+   "street": "Sint Maartenstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

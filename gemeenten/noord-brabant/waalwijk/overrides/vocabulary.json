@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Waalwijk",
+   "street": "Frieslandstraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Friesland",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Jan Witloxstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Van de Werkenstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Van der Hammenstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  }
+ ]
+}

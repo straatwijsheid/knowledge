@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Baars",
+   "category": "thing",
+   "subcategory": "fauna_fish",
+   "entity_label": "European perch",
+   "entity_description": "Perca fluviatilis; Dutch name 'baars'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Christinaweg",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Christina",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Eekhoorn",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Red squirrel",
+   "entity_description": "Sciurus vulgaris; Dutch name 'eekhoorn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Hazenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Hare",
+   "entity_description": "Lepus europaeus; Dutch name 'hazen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Jeneverbes",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Juniper",
+   "entity_description": "Juniperus communis; Dutch name 'jeneverbes'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Jonker Marcus van Gerwenlaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Jonker Willem van Oetelaarstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Klaverpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Sint-Martenstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Marten",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

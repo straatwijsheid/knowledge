@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Boekweitstraatje",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Buckwheat",
+   "entity_description": "Fagopyrum esculentum; Dutch name 'boekweit'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Hermelijnlaan",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Stoat (ermine)",
+   "entity_description": "Mustela erminea; Dutch name 'hermelijn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Rozenpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Rose",
+   "entity_description": "Rosa; Dutch name 'rozen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Van Mattenburgstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  }
+ ]
+}

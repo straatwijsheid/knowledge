@@ -1,0 +1,89 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Bergeijk",
+   "street": "Borkelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Borkel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Bredasedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Broekhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Broekhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Eerselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eersel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Loonsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Loon op Zand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Loverensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Loveren",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Veldhovensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veldhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Boekel",
+   "street": "Koolzaad",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Rapeseed",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_food' backed by 4 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.53, margin 0.213)"
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Millseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Mill",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.619, margin 0.378)"
+  }
+ ]
+}

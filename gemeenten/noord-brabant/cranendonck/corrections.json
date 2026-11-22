@@ -1,0 +1,37 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Cranendonck",
+   "street": "Oranje Nassaulaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "a royal house is filed as the kind 'monarch_statesman'; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Romeinsestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "named after Rome (Wikidata Q220): the Budel buurt names roads after European places and rivers (Duitsestraat, Brusselsestraat, Luxemburgsestraat, Utrechtsestraat, Seinestraat, Moezelstraat, Rijnstraat); the OSM etymology tag on one way was corrected to Q220 by the OSM contributor on 2026-11-21 (the other way still says Romain Rolland, Q47162)",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Philipsweg",
+   "category": "thing",
+   "subcategory": "organization",
+   "entity_label": "Philips (company)",
+   "entity_description": "Koninklijke Philips N.V., Dutch electronics company headquartered in Eindhoven (Wikidata Q170416)",
+   "confidence": 0.5,
+   "reason": "local-knowledge inference by the project owner: the road in Maarheeze heads to the A2 and connects to the Eindhovenseweg, i.e. toward Eindhoven where Philips was headquartered (Strijp), and the buurt is an industrial estate (Den Engelsman/Rondven); an inference, not a documented naming record",
+   "from_osm": true
+  }
+ ]
+}

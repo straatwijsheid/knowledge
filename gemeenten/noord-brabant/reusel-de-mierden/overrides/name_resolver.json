@@ -1,0 +1,65 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Bakkerstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Bakker (baker)",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.515, margin 0.314)"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Hoevense Akker",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 9 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.645, margin 0.407)"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Merellaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Blackbird",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 25 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.527, margin 0.233)"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Raamloop",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Raamloop",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'river' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.666, margin 0.666)"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Schootseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schoot",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.609, margin 0.318)"
+  }
+ ]
+}

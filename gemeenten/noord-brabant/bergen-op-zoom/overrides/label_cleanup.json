@@ -1,0 +1,41 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Sint Maartensplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Sint-Antoniusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Sint-Catharinaplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Catherine",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

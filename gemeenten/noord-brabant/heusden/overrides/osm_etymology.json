@@ -1,0 +1,65 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Heusden",
+   "street": "Amerikalaan",
+   "category": "place",
+   "subcategory": "country",
+   "entity_label": "Americas",
+   "entity_description": "North America and South America taken together as a single continent or landmass",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q828",
+   "notes": "OpenStreetMap wikidata P138: Q828"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Burgemeester Snelsstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Antoon Snels",
+   "entity_description": "Dutch politician",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q40165534",
+   "notes": "OpenStreetMap wikidata P138: Q40165534"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Willem Alexanderstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Willem-Alexanderlaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Willem-Alexanderstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

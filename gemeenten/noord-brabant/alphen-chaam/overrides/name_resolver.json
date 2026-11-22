@@ -1,0 +1,137 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Baarlesebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baarle-Nassau",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.703, margin 0.396)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Chaamse Dreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Chaam",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 5 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.68, margin 0.68)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "De Leeuwerik",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Skylark",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 30 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.899, margin 0.84)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Dijks Baantje",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.778, margin 0.778)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Fazantenpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Pheasant",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 4 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.505, margin 0.211)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Hogeweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoge Wal",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.611, margin 0.482)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Kleipad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.747, margin 0.747)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Konijnenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Rabbit",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna_mammal' backed by 0 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.52, margin 0.52)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Kruisbaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kruisstraat",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.721, margin 0.657)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Lijsterpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Thrush",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 29 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.517, margin 0.236)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Looiersweg",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.587, margin 0.32)"
+  }
+ ]
+}

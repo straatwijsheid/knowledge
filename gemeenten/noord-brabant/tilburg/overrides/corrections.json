@@ -1,0 +1,65 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Tilburg",
+   "street": "Abdijlaan",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: the label repeated the street name"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Diepenstraat",
+   "category": "person",
+   "subcategory": "artist_visual",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: buurt Schildersbuurt Noord names painters; individual not identified"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Essenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Ash",
+   "entity_description": "Fraxinus excelsior; Dutch name 'es' (plural 'essen')",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: the buurt names trees and flowers; 'essen' are ash trees"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Limbastraat",
+   "category": "thing",
+   "subcategory": "wood_type",
+   "entity_label": "Limba",
+   "entity_description": "Tropical timber (Terminalia superba); the buurt (Notre Dame) names tropical woods",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched a Romanian village"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Sint Eustatiusstraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Sint Eustatius",
+   "entity_description": "island in the Caribbean, part of the Netherlands",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q26180",
+   "notes": "Reviewed correction: the buurt (Goirke Noord) is named after the Dutch Antilles (Aruba, Bonaire, Curaçao, Saba); the island, not a saint"
+  }
+ ]
+}

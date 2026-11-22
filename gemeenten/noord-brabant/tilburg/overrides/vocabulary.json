@@ -1,0 +1,149 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Tilburg",
+   "street": "Cederpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Cedar",
+   "entity_description": "Cedrus; Dutch name 'ceder'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Eekhoornpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Red squirrel",
+   "entity_description": "Sciurus vulgaris; Dutch name 'eekhoorn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Hazendreef",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Hare",
+   "entity_description": "Lepus europaeus; Dutch name 'hazen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Hermelijnpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Stoat (ermine)",
+   "entity_description": "Mustela erminea; Dutch name 'hermelijn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Magnoliaerf",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Magnolia",
+   "entity_description": "Magnolia; Dutch name 'magnolia'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Marterpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Marten",
+   "entity_description": "Martes; Dutch name 'marter'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Peter Panhuijzenplein",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Sint Michaëlspad",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Michael",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Snoekstraat",
+   "category": "thing",
+   "subcategory": "fauna_fish",
+   "entity_label": "Pike",
+   "entity_description": "Esox lucius; Dutch name 'snoek'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Van Diedeghemstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Wilgenpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Willow",
+   "entity_description": "Salix; Dutch name 'wilgen'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Tilburg",
+   "street": "Willemsplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Dutch King Willem",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

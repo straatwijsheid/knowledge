@@ -1,0 +1,29 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Sint Jacobsstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint James",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Sint Janstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

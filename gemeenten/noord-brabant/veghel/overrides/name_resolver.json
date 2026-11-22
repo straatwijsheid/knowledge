@@ -1,0 +1,161 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Veghel",
+   "street": "Akeleistraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Columbine",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 6 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.698, margin 0.314)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Antoniushofje",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'religious' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.497, margin 0.308)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Burgemeester de Kuijperlaan",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mayor_local' backed by 0 classified streets elsewhere, rules ['title_pattern']; neighbours in the buurt/wijk fit it (score 0.496, margin 0.24)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "De Mondriaan",
+   "category": "person",
+   "subcategory": "artist_visual",
+   "entity_label": "Piet Mondrian",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'artist_visual' backed by 7 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.662, margin 0.519)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Eekhoornweide",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Red squirrel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna_mammal' backed by 10 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.656, margin 0.267)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Eikensteeg",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Oak",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 46 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.515, margin 0.238)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Hazelbergsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hazelberg",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 1 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.608, margin 0.265)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Korte Kerkstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.585, margin 0.585)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Meijerijstraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Meierij",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.535, margin 0.419)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Narcisstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Daffodil",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.774, margin 0.375)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Peellandstraat",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Peelland",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 9 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.476, margin 0.35)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Reigerdonk",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Heron",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.856, margin 0.856)"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Steegje",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.457, margin 0.239)"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Hertenkampstraat",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Deer",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.766, margin 0.766)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Hooghuis",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.511, margin 0.287)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "IJsvogel",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Kingfisher",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 10 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.683, margin 0.298)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Korte Kerkstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.538, margin 0.538)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Munnikenakker",
+   "category": "thing",
+   "subcategory": "religious_order",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'religious_order' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.479, margin 0.273)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Nansenstraat",
+   "category": "person",
+   "subcategory": "explorer",
+   "entity_label": "Fridtjof Nansen",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'explorer' backed by 2 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.686, margin 0.405)"
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Pimpelmees",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Blue tit",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 1 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.821, margin 0.372)"
+  }
+ ]
+}

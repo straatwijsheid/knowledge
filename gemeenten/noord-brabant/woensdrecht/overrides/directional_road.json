@@ -1,0 +1,41 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Antwerpsestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Antwerp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Bossestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Ossendrechtseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Ossendrecht",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

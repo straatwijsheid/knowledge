@@ -1,0 +1,41 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Veldhoven",
+   "street": "Burgemeester van Hoofflaan",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Albertus van Hooff",
+   "entity_description": "Dutch politician (1891-1951)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q2402351",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q2402351"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Willem-Alexandererf",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  },
+  {
+   "gemeente": "Veldhoven",
+   "street": "Willem-Alexanderstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

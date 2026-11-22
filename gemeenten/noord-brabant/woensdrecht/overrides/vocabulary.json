@@ -1,0 +1,65 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Klaverpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Rozenlaan",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Rose",
+   "entity_description": "Rosa; Dutch name 'rozen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Schaepmanstraat",
+   "category": "person",
+   "subcategory": "writer_poet",
+   "entity_label": "Herman Schaepman",
+   "entity_description": "Writer or poet",
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Sint Lucasplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Luke",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Vos",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vos'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

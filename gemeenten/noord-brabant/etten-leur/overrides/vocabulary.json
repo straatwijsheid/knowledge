@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Berkenveld",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Palmstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Palm",
+   "entity_description": "Arecaceae; Dutch name 'palm'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Stuiverpad",
+   "category": "thing",
+   "subcategory": "currency",
+   "entity_label": "Stuiver",
+   "entity_description": "Coin or currency",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Zeemanhof",
+   "category": "person",
+   "subcategory": "scientist",
+   "entity_label": "Pieter Zeeman",
+   "entity_description": "Scientist or inventor",
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

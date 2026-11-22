@@ -1,0 +1,173 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Alphensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Alphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Alphenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Alphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Bavelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bavel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Bredasedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Chaamseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Chaam",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Dongenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Dongen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Heikantsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Hultenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hulten",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Molenschotsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Molenschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Molenschotsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Molenschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Oosterhoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oosterhout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Rielsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Riel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Rijenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Rijen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Tilburgsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

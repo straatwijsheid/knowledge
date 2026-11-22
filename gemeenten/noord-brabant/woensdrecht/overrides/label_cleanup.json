@@ -1,0 +1,41 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Sint Dionysiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Denis",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Sint Martijnsweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Sint-Lucasplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Luke",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

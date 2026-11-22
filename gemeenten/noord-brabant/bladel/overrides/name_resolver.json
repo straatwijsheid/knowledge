@@ -1,0 +1,125 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Bladel",
+   "street": "Amalialaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.619, margin 0.514)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Ambachtsweg",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "craft",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.543, margin 0.272)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "De Brouwerstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Brewer",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 9 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.539, margin 0.357)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "De Mulder",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Mulder",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.499, margin 0.33)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Eerselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eersel",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.547, margin 0.23)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Het Vonderke",
+   "category": "thing",
+   "subcategory": "local_landmark",
+   "entity_label": "'t Vonderke",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.517, margin 0.302)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Maximalaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.613, margin 0.507)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Oranjehof",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "House of Orange",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 42 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.667, margin 0.534)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Padakkers",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.664, margin 0.664)"
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Pastoor Danielpad",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'religious' backed by 0 classified streets elsewhere, rules ['title_pattern']; neighbours in the buurt/wijk fit it (score 0.474, margin 0.224)"
+  }
+ ]
+}

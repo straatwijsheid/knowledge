@@ -1,0 +1,173 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Moerdijk",
+   "street": "Bloedkoraal",
+   "category": "thing",
+   "subcategory": "mineral",
+   "entity_label": "red coral",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mineral' backed by 1 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.819, margin 0.357)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "De Havengang",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.598, margin 0.598)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Dorsvlegel",
+   "category": "thing",
+   "subcategory": "technology_term",
+   "entity_label": "Dorsvlegel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'technology_term' backed by 7 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.689, margin 0.434)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Esdoornpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Maple",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 45 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.628, margin 0.357)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Havenhoofd",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.467, margin 0.282)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Kapucijnenstraat",
+   "category": "thing",
+   "subcategory": "religious_order",
+   "entity_label": "Kapucijnen",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'religious_order' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.471, margin 0.234)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Kruisput",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.658, margin 0.658)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Looierij",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tannery",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 6 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.729, margin 0.382)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Moerdijkbrug",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.513, margin 0.23)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Noordrand",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.882, margin 0.882)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Onyx",
+   "category": "thing",
+   "subcategory": "mineral",
+   "entity_label": "Onyx",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mineral' backed by 2 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.83, margin 0.379)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Schapenweg",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Sheep",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.647, margin 0.45)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Wieken",
+   "category": "thing",
+   "subcategory": "technology_term",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'technology_term' backed by 6 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.471, margin 0.271)"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Wielewaalweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Golden oriole",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 14 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.622, margin 0.322)"
+  }
+ ]
+}

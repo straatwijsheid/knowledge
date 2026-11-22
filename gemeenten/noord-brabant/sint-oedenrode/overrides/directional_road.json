@@ -1,0 +1,173 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Bestseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Best",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Boskantseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boskant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Boxtelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boxtel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Eerschotsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eerschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Liempdseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Liempde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Lieshoutsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lieshout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Lieshoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lieshout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Nijnselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nijnsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Ollandseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Olland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Schijndelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schijndel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Schootsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schoot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Sonseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Son",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Veghelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veghel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Zijtaartseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zijtaart",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Baarschotsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baarschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Beekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Beek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Diessenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Diessen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Esbeeksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Esbeek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Esbeekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Esbeek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Goirlesedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Goirle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Hoogeindsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoogeind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Moergestelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Moergestel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Oirschotsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oirschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

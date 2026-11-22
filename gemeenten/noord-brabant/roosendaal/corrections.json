@@ -1,0 +1,34 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "Maïsberg",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Maize",
+   "entity_description": "Zea mays; the buurt (Weihoek-Oost) names plants and animals with '-berg'",
+   "confidence": 0.5,
+   "reason": "Wikidata matched an Austrian mountain"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Mill Hillplein",
+   "category": "thing",
+   "subcategory": "religious_order",
+   "entity_label": "Mill Hill Missionaries",
+   "entity_description": "Catholic missionary society",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a district in South Africa"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Ravensteinlaan",
+   "category": "place",
+   "subcategory": "castle_estate",
+   "entity_label": "Ravenstein",
+   "entity_description": "Castle and town in North Brabant; the buurt (Landerije) names castles",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German municipality"
+  }
+ ]
+}

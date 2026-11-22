@@ -1,0 +1,149 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Schijndel",
+   "street": "Boogschutter",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": "Sagittarius",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'astronomy' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.676, margin 0.284)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Broekseweg",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Broekse Weel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'river' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.62, margin 0.391)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Debussystraat",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": "Claude Debussy",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'musician_composer' backed by 6 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.778, margin 0.606)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Dennensteeg",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 31 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.507, margin 0.204)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Distelpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Thistle",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 9 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.646, margin 0.337)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Eenhoorn",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": "Eenhoorn",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'astronomy' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.743, margin 0.328)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Hopbelpad",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Hop cone",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.693, margin 0.357)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Hopveldpad",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Hop",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.879, margin 0.879)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Planetenlaan",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": "Planets",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'astronomy' backed by 7 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.808, margin 0.428)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Schubertpad",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": "Franz Schubert",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'musician_composer' backed by 22 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.814, margin 0.663)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Verdipad",
+   "category": "person",
+   "subcategory": "musician_composer",
+   "entity_label": "Giuseppe Verdi",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'musician_composer' backed by 19 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.844, margin 0.679)"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Weegschaal",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": "Libra",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'astronomy' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.784, margin 0.381)"
+  }
+ ]
+}

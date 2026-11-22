@@ -1,0 +1,149 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Deurne",
+   "street": "Baarschotseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baarschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Bakelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bakel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Deurneseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Deurne",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Hazeldonkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hazeldonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Helmondseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Helmond",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Liesselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Liessel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Neerkantseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Neerkant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Veghelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veghel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Vlierdensedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vlierden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Vlierdenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vlierden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Walsbergseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Walsberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Zeilbergsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zeilberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Laarbeek",
+   "street": "Beverstraat",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Beaver",
+   "entity_description": "Castor fiber; Dutch name 'bever'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "De Vinken",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Finch",
+   "entity_description": "Fringillidae; Dutch name 'vinken'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Gerstveld",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Barley",
+   "entity_description": "Hordeum vulgare; Dutch name 'gerst'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Haverkamp",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Oats",
+   "entity_description": "Avena sativa; Dutch name 'haver'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Hendrik van Herenthalslaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Hermelijnstraat",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Stoat (ermine)",
+   "entity_description": "Mustela erminea; Dutch name 'hermelijn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Jonker Karellaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Mimosaplantsoen",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Mimosa",
+   "entity_description": "Mimosa; Dutch name 'mimosa'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Oranjeplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "House of Orange",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Puttershoek",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Goldfinch",
+   "entity_description": "Carduelis carduelis; Dutch name 'putter'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Laarbeek",
+   "street": "Vinkenplein",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Finch",
+   "entity_description": "Fringillidae; Dutch name 'vinken'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

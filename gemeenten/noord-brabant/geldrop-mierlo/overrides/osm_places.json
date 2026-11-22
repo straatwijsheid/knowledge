@@ -1,0 +1,149 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "De Loo",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Loo",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4788607752",
+   "notes": "Same-named OpenStreetMap feature 'De Loo' (place=hamlet) 523 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Ganzewinkel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Ganzewinkel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2686511835",
+   "notes": "Same-named OpenStreetMap feature 'Ganzewinkel' (place=hamlet) 425 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Genoenhuis",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Genoenhuis",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2841966270",
+   "notes": "Same-named OpenStreetMap feature 'Genoenhuis' (place=neighbourhood) 365 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Gijzenrooi",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Gijzenrooi",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5868643203",
+   "notes": "Same-named OpenStreetMap feature 'Gijzenrooi' (place=hamlet) 331 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Heiderschoor",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heiderschoor",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5768556536",
+   "notes": "Same-named OpenStreetMap feature 'Heiderschoor' (place=hamlet) 444 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Kerkakkers",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kerkakkers",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2681408237",
+   "notes": "Same-named OpenStreetMap feature 'Kerkakkers' (place=neighbourhood) 41 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Luchen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Luchen",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2681408240",
+   "notes": "Same-named OpenStreetMap feature 'Luchen' (place=neighbourhood) 106 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Overakker",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Overakker",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5768548900",
+   "notes": "Same-named OpenStreetMap feature 'Overakker' (place=hamlet) 51 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Papenvoort",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Papenvoort",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2841966274",
+   "notes": "Same-named OpenStreetMap feature 'Papenvoort' (place=neighbourhood) 129 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Stepekolk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Stepekolk",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2681417830",
+   "notes": "Same-named OpenStreetMap feature 'Stepekolk' (place=neighbourhood) 530 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Trimpert",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Trimpert",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4788608558",
+   "notes": "Same-named OpenStreetMap feature 'Trimpert' (place=hamlet) 261 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Geldrop-Mierlo",
+   "street": "Voortje",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Voortje",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5391694437",
+   "notes": "Same-named OpenStreetMap feature 'Voortje' (place=hamlet) 690 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

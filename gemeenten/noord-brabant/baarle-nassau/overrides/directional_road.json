@@ -1,0 +1,65 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Alphenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Alphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Bredaseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Chaamseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Chaam",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Heikantsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Wildertsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wildert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

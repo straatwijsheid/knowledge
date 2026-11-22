@@ -1,0 +1,77 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Driehoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Driehoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2859646042",
+   "notes": "Same-named OpenStreetMap feature 'Driehoek' (place=hamlet) 254 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Eind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42894982",
+   "notes": "Same-named OpenStreetMap feature 'Eind' (place=hamlet) 280 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Olen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Olen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5868664507",
+   "notes": "Same-named OpenStreetMap feature 'Olen' (place=hamlet) 172 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Sonniuswijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Sonniuswijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42920815",
+   "notes": "Same-named OpenStreetMap feature 'Sonniuswijk' (place=hamlet) 502 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Stad van Gerwen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Stad van Gerwen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/107228308",
+   "notes": "Same-named OpenStreetMap feature 'Stad van Gerwen' (place=hamlet) 128 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Wolfswinkel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Wolfswinkel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6913600572",
+   "notes": "Same-named OpenStreetMap feature 'Wolfswinkel' (place=hamlet) 61 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

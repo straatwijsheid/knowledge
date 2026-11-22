@@ -1,0 +1,14 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Oester",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Oyster",
+   "entity_description": "Ostreidae; the buurt (Bergse Plaat) names sea life",
+   "confidence": 0.5,
+   "reason": "Wikidata matched a German river"
+  }
+ ]
+}

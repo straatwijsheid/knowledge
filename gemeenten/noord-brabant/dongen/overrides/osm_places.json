@@ -1,0 +1,41 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Dongen",
+   "street": "Aakpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Aakpark",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/14071354",
+   "notes": "Same-named OpenStreetMap feature 'Aakpark' (leisure=park) 38 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Laagstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Laagstraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6270154955",
+   "notes": "Same-named OpenStreetMap feature 'Laagstraat' (place=hamlet) 130 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Vaartweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vaart",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43354351",
+   "notes": "Same-named OpenStreetMap feature 'Vaart' (place=hamlet) 483 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

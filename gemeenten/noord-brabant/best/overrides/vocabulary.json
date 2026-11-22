@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Best",
+   "street": "De Leeuwerikstraat",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Skylark",
+   "entity_description": "Alauda arvensis; Dutch name 'leeuwerik'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Best",
+   "street": "Goudenregen",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Laburnum (golden rain)",
+   "entity_description": "Laburnum anagyroides; Dutch name 'goudenregen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Best",
+   "street": "Oranjepad",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "House of Orange",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Best",
+   "street": "Sint Franciscusweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Francis",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Alphonsusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Alphonsus Liguori",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Jansstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Josephstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Lucasplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Luke",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Theresiastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Teresa",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

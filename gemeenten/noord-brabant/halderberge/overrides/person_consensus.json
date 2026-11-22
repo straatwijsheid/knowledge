@@ -1,0 +1,17 @@
+{
+ "layer": "person_consensus",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Churchillstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Winston Churchill",
+   "entity_description": "Chosen because the buurt 'Oudenbosch-Centrum' has 2 other streets named after the same kind of person; other gemeenten' same-named streets agree",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Buurt-theme supported classification"
+  }
+ ]
+}

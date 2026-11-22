@@ -1,0 +1,89 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Achterste Brug",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Achterste Brug",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681742",
+   "notes": "Same-named OpenStreetMap feature 'Achterste Brug' (place=hamlet) 218 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Bruggerhuizen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Bruggerhuizen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42375022",
+   "notes": "Same-named OpenStreetMap feature 'Bruggerhuizen' (place=hamlet) 299 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Deelshurk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Deelshurk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42416616",
+   "notes": "Same-named OpenStreetMap feature 'Deelshurk' (place=hamlet) 158 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Geenhoven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Geenhoven",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6515711232",
+   "notes": "Same-named OpenStreetMap feature 'Geenhoven' (place=neighbourhood) 370 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Hoge Akkers",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoge Akkers",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6515711230",
+   "notes": "Same-named OpenStreetMap feature 'Hoge Akkers' (place=neighbourhood) 401 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Klein Borkel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Klein Borkel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42344923",
+   "notes": "Same-named OpenStreetMap feature 'Klein Borkel' (place=hamlet) 291 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Kleine Meerlaan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Kleine Meer",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/1287502",
+   "notes": "Same-named OpenStreetMap feature 'Kleine Meer' (natural=water) 236 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

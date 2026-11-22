@@ -1,0 +1,65 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Uden",
+   "street": "Brabantplein",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Brabant",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Egelweg",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Hedgehog",
+   "entity_description": "Erinaceus europaeus; Dutch name 'egel'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Karperdijk",
+   "category": "thing",
+   "subcategory": "fauna_fish",
+   "entity_label": "Carp",
+   "entity_description": "Cyprinus carpio; Dutch name 'karper'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Sint Janstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Willemstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Dutch King Willem",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

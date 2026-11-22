@@ -1,0 +1,101 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Waalre",
+   "street": "Burgemeester Uijenstraat",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mayor_local' backed by 0 classified streets elsewhere, rules ['title_pattern']; neighbours in the buurt/wijk fit it (score 0.47, margin 0.205)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Burgemeester van Dommelenlaan",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'mayor_local' backed by 0 classified streets elsewhere, rules ['title_pattern']; neighbours in the buurt/wijk fit it (score 0.498, margin 0.234)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Dahliapad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Dahlia",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 24 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.812, margin 0.413)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "De Bus",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.501, margin 0.268)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Dommelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.585, margin 0.259)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Elzenstraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Alder",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 31 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.51, margin 0.226)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Petuniahof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Petunia",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 6 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.814, margin 0.413)"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Ranonkelpad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Buttercup",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.724, margin 0.334)"
+  }
+ ]
+}

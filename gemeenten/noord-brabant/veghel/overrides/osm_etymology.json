@@ -1,0 +1,65 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Veghel",
+   "street": "Jan van Galenstraat",
+   "category": "person",
+   "subcategory": "military_naval_or_politician",
+   "entity_label": "Johan van Galen",
+   "entity_description": "Dutch admiral",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q71734",
+   "notes": "OpenStreetMap wikidata P138: Q71734"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Monseigneur Nolenslaan",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Willem Hubert Nolens",
+   "entity_description": "Dutch politician (1860-1931)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q944997",
+   "notes": "OpenStreetMap wikidata P138: Q944997"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Piet Heinstraat",
+   "category": "person",
+   "subcategory": "military_naval_or_politician",
+   "entity_label": "Piet Pieterszoon Hein",
+   "entity_description": "Dutch admiral (1578-1629)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q560774",
+   "notes": "OpenStreetMap wikidata P138: Q560774"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Prins Willem Alexander Sportpark",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Wilhelminahof",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Wilhelmina of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1890 to 1948 (1880-1962)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q150747",
+   "notes": "OpenStreetMap wikidata P138: Q150747"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Bergeijk",
+   "street": "Merellaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common Blackbird",
+   "entity_description": "species of thrush",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q25234",
+   "notes": "OpenStreetMap wikidata P138: Q25234"
+  }
+ ]
+}

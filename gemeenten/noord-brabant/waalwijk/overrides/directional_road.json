@@ -1,0 +1,77 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Waalwijk",
+   "street": "Baardwijksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Baardwijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Besoyensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Besoyen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Loonsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Loon op Zand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Sprangseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sprang",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Waspiksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Waspik",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

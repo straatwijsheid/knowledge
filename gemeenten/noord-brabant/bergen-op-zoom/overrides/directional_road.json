@@ -1,0 +1,89 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Antwerpsestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Antwerp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Bredasestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Groenewoudseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Groenewoud",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Heerlesebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heerle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Lepelstraatseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lepelstraat",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Wouwsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wouw",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Bergen op Zoom",
+   "street": "Wouwseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wouw",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

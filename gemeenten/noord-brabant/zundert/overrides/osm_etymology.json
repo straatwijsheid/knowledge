@@ -1,0 +1,17 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Zundert",
+   "street": "H. Roland Holstlaan",
+   "category": "person",
+   "subcategory": "writer_poet",
+   "entity_label": "Henriette Roland Holst",
+   "entity_description": "Dutch politician, editor (1869-1952)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q441439",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q441439"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Deurne",
+   "street": "Appeldijk",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Apple",
+   "entity_description": "Malus domestica; Dutch name 'appel'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Bremweg",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Buizerdweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common buzzard",
+   "entity_description": "Buteo buteo; Dutch name 'buizerd'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Eikendreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Oak",
+   "entity_description": "Quercus; Dutch name 'eik'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Haverweg",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Oats",
+   "entity_description": "Avena sativa; Dutch name 'haver'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Klaverweg",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Roggeweg",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Rye",
+   "entity_description": "Secale cereale; Dutch name 'rogge'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Antonius Abt Hof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Vincentiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Vincent",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

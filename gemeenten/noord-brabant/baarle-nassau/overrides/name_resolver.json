@@ -1,0 +1,65 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Christinastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Christina",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 15 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.649, margin 0.493)"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Kwartelpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common quail",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 13 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.706, margin 0.425)"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Oosteinde",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.468, margin 0.282)"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Voorakker",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Voordijk",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.641, margin 0.315)"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Weverstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Wever (weaver)",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 14 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.684, margin 0.581)"
+  }
+ ]
+}

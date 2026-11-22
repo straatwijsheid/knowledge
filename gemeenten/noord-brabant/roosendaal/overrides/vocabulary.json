@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "Koekoekpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Cuckoo",
+   "entity_description": "Cuculus canorus; Dutch name 'koekoek'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Marterdreef",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Marten",
+   "entity_description": "Martes; Dutch name 'marter'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Sint Franciscusweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Francis",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Vossendreef",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vossen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

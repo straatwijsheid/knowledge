@@ -1,0 +1,149 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Brakkenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Brakkenstraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43000291",
+   "notes": "Same-named OpenStreetMap feature 'Brakkenstraat' (place=hamlet) 135 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Elisabethpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Elisabethpark",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/617531667",
+   "notes": "Same-named OpenStreetMap feature 'Elisabethpark' (leisure=park) 69 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Haansberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Haansberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43118535",
+   "notes": "Same-named OpenStreetMap feature 'Haansberg' (place=hamlet) 704 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Klappenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Klappenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42969823",
+   "notes": "Same-named OpenStreetMap feature 'Klappenberg' (place=hamlet) 291 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Lage Donk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lage Donk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43117139",
+   "notes": "Same-named OpenStreetMap feature 'Lage Donk' (place=hamlet) 123 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Oderkerkpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Oderkerkpark",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/620943371",
+   "notes": "Same-named OpenStreetMap feature 'Oderkerkpark' (leisure=park) 131 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Sander",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Sander",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43137726",
+   "notes": "Same-named OpenStreetMap feature 'Sander' (place=hamlet) 486 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Slagveld",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Slagveld",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43144000",
+   "notes": "Same-named OpenStreetMap feature 'Slagveld' (place=hamlet) 484 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Trivium",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Trivium",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7056758499",
+   "notes": "Same-named OpenStreetMap feature 'Trivium' (place=locality) 94 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Vosdonk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vosdonk",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7056793406",
+   "notes": "Same-named OpenStreetMap feature 'Vosdonk' (place=locality) 684 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Vossendaal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vossendaal",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7056793405",
+   "notes": "Same-named OpenStreetMap feature 'Vossendaal' (place=locality) 286 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Etten-Leur",
+   "street": "Zandspui",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zandspui",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9115120981",
+   "notes": "Same-named OpenStreetMap feature 'Zandspui' (place=hamlet) 616 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

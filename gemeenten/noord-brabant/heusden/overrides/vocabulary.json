@@ -1,0 +1,77 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Heusden",
+   "street": "Aardbei",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Strawberry",
+   "entity_description": "Fragaria; Dutch name 'aardbei'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Dennestraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'denne'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Marconilaan",
+   "category": "person",
+   "subcategory": "scientist",
+   "entity_label": "Guglielmo Marconi",
+   "entity_description": "Scientist or inventor",
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Sint Catharinastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Catherine",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Sint Crispijnstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Crispin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "layer": "species",
+ "overrides": [
+  {
+   "gemeente": "Deurne",
+   "street": "Zilveren Maan",
+   "category": "thing",
+   "subcategory": "fauna_butterfly",
+   "entity_label": "Silver moon (butterfly)",
+   "entity_description": "Zilveren maan; Dutch name 'zilveren maan'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

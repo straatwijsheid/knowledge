@@ -1,0 +1,29 @@
+{
+ "layer": "same_name_harmonise",
+ "overrides": [
+  {
+   "gemeente": "Waalwijk",
+   "street": "Europaplein",
+   "category": "place",
+   "subcategory": "country",
+   "entity_label": "Europe",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (6/7 agree on 'place'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Markt",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (25/33 agree on 'local'); the street's own buurt gave no support for a different reading"
+  }
+ ]
+}

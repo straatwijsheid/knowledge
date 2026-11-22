@@ -1,0 +1,113 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Schijndel",
+   "street": "Boxtelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boxtel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Dinthersedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Dinther",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Dungensesteeg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Den Dungen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Eerdsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eerde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Hoevenbraaksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoevenbraak",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Ollandseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Olland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Schootsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schoot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Veghelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veghel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Vossenbergsesteeg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vossenberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

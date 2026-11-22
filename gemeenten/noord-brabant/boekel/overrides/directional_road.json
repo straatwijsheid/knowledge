@@ -1,0 +1,53 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Boekel",
+   "street": "Erpseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Erp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Gemertseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gemert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Volkelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Volkel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Wanroijseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wanroij",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

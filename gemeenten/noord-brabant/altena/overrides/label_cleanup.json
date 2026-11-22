@@ -1,0 +1,29 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Altena",
+   "street": "Sint Elisabethstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Elizabeth",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Altena",
+   "street": "Sint Ignatiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Ignatius of Loyola",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

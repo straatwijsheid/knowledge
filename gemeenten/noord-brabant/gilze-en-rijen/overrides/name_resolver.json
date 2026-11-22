@@ -1,0 +1,125 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Achter de Tuintjes",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.603, margin 0.603)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Beelstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.56, margin 0.291)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Dahliaveld",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Dahlia",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 24 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.498, margin 0.405)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Dreesstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.558, margin 0.227)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Klein Oosterhout",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.871, margin 0.871)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Laareindse Loop",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.725, margin 0.725)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Maastrichtsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Maastricht",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.677, margin 0.625)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Mauritsweg",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Maurice of Orange",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 18 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.483, margin 0.249)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Steenovensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Steenoven",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 2 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.793, margin 0.793)"
+  },
+  {
+   "gemeente": "Gilze en Rijen",
+   "street": "Wilhelminaplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 76 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.592, margin 0.356)"
+  }
+ ]
+}

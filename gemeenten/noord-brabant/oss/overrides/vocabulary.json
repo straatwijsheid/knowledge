@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Oss",
+   "street": "Jan Wertenbroekstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Johannes Vriezekolkstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Tulpstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Tulip",
+   "entity_description": "Tulipa; Dutch name 'tulp'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Voskamp",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vos'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

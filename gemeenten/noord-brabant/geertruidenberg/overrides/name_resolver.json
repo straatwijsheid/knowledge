@@ -1,0 +1,101 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Frederik Hendrik wal",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Frederick Henry of Orange",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.549, margin 0.256)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Hoge Veer",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.544, margin 0.544)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Hoge donk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.596, margin 0.596)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Spoorhaven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.487, margin 0.345)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Thorbecke singel",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Johan Rudolph Thorbecke",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 16 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.546, margin 0.378)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Touwslager",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Rope-maker",
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.468, margin 0.308)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Vlet",
+   "category": "thing",
+   "subcategory": "vessel_type",
+   "entity_label": "punt",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'vessel_type' backed by 2 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.521, margin 0.402)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Zoutmanstraat",
+   "category": "person",
+   "subcategory": "military_naval_or_politician",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'military_naval_or_politician' backed by 6 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.498, margin 0.302)"
+  }
+ ]
+}

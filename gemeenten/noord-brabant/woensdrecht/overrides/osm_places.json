@@ -1,0 +1,149 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Aanwas",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Aanwas",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5311741763",
+   "notes": "Same-named OpenStreetMap feature 'Aanwas' (place=hamlet) 446 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Calfven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Calfven",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42554213",
+   "notes": "Same-named OpenStreetMap feature 'Calfven' (place=hamlet) 367 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "De Gloriëtte",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Gloriëtte",
+   "entity_description": "natural=hill (OpenStreetMap natural=hill); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/345788045",
+   "notes": "Same-named OpenStreetMap feature 'De Gloriëtte' (natural=hill) 1 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Eiland",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eiland",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42599185",
+   "notes": "Same-named OpenStreetMap feature 'Eiland' (place=hamlet) 807 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Eilandpad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eiland",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42599185",
+   "notes": "Same-named OpenStreetMap feature 'Eiland' (place=hamlet) 450 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Geldbergdreef",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Geldberg",
+   "entity_description": "natural=hill (OpenStreetMap natural=hill); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/2077837729",
+   "notes": "Same-named OpenStreetMap feature 'Geldberg' (natural=hill) 187 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Kraaienbergpad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kraaienberg",
+   "entity_description": "natural=hill (OpenStreetMap natural=hill); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/8119317232",
+   "notes": "Same-named OpenStreetMap feature 'Kraaienberg' (natural=hill) 93 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Leemberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Leemberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4552861892",
+   "notes": "Same-named OpenStreetMap feature 'Leemberg' (place=hamlet) 188 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Oude Stee",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Oude Stee",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4552861894",
+   "notes": "Same-named OpenStreetMap feature 'Oude Stee' (place=hamlet) 6 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Plaatsluis",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Plaatsluis",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42503045",
+   "notes": "Same-named OpenStreetMap feature 'Plaatsluis' (place=hamlet) 144 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Zandfort",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Zandfort",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4552861893",
+   "notes": "Same-named OpenStreetMap feature 'Zandfort' (place=hamlet) 250 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Woensdrecht",
+   "street": "Zuidgeest",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zuidgeest",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4552926752",
+   "notes": "Same-named OpenStreetMap feature 'Zuidgeest' (place=hamlet) 441 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

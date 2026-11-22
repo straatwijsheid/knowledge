@@ -1,0 +1,137 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Cathalijnepad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Cathalijne",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6625183917",
+   "notes": "Same-named OpenStreetMap feature 'Cathalijne' (place=neighbourhood) 174 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Dommelrodelaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Dommelrode",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6625183921",
+   "notes": "Same-named OpenStreetMap feature 'Dommelrode' (place=neighbourhood) 410 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Eversestraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Everse",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4547007022",
+   "notes": "Same-named OpenStreetMap feature 'Everse' (place=hamlet) 268 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Hazenputten",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Hazenputten",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/83466692",
+   "notes": "Same-named OpenStreetMap feature 'Hazenputten' (natural=water) 585 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Kinderbos",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kinderbos",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6625183916",
+   "notes": "Same-named OpenStreetMap feature 'Kinderbos' (place=neighbourhood) 193 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Koevering",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Koevering",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4547007023",
+   "notes": "Same-named OpenStreetMap feature 'Koevering' (place=hamlet) 300 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Kremselen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kremselen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681755",
+   "notes": "Same-named OpenStreetMap feature 'Kremselen' (place=hamlet) 142 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Mosbulten",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Mosbulten",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5868664506",
+   "notes": "Same-named OpenStreetMap feature 'Mosbulten' (place=hamlet) 480 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Vernhout",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vernhout",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42952718",
+   "notes": "Same-named OpenStreetMap feature 'Vernhout' (place=hamlet) 419 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Wolfswinkel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Wolfswinkel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6913600572",
+   "notes": "Same-named OpenStreetMap feature 'Wolfswinkel' (place=hamlet) 614 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Sint-Oedenrode",
+   "street": "Zwijnsbergen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zwijnsbergen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42918496",
+   "notes": "Same-named OpenStreetMap feature 'Zwijnsbergen' (place=hamlet) 63 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

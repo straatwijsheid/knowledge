@@ -1,0 +1,41 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Altena",
+   "street": "Gans",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Goose",
+   "entity_description": "Anser; Dutch name 'gans'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Altena",
+   "street": "Klimop",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Ivy",
+   "entity_description": "Hedera helix; Dutch name 'klimop'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Altena",
+   "street": "Peppeldreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Poplar",
+   "entity_description": "Populus; Dutch name 'peppel'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

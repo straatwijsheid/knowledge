@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Drimmelen",
+   "street": "Beukenhof",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Beech",
+   "entity_description": "Fagus sylvatica; Dutch name 'beuken'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Drimmelen",
+   "street": "Ganshoek",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Goose",
+   "entity_description": "Anser; Dutch name 'gans'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

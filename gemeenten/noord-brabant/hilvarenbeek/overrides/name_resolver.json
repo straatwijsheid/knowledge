@@ -1,0 +1,125 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Beerseweg",
+   "category": "place",
+   "subcategory": "village",
+   "entity_label": "Beerse",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'village' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.485, margin 0.274)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "De Brouwerstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Brewer",
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 10 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.496, margin 0.355)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "De Hertgang",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Deer",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.513, margin 0.432)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Handboog",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Handboog",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.607, margin 0.607)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Kanaaldijk Zuid",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.51, margin 0.381)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Kruisboog",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Kruisboog",
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 8 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.482, margin 0.293)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Moleneind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Moleneind",
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.535, margin 0.255)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Oude Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.671, margin 0.352)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Tamboer",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tamboer",
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.553, margin 0.356)"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Touwslager",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Rope-maker",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.518, margin 0.364)"
+  }
+ ]
+}

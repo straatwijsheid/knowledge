@@ -1,0 +1,17 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Asten",
+   "street": "Deurneseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Deurne",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

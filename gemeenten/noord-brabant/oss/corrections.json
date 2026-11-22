@@ -1,0 +1,64 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Oss",
+   "street": "Mackaystraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Æneas Mackay",
+   "entity_description": "Dutch prime minister 1888-1891; the buurt names Dutch statesmen",
+   "confidence": 0.45,
+   "reason": "Wikidata matched an Australian city"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Van Reenenstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "buurt Staatsliedenbuurt names Dutch statesmen; individual not identified"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Scheenenweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Ussenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Velmerweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Willandstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "reason": "Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

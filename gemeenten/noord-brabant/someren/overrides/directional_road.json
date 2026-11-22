@@ -1,0 +1,65 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Someren",
+   "street": "Diepenhoekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Diepenhoek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Someren",
+   "street": "Donksedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Donk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Someren",
+   "street": "Lieropsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lierop",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Someren",
+   "street": "Mierloseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Mierlo",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Someren",
+   "street": "Somerenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Someren",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

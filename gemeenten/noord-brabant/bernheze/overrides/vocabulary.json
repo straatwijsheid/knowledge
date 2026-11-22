@@ -1,0 +1,77 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Bernheze",
+   "street": "Hazenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Hare",
+   "entity_description": "Lepus europaeus; Dutch name 'hazen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Palmenweg",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Palm",
+   "entity_description": "Arecaceae; Dutch name 'palm'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Van Uden-erf",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Van de Wetering-erf",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Van der Heijden-erf",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bernheze",
+   "street": "Vos-erf",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vos'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

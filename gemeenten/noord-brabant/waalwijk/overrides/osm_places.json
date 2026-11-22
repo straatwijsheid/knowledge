@@ -1,0 +1,29 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Waalwijk",
+   "street": "Hoefsvenlaan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Hoefsven",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/86737897",
+   "notes": "Same-named OpenStreetMap feature 'Hoefsven' (natural=water) 209 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Waalwijk",
+   "street": "Nieuwevaart",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nieuwevaart",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9094260013",
+   "notes": "Same-named OpenStreetMap feature 'Nieuwevaart' (place=hamlet) 551 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

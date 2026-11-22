@@ -1,0 +1,17 @@
+{
+ "layer": "species",
+ "overrides": [
+  {
+   "gemeente": "Vught",
+   "street": "Biezendam",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Rushes",
+   "entity_description": "Juncus; Dutch name 'biezen'",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 12 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.674, margin 0.229)"
+  }
+ ]
+}

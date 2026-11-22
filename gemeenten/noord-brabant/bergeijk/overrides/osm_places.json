@@ -1,0 +1,161 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Bergeijk",
+   "street": "Boevenheuvel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Boevenheuvel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42427791",
+   "notes": "Same-named OpenStreetMap feature 'Boevenheuvel' (place=hamlet) 108 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Boscheind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Boscheind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42295953",
+   "notes": "Same-named OpenStreetMap feature 'Boscheind' (place=hamlet) 247 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Eind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42442837",
+   "notes": "Same-named OpenStreetMap feature 'Eind' (place=hamlet) 93 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Heiereind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heiereind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42436853",
+   "notes": "Same-named OpenStreetMap feature 'Heiereind' (place=hamlet) 67 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Hooge Berkt",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hooge Berkt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42369550",
+   "notes": "Same-named OpenStreetMap feature 'Hooge Berkt' (place=hamlet) 199 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Keersop",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Keersop",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42470491",
+   "notes": "Same-named OpenStreetMap feature 'Keersop' (place=hamlet) 18 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Lage Berkt",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lage Berkt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42344104",
+   "notes": "Same-named OpenStreetMap feature 'Lage Berkt' (place=hamlet) 348 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Loo",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loo",
+   "entity_description": "village (OpenStreetMap place=village); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6789576531",
+   "notes": "Same-named OpenStreetMap feature 'Loo' (place=village) 150 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Loveren",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loveren",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5760843507",
+   "notes": "Same-named OpenStreetMap feature 'Loveren' (place=hamlet) 19 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Rijt",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Rijt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42317422",
+   "notes": "Same-named OpenStreetMap feature 'Rijt' (place=hamlet) 651 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Weebosch",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Weebosch",
+   "entity_description": "village (OpenStreetMap place=village); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929220495",
+   "notes": "Same-named OpenStreetMap feature 'Weebosch' (place=village) 285 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Witrijt",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Witrijt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42343208",
+   "notes": "Same-named OpenStreetMap feature 'Witrijt' (place=hamlet) 890 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Woeste Polder",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Woeste Polder",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1005955737",
+   "notes": "Same-named OpenStreetMap feature 'Woeste Polder' (place=locality) 675 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

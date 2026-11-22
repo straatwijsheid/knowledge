@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Valkenswaard",
+   "street": "De Vlasakker",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Flax",
+   "entity_description": "Linum usitatissimum; Dutch name 'vlas'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Gerstpad",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Barley",
+   "entity_description": "Hordeum vulgare; Dutch name 'gerst'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

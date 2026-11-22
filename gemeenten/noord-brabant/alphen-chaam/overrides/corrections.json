@@ -1,0 +1,17 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Altena",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched a German town; the street names the Dutch Altena"
+  }
+ ]
+}

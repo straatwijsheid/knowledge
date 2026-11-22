@@ -1,0 +1,101 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Moerdijk",
+   "street": "Driehoefijzersstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Drie Hoefijzers",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4561608211",
+   "notes": "Same-named OpenStreetMap feature 'Drie Hoefijzers' (place=hamlet) 50 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Hazeldonk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hazeldonk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43284571",
+   "notes": "Same-named OpenStreetMap feature 'Hazeldonk' (place=hamlet) 444 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Kadedijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kade",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681770",
+   "notes": "Same-named OpenStreetMap feature 'Kade' (place=hamlet) 875 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Kreekdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kreek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43281956",
+   "notes": "Same-named OpenStreetMap feature 'Kreek' (place=hamlet) 267 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Noordschans",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Noordschans",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6947753888",
+   "notes": "Same-named OpenStreetMap feature 'Noordschans' (place=hamlet) 134 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Roodevaart",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Roodevaart",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43496241",
+   "notes": "Same-named OpenStreetMap feature 'Roodevaart' (place=hamlet) 317 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Stadsedijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Stadse Dijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43432257",
+   "notes": "Same-named OpenStreetMap feature 'Stadse Dijk' (place=hamlet) 749 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Tonnekreek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Tonnekreek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1984148467",
+   "notes": "Same-named OpenStreetMap feature 'Tonnekreek' (place=hamlet) 22 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

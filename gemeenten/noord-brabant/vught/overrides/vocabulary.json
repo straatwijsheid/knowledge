@@ -1,0 +1,149 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Vught",
+   "street": "Boekweithoeve",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Buckwheat",
+   "entity_description": "Fagopyrum esculentum; Dutch name 'boekweit'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Ereprijspad",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Speedwell",
+   "entity_description": "Veronica; Dutch name 'ereprijs'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Haverhoeve",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Oats",
+   "entity_description": "Avena sativa; Dutch name 'haver'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Isabellaplein",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Isabella",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.35,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Isabellastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Isabella",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.35,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Klaverhoeve",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Sint-Janshof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Sint-Jansstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Sint-Lambertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Van den Wijghaertstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Vlashoek",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Flax",
+   "entity_description": "Linum usitatissimum; Dutch name 'vlas'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Weegbreestraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Plantain",
+   "entity_description": "Plantago; Dutch name 'weegbree'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

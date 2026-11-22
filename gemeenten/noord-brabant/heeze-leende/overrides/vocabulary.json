@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Arend",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Eagle",
+   "entity_description": "Aquila; Dutch name 'arend'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Komeet",
+   "category": "thing",
+   "subcategory": "astronomy",
+   "entity_label": "Komeet",
+   "entity_description": "Astronomy term",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Petrus van Eijnattenlaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Sint Catharina en Sint Barbarastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Catherine",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Sint Jacob en Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint James",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Sint Jan Baptistastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Sint Nicasiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Nicasius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Spar",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Spruce",
+   "entity_description": "Picea abies; Dutch name 'spar'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Vogelspad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Bird",
+   "entity_description": "Aves; Dutch name 'vogel'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

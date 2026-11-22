@@ -1,0 +1,89 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Landerd",
+   "street": "Dassenbaan",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Badger",
+   "entity_description": "Meles meles; Dutch name 'dassen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Klaverstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Piet Kroef laan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Reigerweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Heron",
+   "entity_description": "Ardea; Dutch name 'reiger'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Torenvalkweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common kestrel",
+   "entity_description": "Falco tinnunculus; Dutch name 'torenvalk'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Vlasgaard",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Flax",
+   "entity_description": "Linum usitatissimum; Dutch name 'vlas'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

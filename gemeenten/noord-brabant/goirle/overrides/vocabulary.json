@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Goirle",
+   "street": "Koolmees",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Great tit",
+   "entity_description": "Parus major; Dutch name 'koolmees'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Willem Ruysstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  }
+ ]
+}

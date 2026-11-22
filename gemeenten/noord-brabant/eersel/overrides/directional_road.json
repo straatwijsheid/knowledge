@@ -1,0 +1,161 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Eersel",
+   "street": "Antwerpsebaan",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Antwerp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Bergeijksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergeijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Duizelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Duizel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Eerselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eersel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Hoogeloonseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoogeloon",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Knegselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Knegsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Knegselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Knegsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Oirschotsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oirschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Steenselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Steensel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Veldhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Veldhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Vessemseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vessem",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Zandoerleseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zandoerle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

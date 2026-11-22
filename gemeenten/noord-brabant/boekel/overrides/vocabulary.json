@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Boekel",
+   "street": "Broeder Hogardstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a clergy member or saint who could not be identified"
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Elzen",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Alder",
+   "entity_description": "Alnus glutinosa; Dutch name 'elzen'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Sint Agathaplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Agatha",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boekel",
+   "street": "Sint Janplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

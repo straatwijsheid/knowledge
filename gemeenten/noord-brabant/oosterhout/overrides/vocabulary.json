@@ -1,0 +1,41 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Oosterhout",
+   "street": "Eekhoornlaan",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Red squirrel",
+   "entity_description": "Sciurus vulgaris; Dutch name 'eekhoorn'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Frits van Egtersstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Lijsterbesstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Rowan",
+   "entity_description": "Sorbus aucuparia; Dutch name 'lijsterbes'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

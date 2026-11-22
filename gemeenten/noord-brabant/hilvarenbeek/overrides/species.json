@@ -1,0 +1,17 @@
+{
+ "layer": "species",
+ "overrides": [
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Valkhof",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Falcon",
+   "entity_description": "Falco; Dutch name 'valk'",
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 8 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.535, margin 0.361)"
+  }
+ ]
+}

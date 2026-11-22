@@ -1,0 +1,53 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Kuivezand",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kuivezand",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43129563",
+   "notes": "Same-named OpenStreetMap feature 'Kuivezand' (place=hamlet) 267 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Midzomerplein",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Midzomerplein",
+   "entity_description": "square (OpenStreetMap place=square); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/907891629",
+   "notes": "Same-named OpenStreetMap feature 'Midzomerplein' (place=square) 24 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Nieuwenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nieuwenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43026800",
+   "notes": "Same-named OpenStreetMap feature 'Nieuwenberg' (place=hamlet) 755 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Pagnevaartdreef",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Pagnevaart",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/77608138",
+   "notes": "Same-named OpenStreetMap feature 'Pagnevaart' (natural=water) 675 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

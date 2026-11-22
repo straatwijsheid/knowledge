@@ -1,0 +1,41 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Schijndel",
+   "street": "Bremweg",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Venushoek",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": "Venus",
+   "entity_description": "Mythological figure or deity",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Schijndel",
+   "street": "Vossenstraat",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vossen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Eikenbeemd",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "notable oak tree",
+   "entity_description": "type of tree; a particular (notable) oak tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q33036816",
+   "notes": "OpenStreetMap wikidata P138: Q33036816"
+  },
+  {
+   "gemeente": "Hilvarenbeek",
+   "street": "Prins Willem-Alexanderweg",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

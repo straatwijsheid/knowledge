@@ -1,0 +1,89 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Steenbergen",
+   "street": "Beneden Sasweg",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Benedensas",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/430599916",
+   "notes": "Same-named OpenStreetMap feature 'Benedensas' (natural=water) 123 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Boompjesdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Boompjesdijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43252489",
+   "notes": "Same-named OpenStreetMap feature 'Boompjesdijk' (place=hamlet) 541 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Fort Henricusweg",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": "Fort Henricus",
+   "entity_description": "fort (OpenStreetMap historic=fort); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/960079637",
+   "notes": "Same-named OpenStreetMap feature 'Fort Henricus' (historic=fort) 731 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Havenweg",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Haven",
+   "entity_description": "canal (OpenStreetMap waterway=canal); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/917991623",
+   "notes": "Same-named OpenStreetMap feature 'Haven' (waterway=canal) 331 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Heensemolenweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heense Molen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9115105365",
+   "notes": "Same-named OpenStreetMap feature 'Heense Molen' (place=hamlet) 427 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Pelsendijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Pelsendijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43094372",
+   "notes": "Same-named OpenStreetMap feature 'Pelsendijk' (place=hamlet) 662 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Westcreecke",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Westcreecke",
+   "entity_description": "canal (OpenStreetMap waterway=canal); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/1257818520",
+   "notes": "Same-named OpenStreetMap feature 'Westcreecke' (waterway=canal) 109 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

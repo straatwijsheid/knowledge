@@ -1,0 +1,65 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Sint Agnesstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Agnes",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Sint Amandusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Amand",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Sint Gertrudisstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Gertrude",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Sint Jozeflaan",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Sint Theresiastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Teresa",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

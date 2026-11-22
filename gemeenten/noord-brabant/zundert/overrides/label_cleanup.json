@@ -1,0 +1,77 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Annahof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Bavostraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Bavo",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Corneliusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Cornelius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Elisabethlaan",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Elizabeth",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Janshof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Sint Willebrordusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Willibrord",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Aarle-Rixtelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Aarle-Rixtel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Bakelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bakel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Beeksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Beek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Boekelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boekel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Elsendorpseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Elsendorp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Gemertseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gemert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Handelsesteeg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Handel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Handelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Handel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Helmondsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Helmond",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Heuvelsepad",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heuvel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Hoevensebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoeven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Venraysedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Venray",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Walsbergseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Walsberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Gemert-Bakel",
+   "street": "Zeelandsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zeeland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

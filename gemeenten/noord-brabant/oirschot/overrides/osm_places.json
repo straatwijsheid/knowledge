@@ -1,0 +1,173 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Oirschot",
+   "street": "Bijsterveld",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Bijsterveld",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42844223",
+   "notes": "Same-named OpenStreetMap feature 'Bijsterveld' (place=hamlet) 497 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Evenheuvel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Evenheuvel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42888193",
+   "notes": "Same-named OpenStreetMap feature 'Evenheuvel' (place=hamlet) 7 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Groenewoud",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Groene Woud",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681760",
+   "notes": "Same-named OpenStreetMap feature 'Groene Woud' (place=hamlet) 399 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Heerenbeek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heerenbeek",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/14098815",
+   "notes": "Same-named OpenStreetMap feature 'Heerenbeek' (leisure=nature_reserve) 35 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Kattenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kattenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42881671",
+   "notes": "Same-named OpenStreetMap feature 'Kattenberg' (place=hamlet) 263 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Lieveld",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lieveld",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42873000",
+   "notes": "Same-named OpenStreetMap feature 'Lieveld' (place=hamlet) 572 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Lubberstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lubberstraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42863405",
+   "notes": "Same-named OpenStreetMap feature 'Lubberstraat' (place=hamlet) 226 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Moleneind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Moleneind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5227098700",
+   "notes": "Same-named OpenStreetMap feature 'Moleneind' (place=hamlet) 301 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Notel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Notel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42861884",
+   "notes": "Same-named OpenStreetMap feature 'Notel' (place=hamlet) 56 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Pandgat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Pandgat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42882573",
+   "notes": "Same-named OpenStreetMap feature 'Pandgat' (place=hamlet) 332 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Polsdonken",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Polsdonken",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42905392",
+   "notes": "Same-named OpenStreetMap feature 'Polsdonken' (place=hamlet) 113 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Straten",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Straten",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681779",
+   "notes": "Same-named OpenStreetMap feature 'Straten' (place=hamlet) 511 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Theetuin",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Theetuin",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42805466",
+   "notes": "Same-named OpenStreetMap feature 'Theetuin' (place=hamlet) 335 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Tregelaar",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Tregelaar",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42914948",
+   "notes": "Same-named OpenStreetMap feature 'Tregelaar' (place=hamlet) 268 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

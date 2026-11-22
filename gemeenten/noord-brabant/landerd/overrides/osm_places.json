@@ -1,0 +1,113 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Landerd",
+   "street": "Brand",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Brand",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43517247",
+   "notes": "Same-named OpenStreetMap feature 'Brand' (place=hamlet) 352 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Duifhuis",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Duifhuis",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/6962748086",
+   "notes": "Same-named OpenStreetMap feature 'Duifhuis' (place=hamlet) 158 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Graspeel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Graspeel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43543381",
+   "notes": "Same-named OpenStreetMap feature 'Graspeel' (place=hamlet) 800 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Hoefkens",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoefkens",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9386768895",
+   "notes": "Same-named OpenStreetMap feature 'Hoefkens' (place=hamlet) 124 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Kreitsberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kreitsberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43604734",
+   "notes": "Same-named OpenStreetMap feature 'Kreitsberg' (place=hamlet) 269 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Munstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Mun",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7188664204",
+   "notes": "Same-named OpenStreetMap feature 'Mun' (place=hamlet) 45 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Nabbegat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nabbegat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43605043",
+   "notes": "Same-named OpenStreetMap feature 'Nabbegat' (place=hamlet) 79 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Voederheil",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Voederheil",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43591150",
+   "notes": "Same-named OpenStreetMap feature 'Voederheil' (place=hamlet) 703 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Landerd",
+   "street": "Zevenhuis",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zevenhuis",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929182673",
+   "notes": "Same-named OpenStreetMap feature 'Zevenhuis' (place=hamlet) 210 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

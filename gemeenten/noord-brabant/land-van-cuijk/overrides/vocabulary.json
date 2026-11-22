@@ -1,0 +1,101 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Arendstraat",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Eagle",
+   "entity_description": "Aquila; Dutch name 'arend'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Dassenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Badger",
+   "entity_description": "Meles meles; Dutch name 'dassen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Haverstraat",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Oats",
+   "entity_description": "Avena sativa; Dutch name 'haver'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Kievitsweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Lapwing",
+   "entity_description": "Vanellus vanellus; Dutch name 'kievits'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Kievitweg",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Northern lapwing",
+   "entity_description": "Vanellus vanellus; Dutch name 'kievit'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Mevrouw van Heumenlaantje",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Vinkstraat",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Finch",
+   "entity_description": "Fringillidae; Dutch name 'vink'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Land van Cuijk",
+   "street": "Vlasstraat",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Flax",
+   "entity_description": "Linum usitatissimum; Dutch name 'vlas'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

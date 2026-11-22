@@ -1,0 +1,17 @@
+{
+ "layer": "same_name_harmonise",
+ "overrides": [
+  {
+   "gemeente": "Boekel",
+   "street": "Boterweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (4/5 agree on 'local'); the street's own buurt gave no support for a different reading"
+  }
+ ]
+}

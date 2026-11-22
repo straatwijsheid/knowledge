@@ -1,0 +1,17 @@
+{
+ "layer": "species",
+ "overrides": [
+  {
+   "gemeente": "Asten",
+   "street": "Vlinderveld",
+   "category": "thing",
+   "subcategory": "fauna_butterfly",
+   "entity_label": "Butterfly",
+   "entity_description": "Lepidoptera; Dutch name 'vlinder'",
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna_butterfly' backed by 7 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.482, margin 0.201)"
+  }
+ ]
+}

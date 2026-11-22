@@ -1,0 +1,77 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Beekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Beek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Bladelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bladel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Heikantsebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heikant",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Hulselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hulsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Neterselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Netersel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Reuselsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Reusel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

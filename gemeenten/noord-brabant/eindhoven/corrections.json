@@ -1,0 +1,185 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Eindhoven",
+   "street": "Mecklenburgstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "a princely house is filed as 'monarch_statesman'; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Amazonenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Argonautenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Muzenlaan",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "mythological groups are filed as person/mythological_figure everywhere else; OSM supplies the namesake",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Borneolaan",
+   "category": "place",
+   "subcategory": "dutch_east_indies",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.85,
+   "reason": "Borneo is a place (Dutch East Indies theme), not a thing",
+   "from_osm": true
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Dammestraat",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Damme",
+   "entity_description": "Town in West Flanders, Belgium (the buurt names Belgian towns)",
+   "confidence": 0.45,
+   "reason": "Wikidata matched a German town"
+  },
+  {
+   "street": "Generaal Anthinglaan",
+   "category": "person",
+   "subcategory": "military",
+   "entity_label": "Carl Heinrich Wilhelm Anthing",
+   "entity_description": "German-born officer in Dutch service (1766-1823), led the Indies Brigade at Waterloo",
+   "confidence": 0.6,
+   "source_url": "https://en.wikipedia.org/wiki/Carl_Heinrich_Wilhelm_Anthing",
+   "reason": "local-knowledge candidate from the Eindhoven review sheet; checked: a Dutch general of that name exists and the Generalenbuurt also names Chasse (Waterloo/Antwerp era) and other 19th-century generals. Not a documented naming record.",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Generaal Boreelpad",
+   "category": "person",
+   "subcategory": "military",
+   "entity_label": "Willem François Boreel",
+   "entity_description": "Dutch cavalry officer (1774-1851), helped found the cavalry of the Kingdom of the Netherlands",
+   "confidence": 0.6,
+   "source_url": "https://nl.wikipedia.org/wiki/Willem_François_Boreel",
+   "reason": "local-knowledge candidate from the Eindhoven review sheet; checked: a general of that name existed and the Generalenbuurt names several 19th-century generals. Not a documented naming record.",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Burgemeester Kolfschotenstraat",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": "Hans Kolfschoten",
+   "entity_description": "Dutch politician, minister and later mayor of Eindhoven (1903-1984)",
+   "confidence": 0.8,
+   "source_url": "https://nl.wikipedia.org/wiki/Hans_Kolfschoten",
+   "reason": "review sheet; verified on Wikipedia that Kolfschoten was burgemeester of Eindhoven; the Engelsbergen theme is Eindhoven mayors",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Burgemeester Smits van Oyenstraat",
+   "category": "person",
+   "subcategory": "mayor_local",
+   "entity_label": "Josephus Theodorus Maria Smits van Oyen",
+   "entity_description": "Mayor of Eindhoven 1885-1898 and member of the Tweede Kamer (1858-1898)",
+   "confidence": 0.85,
+   "source_url": "https://nl.wikipedia.org/wiki/Josephus_Theodorus_Maria_Smits_van_Oyen",
+   "reason": "review sheet; verified on Wikipedia: mayor of Eindhoven; the Engelsbergen theme is Eindhoven mayors",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Marius Ouborglaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": "Marius Johannes Ouborg",
+   "entity_description": "Dutch resistance victim (born 1921): worked at Philips in Eindhoven, tried to reach England as an Engelandvaarder, arrested in 1944",
+   "confidence": 0.7,
+   "source_url": "https://stichting18september.nl/slachtoffers/marius-johannes-ouborg/",
+   "reason": "review sheet; checked: Stichting 18 September lists him among Eindhoven's WWII victims, and Kerkdorp Acht has a cluster of local war-victim streets. Not a documented naming record.",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Annastraat",
+   "category": "person",
+   "subcategory": "industrialist_philips",
+   "entity_label": "Anna Philips-de Jongh",
+   "entity_description": "Wife of Anton Philips (1878-1970)",
+   "confidence": 0.6,
+   "source_url": "https://www.philips.nl/en/a-w/philips-museum/stories/anna-de-jongh.html",
+   "reason": "review sheet ('very likely'); Philipsdorp is the Philips garden village and names the family; the Philips Museum page exists for her. Not a documented naming record.",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Glaslaan",
+   "category": "thing",
+   "subcategory": "technology_term",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.5,
+   "reason": "review sheet (suspected): 'glas', the material behind Philips's light bulbs, in the Philips garden village; no person is asserted, only the kind",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Luchthavenweg",
+   "category": "thing",
+   "subcategory": "infrastructure",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.8,
+   "reason": "review sheet: 'luchthaven' means airport and the road is by Eindhoven Airport (sibling of Flight Lane); a common noun, not a person",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Kaneelstraat",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Cinnamon (Cinnamomum)",
+   "entity_description": "spice",
+   "confidence": 0.7,
+   "reason": "review sheet: 'kaneel' is cinnamon; the nearby Zoutstraat is salt (OSM Q11254), so a spice/trade theme, not a naval hero",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "street": "Tilburgseweg-West",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "city in Noord-Brabant",
+   "confidence": 0.7,
+   "reason": "review sheet: a directional road toward Tilburg (<Place>seweg)",
+   "gemeente": "Eindhoven"
+  },
+  {
+   "gemeente": "Eindhoven",
+   "street": "Henriëttestraat",
+   "category": "person",
+   "subcategory": "industrialist_philips",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.4,
+   "reason": "the earlier Wikidata match (painter Henriette Ronner-Knip) does not fit the Philips garden village and is withdrawn. Candidates: Anton Philips's wife Anne Henriette Elisabeth Maria de Jongh, his daughter Henriette Anna Philips (1906-2007, Wikidata Q76268707), or Frederik Philips's aunt Henriette Pressburg (Q19841721, less likely). The neighbouring streets honour the family (Frederiklaan = Frederik Philips, Elisabethlaan = his wife Maria Elisabeth Heijligers per OSM, Annastraat = Anton's wife). Unresolved, so only the kind is kept."
+  }
+ ]
+}

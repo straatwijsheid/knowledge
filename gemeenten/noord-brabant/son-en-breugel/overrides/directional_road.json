@@ -1,0 +1,53 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Bestseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Best",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Lieshoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Lieshout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Nijnselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nijnsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

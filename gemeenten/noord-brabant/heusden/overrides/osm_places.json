@@ -1,0 +1,89 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Heusden",
+   "street": "De Hoeven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Hoeven",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9416571876",
+   "notes": "Same-named OpenStreetMap feature 'De Hoeven' (place=hamlet) 883 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "De Oosters",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Oosters",
+   "entity_description": "nature reserve (OpenStreetMap leisure=nature_reserve); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/1363674529",
+   "notes": "Same-named OpenStreetMap feature 'De Oosters' (leisure=nature_reserve) 392 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Geerpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Geerpark",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/12014260",
+   "notes": "Same-named OpenStreetMap feature 'Geerpark' (place=neighbourhood) 56 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Giersbergen",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Giersbergen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5248705071",
+   "notes": "Same-named OpenStreetMap feature 'Giersbergen' (place=hamlet) 81 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Vijfhoevenlaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vijfhoeven",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4627275715",
+   "notes": "Same-named OpenStreetMap feature 'Vijfhoeven' (place=neighbourhood) 724 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Vliedbergweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vliedberg",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/4627289793",
+   "notes": "Same-named OpenStreetMap feature 'Vliedberg' (place=neighbourhood) 710 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Voordijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Voordijk",
+   "entity_description": "locality (OpenStreetMap place=locality); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43593966",
+   "notes": "Same-named OpenStreetMap feature 'Voordijk' (place=locality) 173 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

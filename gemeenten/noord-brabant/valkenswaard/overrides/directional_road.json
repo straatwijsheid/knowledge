@@ -1,0 +1,77 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Antwerpsebaan",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Antwerp",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Bergeijksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergeijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Geenhovensedreef",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Geenhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Waalreseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Waalre",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Valkenswaard",
+   "street": "Westerhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Westerhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

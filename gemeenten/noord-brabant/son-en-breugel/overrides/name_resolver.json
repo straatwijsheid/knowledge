@@ -1,0 +1,89 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Betuwepad",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Betuwe",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.705, margin 0.258)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Buitenbrink",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.54,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.479, margin 0.29)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Graafschappad",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Graafschap",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.716, margin 0.28)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Meeslaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Tit",
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fauna' backed by 3 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.559, margin 0.412)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Sallandpad",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Salland",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.716, margin 0.609)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Twentepad",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Twente",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.676, margin 0.582)"
+  },
+  {
+   "gemeente": "Son en Breugel",
+   "street": "Veluwepad",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Veluwe",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_region' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.682, margin 0.483)"
+  }
+ ]
+}

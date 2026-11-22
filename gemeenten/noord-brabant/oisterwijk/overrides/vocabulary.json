@@ -1,0 +1,113 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Appelpad",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Apple",
+   "entity_description": "Malus domestica; Dutch name 'appel'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Elsdijk",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Alder",
+   "entity_description": "Alnus glutinosa; Dutch name 'els'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Kievitspad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Lapwing",
+   "entity_description": "Vanellus vanellus; Dutch name 'kievits'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Lindepad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Lime (linden)",
+   "entity_description": "Tilia; Dutch name 'linde'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Lindeplein",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Lime (linden)",
+   "entity_description": "Tilia; Dutch name 'linde'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Uilenpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Owl",
+   "entity_description": "Strigiformes; Dutch name 'uil'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Van Swinderenlaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Vinkenpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Finch",
+   "entity_description": "Fringillidae; Dutch name 'vinken'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oisterwijk",
+   "street": "Wilgenpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Willow",
+   "entity_description": "Salix; Dutch name 'wilgen'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

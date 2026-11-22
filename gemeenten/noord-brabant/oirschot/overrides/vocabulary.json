@@ -1,0 +1,137 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Oirschot",
+   "street": "Bosuillaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Tawny owl",
+   "entity_description": "Strix aluco; Dutch name 'bosuil'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Bremsteeg",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Dennelaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'denne'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Dennendijk",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Fazantelaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Pheasant",
+   "entity_description": "Phasianus colchicus; Dutch name 'fazant'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Houtduiflaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Wood pigeon",
+   "entity_description": "Columba palumbus; Dutch name 'houtduif'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Sint Martensbergweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martensberg",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Sparrelaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Spruce",
+   "entity_description": "Picea abies; Dutch name 'sparre'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Sparrendijk",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Spruce",
+   "entity_description": "Picea abies; Dutch name 'sparren'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "St. Sebastiaanshoek",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a clergy member or saint who could not be identified"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Zwaluwlaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Swallow",
+   "entity_description": "Hirundinidae; Dutch name 'zwaluw'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

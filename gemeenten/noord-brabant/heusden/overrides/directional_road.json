@@ -1,0 +1,161 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Heusden",
+   "street": "Bokhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bokhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Elshoutseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Elshout",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Engelenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Engelen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Haarsteegsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Haarsteeg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Heesbeenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heesbeen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Herptsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Herpt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Herptseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Herpt",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Heusdenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heusden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Nieuwkuijksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nieuwkuijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Nieuwkuijkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nieuwkuijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Oudheusdensestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oudheusden",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Heusden",
+   "street": "Wijksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wijk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

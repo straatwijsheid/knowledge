@@ -1,0 +1,149 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Bladel",
+   "street": "Broekenseind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Broekenseind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/8449211638",
+   "notes": "Same-named OpenStreetMap feature 'Broekenseind' (place=hamlet) 292 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Dalem",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Dalem",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42443178",
+   "notes": "Same-named OpenStreetMap feature 'Dalem' (place=hamlet) 248 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "De Pan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Pan",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42432313",
+   "notes": "Same-named OpenStreetMap feature 'De Pan' (place=hamlet) 459 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Franse Hoef",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Franse Hoef",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42498889",
+   "notes": "Same-named OpenStreetMap feature 'Franse Hoef' (place=hamlet) 113 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Heieind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heieind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42550671",
+   "notes": "Same-named OpenStreetMap feature 'Heieind' (place=hamlet) 25 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Heikant",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heikant",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42527487",
+   "notes": "Same-named OpenStreetMap feature 'Heikant' (place=hamlet) 113 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Helleneind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Helleneind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5339090956",
+   "notes": "Same-named OpenStreetMap feature 'Helleneind' (place=hamlet) 304 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Het Bosch",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Het Bosch",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42524894",
+   "notes": "Same-named OpenStreetMap feature 'Het Bosch' (place=hamlet) 494 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Heuvel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heuvel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/10101898936",
+   "notes": "Same-named OpenStreetMap feature 'Heuvel' (place=hamlet) 187 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Hoogcasteren",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoogcasteren",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/8449203321",
+   "notes": "Same-named OpenStreetMap feature 'Hoogcasteren' (place=hamlet) 75 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Lemel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lemel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42496819",
+   "notes": "Same-named OpenStreetMap feature 'Lemel' (place=hamlet) 197 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Bladel",
+   "street": "Ten Vorsel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Ten Vorsel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42433643",
+   "notes": "Same-named OpenStreetMap feature 'Ten Vorsel' (place=hamlet) 218 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

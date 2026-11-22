@@ -1,0 +1,113 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Moerdijk",
+   "street": "Bredaschedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Klundertsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Klundert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Klundertseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Klundert",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Nieuwlandsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nieuwland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Noordhoeksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Noordhoek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Noordseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Noord",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Oudemolensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oudemolen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Oudemolenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oudemolen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Moerdijk",
+   "street": "Zwingelspaansedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Zwingelspaan",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

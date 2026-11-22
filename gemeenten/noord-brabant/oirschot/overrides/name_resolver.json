@@ -1,0 +1,149 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Oirschot",
+   "street": "Berkdijk",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 17 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.556, margin 0.354)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Glazenmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Glazenmaker (glassmaker)",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.627, margin 0.293)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Kapeldijk",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 33 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.493, margin 0.238)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Kerkpad",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 57 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.563, margin 0.354)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Kruisboog",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Kruisboog",
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 8 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.457, margin 0.288)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Mandenmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Basket-maker",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 8 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.679, margin 0.679)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Nieuwedijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.691, margin 0.277)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Oirschotsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oirschot",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 7 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.661, margin 0.412)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Pompenmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Pompenmaker (pump maker)",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.679, margin 0.679)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Sigarenmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Sigarenmaker",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 3 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.679, margin 0.679)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Steenfortseweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.558, margin 0.248)"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Tamboer",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tamboer",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.528, margin 0.38)"
+  }
+ ]
+}

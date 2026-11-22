@@ -1,0 +1,149 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Oss",
+   "street": "Sint Anthoniusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Barbaraplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Barbara",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Hubertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Hubert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Jansstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Laurensstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lawrence",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Leonardusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Leonard",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Luciastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lucy",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Rochusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Roch",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Sebastianusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Sebastian",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Wilbertstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Wilbert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Willibrordusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Willibrord",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oss",
+   "street": "Sint Wilpertslaan",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Wilpert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

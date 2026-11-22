@@ -1,0 +1,53 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Rucphen",
+   "street": "Nederheide",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nederheide",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42815717",
+   "notes": "Same-named OpenStreetMap feature 'Nederheide' (place=hamlet) 341 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "Steenpaal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Steenpaal",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/908575433",
+   "notes": "Same-named OpenStreetMap feature 'Steenpaal' (place=hamlet) 108 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "de Heiberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "De Heiberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42825794",
+   "notes": "Same-named OpenStreetMap feature 'De Heiberg' (place=hamlet) 63 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Rucphen",
+   "street": "de Schietbaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "de Schietbaan",
+   "entity_description": "isolated dwelling (OpenStreetMap place=isolated_dwelling); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42878515",
+   "notes": "Same-named OpenStreetMap feature 'de Schietbaan' (place=isolated_dwelling) 447 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

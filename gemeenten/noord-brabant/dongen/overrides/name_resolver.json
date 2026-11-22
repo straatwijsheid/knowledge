@@ -1,0 +1,173 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Dongen",
+   "street": "Doormanstraat",
+   "category": "person",
+   "subcategory": "military_naval_or_politician",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'military_naval_or_politician' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.504, margin 0.244)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Eindsepad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.713, margin 0.713)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Hazelaarstraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Hazel",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 30 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.598, margin 0.462)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Hazendonk",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Hare",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.865, margin 0.865)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Kanaaldijk Zuid",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.499, margin 0.38)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Looiersplein",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.548, margin 0.463)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Mandenmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Basket-maker",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 8 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.581, margin 0.581)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Narcisstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Daffodil",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 12 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.527, margin 0.377)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Notengaarde",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Walnut / nut tree",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.865, margin 0.865)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Oude Oosterhoutse Baan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.794, margin 0.794)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Rendierveld",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Reindeer",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.604, margin 0.235)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Waspikse weg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Waspik",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 1 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.811, margin 0.653)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Wilhelminalaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'monarch_statesman' backed by 76 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.588, margin 0.31)"
+  },
+  {
+   "gemeente": "Dongen",
+   "street": "Zadelmaker",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 4 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.583, margin 0.583)"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Bergeijk",
+   "street": "Cereshof",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": "Ceres",
+   "entity_description": "Mythological figure or deity",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Eikestraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Oak",
+   "entity_description": "Quercus; Dutch name 'eik'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Elsenstraatje",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Alder",
+   "entity_description": "Alnus glutinosa; Dutch name 'els'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Franciscus van de Reijdtlaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Lambert Melskenslaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Bergeijk",
+   "street": "Valkpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Falcon",
+   "entity_description": "Falco; Dutch name 'valk'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

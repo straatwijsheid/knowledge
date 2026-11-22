@@ -1,0 +1,14 @@
+{
+ "corrections": [
+  {
+   "gemeente": "Oosterhout",
+   "street": "Altena",
+   "category": "place",
+   "subcategory": "dutch_region",
+   "entity_label": "Land van Altena",
+   "entity_description": "Historic region in North Brabant, now the gemeente Altena",
+   "confidence": 0.4,
+   "reason": "Wikidata matched a German town; the street names the Dutch Altena"
+  }
+ ]
+}

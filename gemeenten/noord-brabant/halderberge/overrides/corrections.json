@@ -1,0 +1,17 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Vredepark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched an obscure place abroad; in context this is a local field, farm or road name"
+  }
+ ]
+}

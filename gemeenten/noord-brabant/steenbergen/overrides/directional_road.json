@@ -1,0 +1,101 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Steenbergen",
+   "street": "Brandseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Brand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Dinteloordseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Dinteloord",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Gastelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gastel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Kruislandsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Kruisland",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Nieuw-Vossemeersedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nieuw-Vossemeer",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Roosendaalseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Roosendaal",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Welbergsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Welberg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Steenbergen",
+   "street": "Wouwsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wouw",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Emmastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Emma of Waldeck and Pyrmont",
+   "entity_description": "Queen consort of the Netherlands (r. 1879–1890)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q57664",
+   "notes": "OpenStreetMap wikidata P138: Q57664"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Generaal Maczeklaan",
+   "category": "person",
+   "subcategory": "military",
+   "entity_label": "Stanisław Maczek",
+   "entity_description": "Polish military officer of World War I and World War II (1892–1994)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q512764",
+   "notes": "OpenStreetMap wikidata P138: Q512764"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Grens",
+   "category": "place",
+   "subcategory": "foreign_town",
+   "entity_label": "Belgium–Netherlands border",
+   "entity_description": "international border",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q3088843",
+   "notes": "OpenStreetMap wikidata P138: Q3088843"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Irenestraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Irene of the Netherlands",
+   "entity_description": "Dutch princess; second child of Queen Juliana of the Netherlands and Prince Bernhard (born 1939)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q263623",
+   "notes": "OpenStreetMap wikidata P138: Q263623"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Korenbloemstraat",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Centaurea cyanus",
+   "entity_description": "species of flowering plant",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q156921",
+   "notes": "OpenStreetMap wikidata P138: Q156921"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Sint Annaplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": "mother of Virgin Mary in Christian and Islamic traditions; unnamed in the New Testament or Quran",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q164294",
+   "notes": "OpenStreetMap wikidata P138: Q164294"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Sint Annastraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anne",
+   "entity_description": "mother of Virgin Mary in Christian and Islamic traditions; unnamed in the New Testament or Quran",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q164294",
+   "notes": "OpenStreetMap wikidata P138: Q164294"
+  },
+  {
+   "gemeente": "Baarle-Nassau",
+   "street": "Willem Alexanderstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "William Alexander of the Netherlands",
+   "entity_description": "King of the Netherlands (born 1967)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q154952",
+   "notes": "OpenStreetMap name:etymology:wikidata: Q154952"
+  }
+ ]
+}

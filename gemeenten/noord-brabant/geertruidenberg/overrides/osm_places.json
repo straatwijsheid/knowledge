@@ -1,0 +1,17 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Markt",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Markt",
+   "entity_description": "square (OpenStreetMap place=square); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/840268602",
+   "notes": "Same-named OpenStreetMap feature 'Markt' (place=square) 13 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

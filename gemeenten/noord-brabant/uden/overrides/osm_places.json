@@ -1,0 +1,173 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Uden",
+   "street": "Biesthoekstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Biesthoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43281911",
+   "notes": "Same-named OpenStreetMap feature 'Biesthoek' (place=hamlet) 770 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Eikenheuvelpad",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Eikenheuvel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5718158945",
+   "notes": "Same-named OpenStreetMap feature 'Eikenheuvel' (place=hamlet) 365 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Heikantstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heikant",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929176337",
+   "notes": "Same-named OpenStreetMap feature 'Heikant' (place=hamlet) 566 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Hengstheuvelweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hengstheuvel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43488341",
+   "notes": "Same-named OpenStreetMap feature 'Hengstheuvel' (place=hamlet) 512 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Hultjeweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hultje",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43483088",
+   "notes": "Same-named OpenStreetMap feature 'Hultje' (place=hamlet) 761 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Kleuterweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kleuter",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3134014519",
+   "notes": "Same-named OpenStreetMap feature 'Kleuter' (place=hamlet) 185 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Kooldertweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kooldert",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43313674",
+   "notes": "Same-named OpenStreetMap feature 'Kooldert' (place=hamlet) 68 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Lankesstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Lankes",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1929181021",
+   "notes": "Same-named OpenStreetMap feature 'Lankes' (place=hamlet) 64 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Looweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Loo",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43454903",
+   "notes": "Same-named OpenStreetMap feature 'Loo' (place=hamlet) 447 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Maatseheistraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Maatsehei",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43299999",
+   "notes": "Same-named OpenStreetMap feature 'Maatsehei' (place=hamlet) 357 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Niemeskantweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Niemeskant",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43331232",
+   "notes": "Same-named OpenStreetMap feature 'Niemeskant' (place=hamlet) 237 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Raktweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Rakt",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43469799",
+   "notes": "Same-named OpenStreetMap feature 'Rakt' (place=hamlet) 145 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Schadronstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Schadron",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43309821",
+   "notes": "Same-named OpenStreetMap feature 'Schadron' (place=hamlet) 353 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Uden",
+   "street": "Vloetstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vloet",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43348372",
+   "notes": "Same-named OpenStreetMap feature 'Vloet' (place=hamlet) 290 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

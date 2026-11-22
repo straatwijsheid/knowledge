@@ -1,0 +1,101 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Antoniusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Hubertusplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Hubert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Hubertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Hubert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Jozefpark",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Jozefplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Jozefstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Lambertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Deurne",
+   "street": "Sint Servatiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Servatius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

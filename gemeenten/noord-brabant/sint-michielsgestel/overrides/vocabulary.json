@@ -1,0 +1,77 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Bevershoeve",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Beaver",
+   "entity_description": "Castor fiber; Dutch name 'bever'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Christinastraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Christina",
+   "entity_description": "Name shared by several people; only the kind of namesake is asserted",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Dennensteeg",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Jan Vertierplein",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Regent van den Heuvelstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Sint Michielsstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Michael",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

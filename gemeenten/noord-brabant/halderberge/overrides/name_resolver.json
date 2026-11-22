@@ -1,0 +1,173 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Halderberge",
+   "street": "Aardbei",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Strawberry",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 1 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.525, margin 0.211)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Bosschenhoofdseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bosschenhoofd",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 1 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.671, margin 0.671)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Bosvenne",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Forest (woodland)",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.781, margin 0.781)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Bredasebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Breda",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 15 classified streets elsewhere, rules ['directional_road'], OSM; neighbours in the buurt/wijk fit it (score 0.666, margin 0.525)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Den Driehoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Driehoek",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 2 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.52, margin 0.366)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Esdoornlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Maple",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 45 classified streets elsewhere, rules ['vocabulary'], OSM; neighbours in the buurt/wijk fit it (score 0.574, margin 0.436)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Havenhoofd",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.55,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.497, margin 0.246)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Kapelweg",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 33 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.521, margin 0.201)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Kerkpad",
+   "category": "place",
+   "subcategory": "local_landmark",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.53,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landmark' backed by 57 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.465, margin 0.273)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Kruisbes",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Gooseberry",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora_flower' backed by 4 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.729, margin 0.418)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Poldersdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.57,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.542, margin 0.216)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Rabarberveld",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Rhubarb",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.633, margin 0.372)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Thorbeckestraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Johan Rudolph Thorbecke",
+   "entity_description": null,
+   "confidence": 0.56,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'politician_statesman' backed by 16 classified streets elsewhere, rules ['famous_people']; neighbours in the buurt/wijk fit it (score 0.527, margin 0.33)"
+  },
+  {
+   "gemeente": "Halderberge",
+   "street": "Turfhoofd",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.583, margin 0.583)"
+  }
+ ]
+}

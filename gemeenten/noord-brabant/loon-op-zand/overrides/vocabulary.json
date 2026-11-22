@@ -1,0 +1,53 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Eikendijk",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Oak",
+   "entity_description": "Quercus; Dutch name 'eik'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Gerard de Nijshof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Prinses Beatrixstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Queen Beatrix",
+   "entity_description": null,
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Loon op Zand",
+   "street": "Prinses Margrietstraat",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Princess Margriet",
+   "entity_description": null,
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

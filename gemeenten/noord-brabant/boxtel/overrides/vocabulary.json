@@ -1,0 +1,101 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Boxtel",
+   "street": "Apollopad",
+   "category": "person",
+   "subcategory": "mythological_figure",
+   "entity_label": "Apollo",
+   "entity_description": "Mythological figure or deity",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Berkenpad",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "De Wilgen",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Willow",
+   "entity_description": "Salix; Dutch name 'wilgen'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Dennendreef",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Europalaan",
+   "category": "place",
+   "subcategory": "country",
+   "entity_label": "Europe",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Puttersdreef",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Goldfinch",
+   "entity_description": "Carduelis carduelis; Dutch name 'putter'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Sint Janspontje",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Janspontje",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Sint Jorishoef",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Jorishoef",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

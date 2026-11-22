@@ -1,0 +1,173 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Amandusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Amand",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Antoniushof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Antoniusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Anthony",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Benedictusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Benedict",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Franciscusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Francis",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Janstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Josephstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Lambertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Maartenstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Martin",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Marcoenstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Marcoen",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Paulushof",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Paul",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Paulusweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Paul",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Vincentiusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Vincent",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  },
+  {
+   "gemeente": "Oosterhout",
+   "street": "Sint Willibrordstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Willibrord",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Vught",
+   "street": "De Gijzel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Gijzel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43273246",
+   "notes": "Same-named OpenStreetMap feature 'Gijzel' (place=hamlet) 179 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Glorieuxlaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Glorieux",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/80759750",
+   "notes": "Same-named OpenStreetMap feature 'Glorieux' (leisure=park) 200 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Maurickplein",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Maurickplein",
+   "entity_description": "square (OpenStreetMap place=square); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/830264373",
+   "notes": "Same-named OpenStreetMap feature 'Maurickplein' (place=square) 52 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Molenstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Molenstraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43257039",
+   "notes": "Same-named OpenStreetMap feature 'Molenstraat' (place=hamlet) 962 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Vught",
+   "street": "Raamse Loop",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Raamse Loop",
+   "entity_description": "stream (OpenStreetMap waterway=stream); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/1381817994",
+   "notes": "Same-named OpenStreetMap feature 'Raamse Loop' (waterway=stream) 41 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

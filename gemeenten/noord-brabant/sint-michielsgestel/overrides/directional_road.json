@@ -1,0 +1,101 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Beekseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Beek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Berlicumseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Berlicum",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Bosschebaan",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Brandsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Brand",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Donksestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Donk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Gestelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gestel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Sint-Michielsgestel",
+   "street": "Schijndelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schijndel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

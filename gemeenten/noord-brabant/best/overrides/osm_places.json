@@ -1,0 +1,113 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Best",
+   "street": "Aarlesche Erven",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Aarlesche Erven",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/11528878649",
+   "notes": "Same-named OpenStreetMap feature 'Aarlesche Erven' (place=neighbourhood) 221 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Bomenbeemd",
+   "category": "place",
+   "subcategory": "river",
+   "entity_label": "Bomenbeemd",
+   "entity_description": "ditch (OpenStreetMap waterway=ditch); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/1108084340",
+   "notes": "Same-named OpenStreetMap feature 'Bomenbeemd' (waterway=ditch) 90 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Driehoekweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Driehoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/12707958487",
+   "notes": "Same-named OpenStreetMap feature 'Driehoek' (place=hamlet) 276 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Heuveleind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Heuveleind",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3159094722",
+   "notes": "Same-named OpenStreetMap feature 'Heuveleind' (place=neighbourhood) 298 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Kruisparkweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kruispark",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/395935378",
+   "notes": "Same-named OpenStreetMap feature 'Kruispark' (leisure=park) 251 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Mosselaarweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Mosselaar",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42900736",
+   "notes": "Same-named OpenStreetMap feature 'Mosselaar' (place=hamlet) 896 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Salderes",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Salderes",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3159094726",
+   "notes": "Same-named OpenStreetMap feature 'Salderes' (place=neighbourhood) 323 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Schutboomweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Schutboom",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3159094727",
+   "notes": "Same-named OpenStreetMap feature 'Schutboom' (place=neighbourhood) 129 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Best",
+   "street": "Speelheideweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Speelheide",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3159094728",
+   "notes": "Same-named OpenStreetMap feature 'Speelheide' (place=neighbourhood) 339 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

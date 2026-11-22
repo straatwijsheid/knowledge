@@ -1,0 +1,101 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Goirle",
+   "street": "Abcovensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Abcoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Abcovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Abcoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Alphenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Alphen",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Beeksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Beek",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Goirleseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Goirle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Hoogeindseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoogeind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Rielsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Riel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Tilburgseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Tilburg",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Waalre",
+   "street": "Berkenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Dopheide",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Cross-leaved heath",
+   "entity_description": "Erica tetralix; Dutch name 'dopheide'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Gagelhof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Bog myrtle",
+   "entity_description": "Myrica gale; Dutch name 'gagel'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Hertenlaan",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Deer",
+   "entity_description": "Cervus elaphus; Dutch name 'hert'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Jeneverbes",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Juniper",
+   "entity_description": "Juniperus communis; Dutch name 'jeneverbes'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Struikheide",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Heather",
+   "entity_description": "Calluna vulgaris; Dutch name 'struikheide'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Van Gastelhof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Zonnedauw",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Sundew",
+   "entity_description": "Drosera; Dutch name 'zonnedauw'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

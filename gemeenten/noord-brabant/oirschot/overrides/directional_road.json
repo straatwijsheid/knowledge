@@ -1,0 +1,137 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Oirschot",
+   "street": "Bestseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Best",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Eindhovensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Geeneindseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Geeneind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Groenewoudsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Groenewoud",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Hoogeindseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hoogeind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Langendonksedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Langendonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Liempdsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Liempde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Oerlesedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oerle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Spoordonkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Spoordonk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Voldijnseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Voldijn",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Wintelresedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Wintelre",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

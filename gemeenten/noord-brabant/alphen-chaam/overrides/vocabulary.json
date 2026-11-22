@@ -1,0 +1,29 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Berkenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Alphen-Chaam",
+   "street": "Hazenpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Hare",
+   "entity_description": "Lepus europaeus; Dutch name 'hazen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

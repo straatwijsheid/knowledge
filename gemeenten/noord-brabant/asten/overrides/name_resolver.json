@@ -1,0 +1,113 @@
+{
+ "layer": "name_resolver",
+ "overrides": [
+  {
+   "gemeente": "Asten",
+   "street": "Amanietenhof",
+   "category": "thing",
+   "subcategory": "fungus",
+   "entity_label": "Amanieten",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'fungus' backed by 0 classified streets elsewhere, rules ['vocabulary']; neighbours in the buurt/wijk fit it (score 0.871, margin 0.871)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Dalkruid",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Maianthemum bifolium",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 2 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.825, margin 0.34)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Duindoorn",
+   "category": "thing",
+   "subcategory": null,
+   "entity_label": "Sea buckthorn",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'None' backed by 0 classified streets elsewhere, rules ['species']; neighbours in the buurt/wijk fit it (score 0.641, margin 0.334)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Heusdensedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heusden",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'dutch_town' backed by 3 classified streets elsewhere, rules ['directional_road']; neighbours in the buurt/wijk fit it (score 0.608, margin 0.306)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Kruisweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kruisstraat",
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 1 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.577, margin 0.474)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Mirabel",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Prunus domestica subsp. syriaca",
+   "entity_description": null,
+   "confidence": 0.58,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'flora' backed by 1 classified streets elsewhere, OSM; neighbours in the buurt/wijk fit it (score 0.553, margin 0.395)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Tamboerstraat",
+   "category": "thing",
+   "subcategory": "occupation_guild",
+   "entity_label": "Tamboer",
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'occupation_guild' backed by 11 classified streets elsewhere; neighbours in the buurt/wijk fit it (score 0.7, margin 0.316)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "Veldloop",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.59,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.572, margin 0.337)"
+  },
+  {
+   "gemeente": "Asten",
+   "street": "leemdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Name-level resolver: kind 'local_landscape_feature' backed by 0 classified streets elsewhere, rules ['ordinary_compound']; neighbours in the buurt/wijk fit it (score 0.613, margin 0.245)"
+  }
+ ]
+}

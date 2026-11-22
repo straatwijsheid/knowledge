@@ -1,0 +1,53 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Waalre",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Ekenrooisestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Ekenrooi",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Gestelsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gestel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Waalre",
+   "street": "Valkenswaardseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Valkenswaard",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

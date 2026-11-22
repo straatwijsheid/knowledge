@@ -1,0 +1,41 @@
+{
+ "layer": "osm_etymology",
+ "overrides": [
+  {
+   "gemeente": "Eersel",
+   "street": "Eikenbocht",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "notable oak tree",
+   "entity_description": "type of tree; a particular (notable) oak tree",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q33036816",
+   "notes": "OpenStreetMap wikidata P138: Q33036816"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Jan Smuldersstraat",
+   "category": "person",
+   "subcategory": "politician_statesman",
+   "entity_label": "Jan Smulders",
+   "entity_description": "politician (1898-1945)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q22668663",
+   "notes": "OpenStreetMap wikidata P138: Q22668663"
+  },
+  {
+   "gemeente": "Eersel",
+   "street": "Wilhelminalaan",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Wilhelmina of the Netherlands",
+   "entity_description": "Queen of the Netherlands from 1890 to 1948 (1880-1962)",
+   "confidence": 0.85,
+   "source": "osm_etymology",
+   "source_url": "https://www.wikidata.org/wiki/Q150747",
+   "notes": "OpenStreetMap wikidata P138: Q150747"
+  }
+ ]
+}

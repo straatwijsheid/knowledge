@@ -1,0 +1,17 @@
+{
+ "layer": "corrections",
+ "overrides": [
+  {
+   "gemeente": "Geertruidenberg",
+   "street": "Bergenstraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Bergen op Zoom",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Reviewed correction: Wikidata matched a Norwegian city; the street leads to Bergen op Zoom"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Reusel-De Mierden",
+   "street": "Denestraat",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

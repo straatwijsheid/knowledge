@@ -1,0 +1,149 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Boxtel",
+   "street": "Bestseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Best",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Bosscheweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Boxtelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Boxtel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Gemondesestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Gemonde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Haarenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Haaren",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Hezelaarsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hezelaar",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Liempdseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Liempde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Oirschotseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oirschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Schijndelsedijk",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schijndel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Schijndelseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Schijndel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Boxtel",
+   "street": "Vrilkhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Vrilkhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Veghel",
+   "street": "Baarsakker",
+   "category": "thing",
+   "subcategory": "fauna_fish",
+   "entity_label": "European perch",
+   "entity_description": "Perca fluviatilis; Dutch name 'baars'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Berkensteeg",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Bernhardshoeve",
+   "category": "person",
+   "subcategory": "monarch_statesman",
+   "entity_label": "Prince Bernhard",
+   "entity_description": null,
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Den Baars",
+   "category": "thing",
+   "subcategory": "fauna_fish",
+   "entity_label": "European perch",
+   "entity_description": "Perca fluviatilis; Dutch name 'baars'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Den Uil",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Owl",
+   "entity_description": "Strigiformes; Dutch name 'uil'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Klaverhoeve",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Clover",
+   "entity_description": "Trifolium; Dutch name 'klaver'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Veghel",
+   "street": "Vlaskamp",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Flax",
+   "entity_description": "Linum usitatissimum; Dutch name 'vlas'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

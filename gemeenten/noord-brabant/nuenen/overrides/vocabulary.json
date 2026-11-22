@@ -1,0 +1,125 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Nuenen",
+   "street": "De Haverkamp",
+   "category": "thing",
+   "subcategory": "flora_food",
+   "entity_label": "Oats",
+   "entity_description": "Avena sativa; Dutch name 'haver'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Frits Bakershof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Hoenshoeve",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Chicken",
+   "entity_description": "Gallus gallus; Dutch name 'hoen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Lambert Schoenmakershof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Lupinehof",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Lupin",
+   "entity_description": "Lupinus; Dutch name 'lupine'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Van Kemenadelaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Van den Waarsenburglaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Vossenkamp",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Fox",
+   "entity_description": "Vulpes vulpes; Dutch name 'vossen'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Willem Schutslaan",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Nuenen",
+   "street": "Willem van de Laarhof",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  }
+ ]
+}

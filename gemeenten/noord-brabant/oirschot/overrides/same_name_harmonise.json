@@ -1,0 +1,161 @@
+{
+ "layer": "same_name_harmonise",
+ "overrides": [
+  {
+   "gemeente": "Oirschot",
+   "street": "Berkenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Birch",
+   "entity_description": "Betula; Dutch name 'berk'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (18/21 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Beukenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Beech",
+   "entity_description": "Fagus sylvatica; Dutch name 'beuken'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (26/28 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Bremlaan",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Broom",
+   "entity_description": "Cytisus scoparius; Dutch name 'brem'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (6/8 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Buizerdlaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Common buzzard",
+   "entity_description": "Buteo buteo; Dutch name 'buizerd'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (3/4 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Esdoornlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Maple",
+   "entity_description": "Acer; Dutch name 'esdoorn'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (12/14 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Kastanjelaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Chestnut",
+   "entity_description": "Castanea / Aesculus; Dutch name 'kastanje'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (25/28 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Koekoeklaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Cuckoo",
+   "entity_description": "Cuculus canorus; Dutch name 'koekoek'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (4/5 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Leeuweriklaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Skylark",
+   "entity_description": "Alauda arvensis; Dutch name 'leeuwerik'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (7/8 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Lijsterlaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Thrush",
+   "entity_description": "Turdus; Dutch name 'lijster'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (11/12 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Merellaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Blackbird",
+   "entity_description": "Turdus merula; Dutch name 'merel'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (8/11 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Nachtegaallaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Nightingale",
+   "entity_description": "Luscinia megarhynchos; Dutch name 'nachtegaal'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (16/18 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Patrijslaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Grey partridge",
+   "entity_description": "Perdix perdix; Dutch name 'patrijs'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (8/10 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  },
+  {
+   "gemeente": "Oirschot",
+   "street": "Reigerlaan",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Heron",
+   "entity_description": "Ardea; Dutch name 'reiger'",
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Harmonised with the same-named street elsewhere (6/8 agree on 'thing'); the street's own buurt gave no support for a different reading"
+  }
+ ]
+}

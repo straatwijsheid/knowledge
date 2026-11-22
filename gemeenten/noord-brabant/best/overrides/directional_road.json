@@ -1,0 +1,149 @@
+{
+ "layer": "directional_road",
+ "overrides": [
+  {
+   "gemeente": "Best",
+   "street": "Aarleseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Aarle",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Amsterdamsestraat",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Amsterdam",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Bosseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "'s-Hertogenbosch",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Eindhovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Eindhoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Heuveleindseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Heuveleind",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Hurkseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Hurk",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Liempdseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Liempde",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Nijnselseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Nijnsel",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Oirschotseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Oirschot",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Sint-Oedenrodeseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Sint-Oedenrode",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Sonseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Son",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  },
+  {
+   "gemeente": "Best",
+   "street": "Steenovenseweg",
+   "category": "place",
+   "subcategory": "dutch_town",
+   "entity_label": "Steenoven",
+   "entity_description": "Road named after the place it leads to",
+   "confidence": 0.6,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Directional road name (<place>se<road>): named after the place it runs toward"
+  }
+ ]
+}

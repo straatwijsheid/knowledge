@@ -1,0 +1,173 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Cranendonck",
+   "street": "Dennenlaan",
+   "category": "thing",
+   "subcategory": "flora",
+   "entity_label": "Pine",
+   "entity_description": "Pinus; Dutch name 'den'",
+   "confidence": 0.45,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Dr. Ant. Mathijsenstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Juffrouw Coenenpad",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Kluut",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Pied avocet",
+   "entity_description": "Recurvirostra avosetta; Dutch name 'kluut'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Barbaraweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Barbara",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Cornelisplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Cornelius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Eloystraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Eligius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Jansweg",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint John",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Josephplein",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Josephstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Joseph",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Lambertusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Lambert",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Paulusstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Paul",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Sint Servaasstraat",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Servatius",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Cranendonck",
+   "street": "Zonnedauw",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Sundew",
+   "entity_description": "Drosera; Dutch name 'zonnedauw'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

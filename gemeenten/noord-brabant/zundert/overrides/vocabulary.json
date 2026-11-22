@@ -1,0 +1,65 @@
+{
+ "layer": "vocabulary",
+ "overrides": [
+  {
+   "gemeente": "Zundert",
+   "street": "Beverstraat",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Beaver",
+   "entity_description": "Castor fiber; Dutch name 'bever'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Boterbloem",
+   "category": "thing",
+   "subcategory": "flora_flower",
+   "entity_label": "Buttercup",
+   "entity_description": "Ranunculus; Dutch name 'boterbloem'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Eendenpad",
+   "category": "thing",
+   "subcategory": "fauna",
+   "entity_label": "Duck",
+   "entity_description": "Anas platyrhynchos; Dutch name 'eenden'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Jos Tilborghsstraat",
+   "category": "person",
+   "subcategory": "other",
+   "entity_label": null,
+   "entity_description": null,
+   "confidence": 0.3,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "Named after a person who could not be identified"
+  },
+  {
+   "gemeente": "Zundert",
+   "street": "Otterpad",
+   "category": "thing",
+   "subcategory": "fauna_mammal",
+   "entity_label": "Otter",
+   "entity_description": "Lutra lutra; Dutch name 'otter'",
+   "confidence": 0.5,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": null
+  }
+ ]
+}

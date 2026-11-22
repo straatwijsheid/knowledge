@@ -1,0 +1,101 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Roosendaal",
+   "street": "Akkerstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Akker",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7188616559",
+   "notes": "Same-named OpenStreetMap feature 'Akker' (place=hamlet) 300 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "De Nieuwenberg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nieuwenberg",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/43026800",
+   "notes": "Same-named OpenStreetMap feature 'Nieuwenberg' (place=hamlet) 244 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Honingbossenweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Honingbossen",
+   "entity_description": "forest (OpenStreetMap landuse=forest); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/76512288",
+   "notes": "Same-named OpenStreetMap feature 'Honingbossen' (landuse=forest) 83 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Kruisstraat",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Kruisstraat",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42851328",
+   "notes": "Same-named OpenStreetMap feature 'Kruisstraat' (place=hamlet) 381 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Plantage Centrum",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Plantage Centrum",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3129911241",
+   "notes": "Same-named OpenStreetMap feature 'Plantage Centrum' (place=hamlet) 158 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Plantage-centrum",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Plantage Centrum",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3129911241",
+   "notes": "Same-named OpenStreetMap feature 'Plantage Centrum' (place=hamlet) 816 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Steenpaal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Steenpaal",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/908575433",
+   "notes": "Same-named OpenStreetMap feature 'Steenpaal' (place=hamlet) 287 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Roosendaal",
+   "street": "Vleetweg",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vleet",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42677487",
+   "notes": "Same-named OpenStreetMap feature 'Vleet' (place=hamlet) 108 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "layer": "osm_places",
+ "overrides": [
+  {
+   "gemeente": "Goirle",
+   "street": "Bakertand",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Bakertand",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42940597",
+   "notes": "Same-named OpenStreetMap feature 'Bakertand' (place=hamlet) 30 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Brakel",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Brakel",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9403045496",
+   "notes": "Same-named OpenStreetMap feature 'Brakel' (place=hamlet) 373 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Breehees",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Breehees",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/42814586",
+   "notes": "Same-named OpenStreetMap feature 'Breehees' (place=hamlet) 586 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "De Halve Maan",
+   "category": "place",
+   "subcategory": "lake",
+   "entity_label": "Halve Maan",
+   "entity_description": "body of water (OpenStreetMap natural=water); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/relation/9786902",
+   "notes": "Same-named OpenStreetMap feature 'Halve Maan' (natural=water) 825 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Druisdijk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Druisdijk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1928969633",
+   "notes": "Same-named OpenStreetMap feature 'Druisdijk' (place=hamlet) 758 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Grobbendonckpark",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Grobbendonck",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3227429494",
+   "notes": "Same-named OpenStreetMap feature 'Grobbendonck' (place=neighbourhood) 108 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Hoge Wal",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Hoge Wal",
+   "entity_description": "neighbourhood (OpenStreetMap place=neighbourhood); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/3227429496",
+   "notes": "Same-named OpenStreetMap feature 'Hoge Wal' (place=neighbourhood) 170 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Krombeemden",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Krombeemden",
+   "entity_description": "park (OpenStreetMap leisure=park); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/way/795862913",
+   "notes": "Same-named OpenStreetMap feature 'Krombeemden' (leisure=park) 614 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Looienhoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Looienhoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/9403045495",
+   "notes": "Same-named OpenStreetMap feature 'Looienhoek' (place=hamlet) 323 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Nieuwkerk",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Nieuwkerk",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1928994916",
+   "notes": "Same-named OpenStreetMap feature 'Nieuwkerk' (place=hamlet) 264 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Spaansehoek",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Spaansehoek",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/5310681214",
+   "notes": "Same-named OpenStreetMap feature 'Spaansehoek' (place=hamlet) 482 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Vijfhuizenbaan",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Vijfhuizen",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/1928968698",
+   "notes": "Same-named OpenStreetMap feature 'Vijfhuizen' (place=hamlet) 311 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  },
+  {
+   "gemeente": "Goirle",
+   "street": "Zandeind",
+   "category": "place",
+   "subcategory": "local_landscape_feature",
+   "entity_label": "Zandeind",
+   "entity_description": "hamlet (OpenStreetMap place=hamlet); the street is named after this local place",
+   "confidence": 0.55,
+   "source": "osm_place",
+   "source_url": "https://www.openstreetmap.org/node/7202983929",
+   "notes": "Same-named OpenStreetMap feature 'Zandeind' (place=hamlet) 431 m from the street; read as named after the local place (policy: streets named after their own neighbourhood/hamlet are place / local name). Independent evidence the place exists here, not proof of the naming."
+  }
+ ]
+}

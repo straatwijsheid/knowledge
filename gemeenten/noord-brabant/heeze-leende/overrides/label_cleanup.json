@@ -1,0 +1,17 @@
+{
+ "layer": "label_cleanup",
+ "overrides": [
+  {
+   "gemeente": "Heeze-Leende",
+   "street": "Sint Willibrorduslaan",
+   "category": "person",
+   "subcategory": "religious",
+   "entity_label": "Saint Willibrord",
+   "entity_description": null,
+   "confidence": 0.4,
+   "source": "claude_knowledge",
+   "source_url": null,
+   "notes": "manually researched (claude_knowledge)"
+  }
+ ]
+}
