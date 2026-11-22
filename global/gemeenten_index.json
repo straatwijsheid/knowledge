@@ -1,0 +1,246 @@
+{
+ "_comment": "Gemeente identity. The key is the CBS gemeentecode (GM####): override layers, snapshots, review notes and the street data are keyed by it, the name is for display. 'historic' marks gemeenten that no longer exist (merged since); their street data is cut from the current gemeente's buurten by buurt prefix (see gemeenten.json 'merged'), so their code cannot come from PDOK. Codes from the CBS/PDOK gemeente list (2024), historic ones from Wikidata property P382. acquire.py adds new gemeenten.",
+ "gemeenten": {
+  "GM0743": {
+   "name": "Asten",
+   "province": "Noord-Brabant"
+  },
+  "GM0744": {
+   "name": "Baarle-Nassau",
+   "province": "Noord-Brabant"
+  },
+  "GM0748": {
+   "name": "Bergen op Zoom",
+   "province": "Noord-Brabant"
+  },
+  "GM0753": {
+   "name": "Best",
+   "province": "Noord-Brabant"
+  },
+  "GM0755": {
+   "name": "Boekel",
+   "province": "Noord-Brabant"
+  },
+  "GM0757": {
+   "name": "Boxtel",
+   "province": "Noord-Brabant"
+  },
+  "GM0758": {
+   "name": "Breda",
+   "province": "Noord-Brabant"
+  },
+  "GM0762": {
+   "name": "Deurne",
+   "province": "Noord-Brabant"
+  },
+  "GM0766": {
+   "name": "Dongen",
+   "province": "Noord-Brabant"
+  },
+  "GM0770": {
+   "name": "Eersel",
+   "province": "Noord-Brabant"
+  },
+  "GM0772": {
+   "name": "Eindhoven",
+   "province": "Noord-Brabant"
+  },
+  "GM0777": {
+   "name": "Etten-Leur",
+   "province": "Noord-Brabant"
+  },
+  "GM0779": {
+   "name": "Geertruidenberg",
+   "province": "Noord-Brabant"
+  },
+  "GM0784": {
+   "name": "Gilze en Rijen",
+   "province": "Noord-Brabant"
+  },
+  "GM0785": {
+   "name": "Goirle",
+   "province": "Noord-Brabant"
+  },
+  "GM0794": {
+   "name": "Helmond",
+   "province": "Noord-Brabant"
+  },
+  "GM0796": {
+   "name": "'s-Hertogenbosch",
+   "province": "Noord-Brabant"
+  },
+  "GM0797": {
+   "name": "Heusden",
+   "province": "Noord-Brabant"
+  },
+  "GM0798": {
+   "name": "Hilvarenbeek",
+   "province": "Noord-Brabant"
+  },
+  "GM0809": {
+   "name": "Loon op Zand",
+   "province": "Noord-Brabant"
+  },
+  "GM0820": {
+   "name": "Nuenen",
+   "province": "Noord-Brabant"
+  },
+  "GM0823": {
+   "name": "Oirschot",
+   "province": "Noord-Brabant"
+  },
+  "GM0824": {
+   "name": "Oisterwijk",
+   "province": "Noord-Brabant"
+  },
+  "GM0826": {
+   "name": "Oosterhout",
+   "province": "Noord-Brabant"
+  },
+  "GM0828": {
+   "name": "Oss",
+   "province": "Noord-Brabant"
+  },
+  "GM0840": {
+   "name": "Rucphen",
+   "province": "Noord-Brabant"
+  },
+  "GM0844": {
+   "name": "Schijndel",
+   "province": "Noord-Brabant",
+   "historic": true
+  },
+  "GM0845": {
+   "name": "Sint-Michielsgestel",
+   "province": "Noord-Brabant"
+  },
+  "GM0846": {
+   "name": "Sint-Oedenrode",
+   "province": "Noord-Brabant",
+   "historic": true
+  },
+  "GM0847": {
+   "name": "Someren",
+   "province": "Noord-Brabant"
+  },
+  "GM0848": {
+   "name": "Son en Breugel",
+   "province": "Noord-Brabant"
+  },
+  "GM0851": {
+   "name": "Steenbergen",
+   "province": "Noord-Brabant"
+  },
+  "GM0855": {
+   "name": "Tilburg",
+   "province": "Noord-Brabant"
+  },
+  "GM0856": {
+   "name": "Uden",
+   "province": "Noord-Brabant",
+   "historic": true
+  },
+  "GM0858": {
+   "name": "Valkenswaard",
+   "province": "Noord-Brabant"
+  },
+  "GM0860": {
+   "name": "Veghel",
+   "province": "Noord-Brabant",
+   "historic": true
+  },
+  "GM0861": {
+   "name": "Veldhoven",
+   "province": "Noord-Brabant"
+  },
+  "GM0865": {
+   "name": "Vught",
+   "province": "Noord-Brabant"
+  },
+  "GM0866": {
+   "name": "Waalre",
+   "province": "Noord-Brabant"
+  },
+  "GM0867": {
+   "name": "Waalwijk",
+   "province": "Noord-Brabant"
+  },
+  "GM0873": {
+   "name": "Woensdrecht",
+   "province": "Noord-Brabant"
+  },
+  "GM0879": {
+   "name": "Zundert",
+   "province": "Noord-Brabant"
+  },
+  "GM1652": {
+   "name": "Gemert-Bakel",
+   "province": "Noord-Brabant"
+  },
+  "GM1655": {
+   "name": "Halderberge",
+   "province": "Noord-Brabant"
+  },
+  "GM1658": {
+   "name": "Heeze-Leende",
+   "province": "Noord-Brabant"
+  },
+  "GM1659": {
+   "name": "Laarbeek",
+   "province": "Noord-Brabant"
+  },
+  "GM1667": {
+   "name": "Reusel-De Mierden",
+   "province": "Noord-Brabant"
+  },
+  "GM1674": {
+   "name": "Roosendaal",
+   "province": "Noord-Brabant"
+  },
+  "GM1685": {
+   "name": "Landerd",
+   "province": "Noord-Brabant",
+   "historic": true
+  },
+  "GM1706": {
+   "name": "Cranendonck",
+   "province": "Noord-Brabant"
+  },
+  "GM1709": {
+   "name": "Moerdijk",
+   "province": "Noord-Brabant"
+  },
+  "GM1719": {
+   "name": "Drimmelen",
+   "province": "Noord-Brabant"
+  },
+  "GM1721": {
+   "name": "Bernheze",
+   "province": "Noord-Brabant"
+  },
+  "GM1723": {
+   "name": "Alphen-Chaam",
+   "province": "Noord-Brabant"
+  },
+  "GM1724": {
+   "name": "Bergeijk",
+   "province": "Noord-Brabant"
+  },
+  "GM1728": {
+   "name": "Bladel",
+   "province": "Noord-Brabant"
+  },
+  "GM1771": {
+   "name": "Geldrop-Mierlo",
+   "province": "Noord-Brabant"
+  },
+  "GM1959": {
+   "name": "Altena",
+   "province": "Noord-Brabant"
+  },
+  "GM1982": {
+   "name": "Land van Cuijk",
+   "province": "Noord-Brabant"
+  }
+ }
+}

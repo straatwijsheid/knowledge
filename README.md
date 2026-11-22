@@ -19,7 +19,7 @@ global/                                  curated lists that apply everywhere
   rule_exclusions.json                   rule proposals that were reviewed and rejected, with the reason
   rules_status.json                      rules switched off until their proposals are reviewed
   osm_entity_kinds.json, osm_suggestions.json   reviewed kinds for OSM etymology items; tags we want added in OpenStreetMap
-  theme_labels.json, gemeenten.json, provinces.json
+  theme_labels.json, gemeenten.json (acquisition exceptions), gemeenten_index.json (the registry: CBS gemeentecode GM#### -> name and province)
 gemeenten/<province>/<gemeente>/
   REVIEW.md                              the review sheet (generated; answers go here)
   corrections.json                       reviewed street-level decisions, each with a reason; the last and strongest layer
@@ -27,7 +27,7 @@ gemeenten/<province>/<gemeente>/
   overrides/<layer>.json                 the street-level classification layers, one file per rule (legacy_hand = the frozen first-wave hand classifications)
 ```
 
-A street is identified by `(gemeente, street)`. The same street name can mean different people in different places, so the buurt decides, never the name alone.
+A street is identified by `(gemeente code, street)`: the CBS gemeentecode (GM####, see `global/gemeenten_index.json`), never the name, because two gemeenten can share a name (Bergen in Noord-Holland and in Limburg). The `gemeente` field inside entries is the display name; the shard directory (province, then name) is what ties an entry to its gemeente. The same street name can mean different people in different places, so the buurt decides, never the name alone.
 
 ## Corrections
 
