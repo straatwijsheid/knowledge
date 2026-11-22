@@ -11,6 +11,17 @@ Each gemeente has a review sheet, `gemeenten/<province>/<gemeente>/REVIEW.md`: s
 grouped by buurt. Add what you know in the *Your answer* column and open a pull request. Say where the knowledge comes from (a local history book, a street
 sign, an OpenStreetMap or Wikidata link); a plausible guess is welcome too, marked as such. Table headers are bilingual, Dutch (English).
 
+## Contributing
+
+- **Review-sheet answer:** see above; the easiest way to help, no tooling needed.
+- **A correction:** add an entry to `gemeenten/<province>/<gemeente>/corrections.json` (format below), always with a `reason` and, where you can, a source.
+- **A wrong rule proposal:** add the street to `global/rule_exclusions.json` under the rule's name, with the reason. Do not edit `overrides/<rule>.json` by hand: the code regenerates those files.
+- **A new gemeente:** an entry in `global/gemeenten_index.json` (CBS code, name, province) and its folder under `gemeenten/`, produced by `pipeline.py add` in the code repository.
+- Overrides are regenerated with `python src/rules/run.py --apply RULE` in the code repository; commit the regenerated files with the change that caused them.
+- Commit messages: a short imperative subject saying what changed. Knowledge is licensed CC-BY 4.0; give a source for what you add and do not paste text from websites or books.
+
+The full guide (setup, tests, adding a rule) is [CONTRIBUTING.md](https://github.com/straatwijsheid/straatwijsheid/blob/main/CONTRIBUTING.md) in the code repository.
+
 ## Layout
 
 ```
