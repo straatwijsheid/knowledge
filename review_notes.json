@@ -3,8 +3,8 @@
  "notes": {
   "Eindhoven|Generaal Bentinckstraat": "Your candidate is Johannes Adolf (Hans) Bentinck, WWII general-major and Engelandvaarder. Not applied: the Generalenbuurt mixes WWII Allied generals (Bradley, Patton, Marshall) with 19th-century Dutch generals (Chasse, Knoop, Anthing, Boreel), so a Napoleonic-era Bentinck is equally possible. Which do you think?",
   "Eindhoven|Boostenweg": "Your note: it points toward Best, but 'unlikely' to be directional. Left unresolved; Boosten reads as a surname, not as 'Best'.",
-  "Eindhoven|Henriëttestraat": "Wikidata painter match withdrawn. Your candidate: Henriette Pressburg (mother of Karl Marx, Frederik Philips's aunt; Q19841721). Plausible but unconfirmed: any sign the Philips family honoured her, or another Henriette/Henriëtte in the family?",
-  "Eindhoven|Hubertastraat": "No Philips family member called Huberta found (you looked too). Could it be a saint (Hubertus) or a person from outside the family?"
+  "Eindhoven|Henriëttestraat": "User's local knowledge: Henrietta Martina Bax (1847-1914), the OSM mapper's free-text note, looks like the mother of Anne Henriëtte Elisabeth Maria de Jongh (Anton Philips's wife): plausible, unverified (no source found). Wikidata painter match withdrawn. Other candidates: the wife herself, daughter Henriëtte Anna Philips (Q76268707). Neighbours: Frederiklaan = Frederik Philips (OSM), Elisabethlaan = his wife Maria Elisabeth Heijligers (OSM), Annastraat = Anton's wife. Open: not resolved, no OSM Wikidata tag yet.",
+  "Eindhoven|Hubertastraat": "OSM free text (mapper's note): 'Waarschijnlijk moeder van M.E.H. Tjaden' (probably the mother of M.E.H. Tjaden). We could not find M.E.H. Tjaden; do you know who that is (a Philips director or family member)? Then Huberta would be a Tjaden, not a Philips."
  },
  "extra": []
 }

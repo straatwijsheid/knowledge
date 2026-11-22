@@ -628,25 +628,13 @@
   },
   {
    "gemeente": "Eindhoven",
-   "street": "Frederiklaan",
-   "category": "person",
-   "subcategory": "industrialist_philips",
-   "entity_label": "Frederik Philips",
-   "entity_description": "Dutch-Jewish industrialist and banker (1830-1900), father of Gerard and Anton Philips",
-   "confidence": 0.75,
-   "source_url": "https://www.wikidata.org/wiki/Q1453131",
-   "reason": "review sheet (user, 'definitely'): Philipsdorp names the Philips family, and the earlier Wikidata match (a Finnish singer called Frederik) is wrong for this buurt",
-   "from_osm": true
-  },
-  {
-   "gemeente": "Eindhoven",
    "street": "Henriëttestraat",
    "category": "person",
    "subcategory": "industrialist_philips",
    "entity_label": null,
    "entity_description": null,
    "confidence": 0.4,
-   "reason": "review sheet: the earlier Wikidata match (painter Henriette Ronner-Knip) does not fit the Philips garden village and is withdrawn. User's candidate: Henriette Pressburg (Q19841721), aunt of Frederik Philips and mother of Karl Marx; plausible but unconfirmed, so only the kind is kept"
+   "reason": "the earlier Wikidata match (painter Henriette Ronner-Knip) does not fit the Philips garden village and is withdrawn. Candidates: Anton Philips's wife Anne Henriette Elisabeth Maria de Jongh, his daughter Henriette Anna Philips (1906-2007, Wikidata Q76268707), or Frederik Philips's aunt Henriette Pressburg (Q19841721, less likely). The neighbouring streets honour the family (Frederiklaan = Frederik Philips, Elisabethlaan = his wife Maria Elisabeth Heijligers per OSM, Annastraat = Anton's wife). Unresolved, so only the kind is kept."
   }
  ]
 }

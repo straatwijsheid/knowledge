@@ -1,20 +1,20 @@
 {
-  "_comment": "Streets a rule proposes but that were reviewed and rejected; run.py drops them. Keep a reason for each.",
-  "vocabulary": {
-    "Sint-Annaziekenhuislaan": "a hospital named after the saint, not the saint's street",
-    "Reedijk": "more likely a surname or place name than a roe deer",
-    "Valkhof": "probably a place name rather than a falcon"
-  },
-  "titles": {
-    "Ter Vorseldreef": "'Ter Vorsel' may be a place or estate name rather than a surname",
-    "Van Gorkumlaan": "Gorkum is the old name of Gorinchem: may lead to the town, not name a person",
-    "Van Strijenstraat": "Strijen is a Dutch town; may be a directional road rather than a surname"
-  },
-  "osm_etymology": {
-    "Jupiterweg": "the OSM tag says juniper; the buurten (Loovelt: planets and gods; an industrial estate) point to Jupiter"
-  },
-  "name_resolver": {
-    "Schellingstraat": "Schelling the philosopher, not the coin (ambiguous across gemeenten)",
-    "Philipsweg": "label 'Philips (industrial family)' came from a famous-people entry typed as scientist; not established for this street"
-  }
+ "_comment": "Streets a rule proposes but that were reviewed and rejected; run.py drops them. Keep a reason for each.",
+ "vocabulary": {
+  "Sint-Annaziekenhuislaan": "a hospital named after the saint, not the saint's street",
+  "Reedijk": "more likely a surname or place name than a roe deer",
+  "Valkhof": "probably a place name rather than a falcon"
+ },
+ "titles": {
+  "Ter Vorseldreef": "'Ter Vorsel' may be a place or estate name rather than a surname",
+  "Van Gorkumlaan": "Gorkum is the old name of Gorinchem: may lead to the town, not name a person",
+  "Van Strijenstraat": "Strijen is a Dutch town; may be a directional road rather than a surname"
+ },
+ "osm_etymology": {
+  "Jupiterweg": "the OSM tag says juniper; the buurten (Loovelt: planets and gods; an industrial estate) point to Jupiter"
+ },
+ "name_resolver": {
+  "Schellingstraat": "Schelling the philosopher, not the coin (ambiguous across gemeenten)",
+  "Philipsweg": "label 'Philips (industrial family)' came from a famous-people entry typed as scientist; not established for this street"
+ }
 }
