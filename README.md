@@ -25,6 +25,7 @@ The full guide (setup, tests, adding a rule) is [CONTRIBUTING.md](https://github
 ## Layout
 
 ```
+schema_version                          one integer: the layout version; core refuses a checkout whose version it does not read
 global/                                  curated lists that apply everywhere
   vocabulary.json, species*.txt, famous_people.txt, common_*.txt, person_labels.json, directional_places.json, place_match_corrections.json
   rule_exclusions.json                   rule proposals that were reviewed and rejected, with the reason
