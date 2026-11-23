@@ -1,8 +1,8 @@
 # Review sheet / Controleblad: Goirle
 
-Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen thuisbrengen, staat de straat hieronder. Typ in de laatste kolom wat u weet, bijvoorbeeld `Jan Ban, organist` of `fout: dit is een plant`; sla over wat u niet weet. Gebruik het teken `|` niet in een antwoord. Zie [CONTRIBUTING](https://github.com/straatwijsheid/straatwijsheid/blob/main/CONTRIBUTING.md).
+Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen thuisbrengen, staat de straat hieronder. Typ in de laatste kolom wat u weet, bijvoorbeeld `Jan Ban, organist` of `fout: dit is een plant`; sla over wat u niet weet. Gebruik het teken `|` niet in een antwoord. Uitleg en bronnen: [REVIEWING](https://github.com/straatwijsheid/knowledge/blob/main/REVIEWING.md).
 
-*Welcome! This sheet asks for your local knowledge. Where we cannot place a street name, the street is listed below. Type what you know in the last column, for example `Jan Ban, organist` or `wrong: this is a plant`; skip any you do not know. Do not use the `|` character in an answer.*
+*Welcome! This sheet asks for your local knowledge. Where we cannot place a street name, the street is listed below. Type what you know in the last column, for example `Jan Ban, organist` or `wrong: this is a plant`; skip any you do not know. Do not use the `|` character in an answer. How to, and what counts as a source: see the link above.*
 
 ## Personen zonder bekende naamgever (Streets read as a person, namesake unknown)
 

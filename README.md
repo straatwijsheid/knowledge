@@ -9,7 +9,9 @@ Licence: CC-BY 4.0, see `LICENSE` and `ATTRIBUTION.md`.
 
 Each gemeente has a review sheet, `gemeenten/<province>/<gemeente>/REVIEW.md`: streets we read as a kind of person (or place, or thing) but cannot name yet,
 grouped by buurt. Add what you know in the *Your answer* column and open a pull request. Say where the knowledge comes from (a local history book, a street
-sign, an OpenStreetMap or Wikidata link); a plausible guess is welcome too, marked as such. Table headers are bilingual, Dutch (English).
+sign, an OpenStreetMap or Wikidata link); a plausible guess is welcome too, marked as such. The sheets are Dutch first with English beside it.
+
+Step by step, what counts as a source and what happens to your answer: **[REVIEWING.md](REVIEWING.md)** (Nederlands / English).
 
 ## Contributing
 
@@ -33,7 +35,7 @@ global/                                  curated lists that apply everywhere
   osm_entity_kinds.json, osm_suggestions.json   reviewed kinds for OSM etymology items; tags we want added in OpenStreetMap
   theme_labels.json, gemeenten.json (acquisition exceptions), gemeenten_index.json (the registry: CBS gemeentecode GM#### -> name and province)
 gemeenten/<province>/<gemeente>/
-  REVIEW.md                              the review sheet (generated; answers go here)
+  REVIEW.md                              the review sheet (generated; answers go here); REVIEWING.md at the top: how to fill one in
   corrections.json                       reviewed street-level decisions, each with a reason; the last and strongest layer
   review_notes.json                      notes shown in the review sheet
   overrides/<layer>.json                 the street-level classification layers, one file per rule (legacy_hand = the frozen first-wave hand classifications)
