@@ -26,7 +26,7 @@ The full guide (setup, tests, adding a rule) is [CONTRIBUTING.md](https://github
 
 ## Checks and automation
 
-- **Every pull request** runs the `check` workflow (`.github/workflows/check.yml`): in a review sheet only the *Your answer* column may change and each answer must name someone; a correction needs a reason and a valid category. A guess or an answer without a source link is accepted but noted. The checks are in the code repository (`src/ingest_answers.py`).
+- **Every pull request** runs the `check` workflow (`.github/workflows/check.yml`): a review sheet may differ from before only in its *Your answer* cells (headings, tables, streets, order and text are generated and must not change), each answer must name someone, and a correction needs a reason and a valid category. A guess or an answer without a source link is accepted but noted. The checks are in the code repository (`src/ingest_answers.py`). A sheet is derived data: if one is ever damaged, regenerating it restores the structure and keeps the well-formed answers.
 - **`regenerate sheets`** (run by hand from the Actions tab after a release) re-renders every sheet from the build's published inputs and opens a pull request; answers are kept.
 
 ## Layout

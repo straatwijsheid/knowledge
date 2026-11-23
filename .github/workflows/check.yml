@@ -1,15 +1,17 @@
 name: check
 
 # Every pull request: the review-sheet answers and corrections it changes must be readable and well formed.
-# Only the answer column of a sheet may change, an answer must name someone, a correction needs a reason. (Sheet regeneration pull requests,
-# branch regenerate-sheets/..., change generated rows on purpose and are skipped.) The checks live in the code repository (src/ingest_answers.py).
+# A sheet may differ from its base only in its answer cells: headings (the links' anchors), tables, streets, order and prose must be unchanged.
+# An answer must name someone, a correction needs a reason. (Regeneration pull requests are opened by github-actions[bot], change generated
+# rows on purpose and are skipped; the author, not the branch name, decides, so nobody can claim the exemption.) The checks live in the code
+# repository (src/ingest_answers.py).
 
 on:
   pull_request:
 
 jobs:
   answers:
-    if: ${{ !startsWith(github.head_ref, 'regenerate-sheets/') }}
+    if: ${{ github.event.pull_request.user.login != 'github-actions[bot]' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
