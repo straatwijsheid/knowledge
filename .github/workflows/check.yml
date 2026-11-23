@@ -9,6 +9,10 @@ name: check
 on:
   pull_request:
 
+# Read-only token: the job only checks out code and runs checks.
+permissions:
+  contents: read
+
 jobs:
   answers:
     if: ${{ github.event.pull_request.user.login != 'github-actions[bot]' }}
