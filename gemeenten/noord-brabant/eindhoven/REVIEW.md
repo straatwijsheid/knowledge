@@ -22,7 +22,6 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal Hardenbergpad | military | 3 |  | |
 | Generaal Horrocksstraat | military | 3 |  | |
 | Generaal Linckerslaan | military | 3 |  | |
-| Generaal Pelpad | military | 3 |  | |
 | Generaal Schagenpad | military | 3 |  | |
 | Generaal Smissaertstraat | military | 3 |  | |
 | Generaal Stedmanstraat | military | 3 |  | |
