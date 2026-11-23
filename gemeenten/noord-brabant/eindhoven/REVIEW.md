@@ -1,6 +1,6 @@
 # Review sheet: Eindhoven
 
-Streets read as *a person of some kind* but with no namesake identified. Per buurt: the naming theme we detected, then each street with the kind we assigned. Answer however is quickest, e.g. `Banstraat = Jan Ban, organist` or `Bertelmanstraat: wrong, a plant`. Skip any you do not know.
+Streets read as *a person of some kind* but with no namesake identified. Per buurt: the naming theme we detected, then each street with the kind we assigned. Type your answer in the last column, however is quickest, e.g. `Banstraat = Jan Ban, organist` or `Bertelmanstraat: wrong, a plant`. Skip any you do not know. Do not use the `|` character in an answer.
 
 ## Generalenbuurt (Eindhoven): 35 streets
 *Buurt theme detected:* Allied/Dutch WWII generals and statesmen
@@ -475,84 +475,84 @@ Streets read as *a person of some kind* but with no namesake identified. Per buu
 | Doctor Poletlaan | other | 3 |  | |
 | Joseph Alexis Kerfflaan | other | 3 |  | |
 
-## BeA2 (Eindhoven): 1 streets
+## BeA2 (Eindhoven): 1 street
 *Buurt theme detected:* No clear pattern in this small/mixed set (generic + a few surnames)
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Dirk Noordhoflaan | other | 3 |  | |
 
-## Eckartdal (Eindhoven): 1 streets
+## Eckartdal (Eindhoven): 1 street
 *Buurt theme detected:* Historic Eckart estate (castle, coach house, avenue)
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Frans Starkpad | other | 3 |  | |
 
-## Grasrijk (Eindhoven): 1 streets
+## Grasrijk (Eindhoven): 1 street
 *Buurt theme detected:* "Gras" (grass)-prefixed nature branding for a modern development
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Peter Zuidlaan | other | 3 |  | |
 
-## Hagenkamp (Eindhoven): 1 streets
+## Hagenkamp (Eindhoven): 1 street
 *Buurt theme detected:* Medieval Burgundian/Habsburg nobility
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Polanenweg | monarch statesman | 4 |  | |
 
-## Karpen (Eindhoven): 1 streets
+## Karpen (Eindhoven): 1 street
 *Buurt theme detected:* 19th-century Dutch statesmen, plus a Dutch East Indies place sub-cluster
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Koudenhovenseweg Noord | politician statesman | 4 |  | |
 
-## Kronehoef (Eindhoven): 1 streets
+## Kronehoef (Eindhoven): 1 street
 *Buurt theme detected:* Small fur-bearing mammals, plus textile-guild trades and one WWII general
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Deken van Liempdstraat | military | 3 |  | |
 
-## Looiakkers (Eindhoven): 1 streets
+## Looiakkers (Eindhoven): 1 street
 *Buurt theme detected:* Too small; two Dutch writers present
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Hofdijkstraat | unspecified individual | 3 |  | |
 
-## Oude Gracht-West (Eindhoven): 1 streets
+## Oude Gracht-West (Eindhoven): 1 street
 *Buurt theme detected:* Greek mythology (matches Oude Gracht-Oost)
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Melpomenestraat | mythological figure | 4 |  | |
 
-## Sintenbuurt (Eindhoven): 1 streets
+## Sintenbuurt (Eindhoven): 1 street
 *Buurt theme detected:* Catholic saints and clergy
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Rector Baptistlaan | religious | 3 |  | |
 
-## Tempel (Eindhoven): 1 streets
+## Tempel (Eindhoven): 1 street
 *Buurt theme detected:* Belgian towns
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Bisschop Bekkerslaan | religious | 3 |  | |
 
-## Vaartbroek (Eindhoven): 1 streets
+## Vaartbroek (Eindhoven): 1 street
 *Buurt theme detected:* Fruits and vegetables, plus one WWII outlier (Airborne)
 
 | Street | We read it as | Tier | Our note | Your answer |
 |---|---|---|---|---|
 | Bert Oosterboschpad | other | 3 |  | |
 
-## Woensel-West (Eindhoven): 1 streets
+## Woensel-West (Eindhoven): 1 street
 *Buurt theme detected:* Physicists, inventors, and engineers, plus a small timber-type sub-cluster (Douglashout, Grenenhout, Loofhout, Naaldhout)
 
 | Street | We read it as | Tier | Our note | Your answer |
