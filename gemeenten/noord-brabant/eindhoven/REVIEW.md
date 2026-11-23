@@ -22,11 +22,11 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal Hardenbergpad | military | 3 |  | |
 | Generaal Horrocksstraat | military | 3 |  | |
 | Generaal Linckerslaan | military | 3 |  | |
-| Generaal Pelpad | military | 3 |  | |
+| Generaal Pelpad | military | 3 |  | Pel, generaal |
 | Generaal Schagenpad | military | 3 |  | |
 | Generaal Smissaertstraat | military | 3 |  | |
 | Generaal Stedmanstraat | military | 3 |  | |
-| Generaal Vetterpad | military | 3 |  | |
+| Generaal Vetterpad | painter | 3 |  | |
 | Generaal Wicherslaan | military | 3 |  | |
 | Generaal de Bonsstraat | military | 3 |  | |
 | Generaal de Carislaan | military | 3 |  | |
