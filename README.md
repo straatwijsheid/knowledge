@@ -24,6 +24,11 @@ Step by step, what counts as a source and what happens to your answer: **[REVIEW
 
 The full guide (setup, tests, adding a rule) is [CONTRIBUTING.md](https://github.com/straatwijsheid/straatwijsheid/blob/main/CONTRIBUTING.md) in the code repository.
 
+## Checks and automation
+
+- **Every pull request** runs the `check` workflow (`.github/workflows/check.yml`): in a review sheet only the *Your answer* column may change and each answer must name someone; a correction needs a reason and a valid category. A guess or an answer without a source link is accepted but noted. The checks are in the code repository (`src/ingest_answers.py`).
+- **`regenerate sheets`** (run by hand from the Actions tab after a release) re-renders every sheet from the build's published inputs and opens a pull request; answers are kept.
+
 ## Layout
 
 ```
