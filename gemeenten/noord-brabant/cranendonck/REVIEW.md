@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Budel (Cranendonck): 33 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
+### Budel (Cranendonck)
+*33 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Van Hunselstraat | other | 3 |  | |
 | Wollenhoekstraat | other | 3 |  | |
 
-### Budel-Schoot (Cranendonck): 14 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
+### Budel-Schoot (Cranendonck)
+*14 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Strickstraat | other | 3 |  | |
 | Wethouder Lammersplantsoen | other | 3 |  | |
 
-### Budel-Dorplein (Cranendonck): 6 straten
-*Buurtthema (Buurt theme):* royals and nobility, saints and clergy and local people
+### Budel-Dorplein (Cranendonck)
+*6 straten (streets). Buurtthema (Buurt theme):* royals and nobility, saints and clergy and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Theo Stevenslaan | other | 3 |  | |
 | Thijssenstraat | other | 3 |  | |
 
-### Soerendonk (Cranendonck): 6 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Soerendonk (Cranendonck)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Schoonvorstlaan | other | 3 |  | |
 | Van Sevenbornlaan | other | 3 |  | |
 
-### Verspreide huizen in het Oosten (Cranendonck): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
+### Verspreide huizen in het Oosten (Cranendonck)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -103,30 +103,30 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Miel Davitsstraat | other | 3 |  | |
 | Van der Puttenstraat | other | 3 |  | |
 
-### Maarheeze (Cranendonck): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and birds
+### Maarheeze (Cranendonck)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Everard Winterslaan | other | 3 |  | |
 | Smits van Oyenlaan | other | 3 |  | |
 
-### Gastel (Cranendonck): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Gastel (Cranendonck)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Teeuwenweg | unspecified individual | 3 |  | |
 
-### Heikant, Meemortel, Bosch (Cranendonck): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual and local field, farm and road names
+### Heikant, Meemortel, Bosch (Cranendonck)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Mulkstraat | unspecified individual | 3 |  | |
 
-### Verspreide huizen Soerendonk (Cranendonck): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
+### Verspreide huizen Soerendonk (Cranendonck)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

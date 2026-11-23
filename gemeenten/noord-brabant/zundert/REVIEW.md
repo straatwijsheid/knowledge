@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Rijsbergen (Zundert): 25 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Rijsbergen (Zundert)
+*25 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wilhelminastraat | monarch statesman | 3 |  | |
 | van Oosterhoutstraat | monarch statesman | 4 |  | |
 
-### Wernhout (Zundert): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, flowers and local people
+### Wernhout (Zundert)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rietbergen | unspecified individual | 3 |  | |
 | Weimerpad | unspecified individual | 3 |  | |
 
-### Verspreide huizen Zundert (Zundert): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and roads named after nearby places
+### Verspreide huizen Zundert (Zundert)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Juul deKortere | other | 3 |  | |
 | Waaijenbergstraat | other | 3 |  | |
 
-### Verspreide huizen Achtmaal (Zundert): 3 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Achtmaal (Zundert)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -70,47 +70,47 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jos Tilborghsstraat | other | 3 |  | |
 | Lambertus van der Meerstraat | other | 3 |  | |
 
-### Achtmaal (Zundert): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
+### Achtmaal (Zundert)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor de Bakkerstraat | other | 3 |  | |
 | van den Berghstraat | unspecified individual | 3 |  | |
 
-### Klein-Zundert (Zundert): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Klein-Zundert (Zundert)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Kievitslaan | other | 3 |  | |
 | Jan Koekenplein | other | 3 |  | |
 
-### Verspreide huizen Klein-Zundert (Zundert): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
+### Verspreide huizen Klein-Zundert (Zundert)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van Vessemstraat | unspecified individual | 3 |  | |
 | Professor H. van der Hoevenstraat | unspecified individual | 3 |  | |
 
-### Zundert (Zundert): 2 straten
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and birds
+### Zundert (Zundert)
+*2 straten (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Manderslaan | unspecified individual | 3 |  | |
 | Pieter van Ginnekenstraat | other | 3 |  | |
 
-### (no buurt) (Zundert): 1 straat
-*Buurtthema (Buurt theme):* (none)
+### (no buurt) (Zundert)
+*1 straat (streets). Buurtthema (Buurt theme):* (none)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Montenslaan | other | 3 |  | |
 
-### Verspreide huizen in het Westen (Zundert): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen in het Westen (Zundert)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

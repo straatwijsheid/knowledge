@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Hilvarenbeek (Hilvarenbeek): 26 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trades, guilds and offices
+### Hilvarenbeek (Hilvarenbeek)
+*26 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Heijdenstraat | other | 3 |  | |
 | Willem Bonnaertsstraat | other | 3 |  | |
 
-### Diessen (Hilvarenbeek): 17 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and fruit and crops
+### Diessen (Hilvarenbeek)
+*17 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and fruit and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willekensdreef | other | 3 |  | |
 | Willibrordusstraat | religious | 3 |  | |
 
-### Haghorst (Hilvarenbeek): 7 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Haghorst (Hilvarenbeek)
+*7 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Bijsterveldtstraat | other | 3 |  | |
 | Van Oosterwijkstraotje | other | 3 |  | |
 
-### Biest-Houtakker (Hilvarenbeek): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Biest-Houtakker (Hilvarenbeek)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Boelaarsstraat | other | 3 |  | |
 | Piet Leermakersstraat | other | 3 |  | |
 
-### Verspreide huizen Haghorst (Hilvarenbeek): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
+### Verspreide huizen Haghorst (Hilvarenbeek)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stalpaertsweg | other | 3 |  | |
 | Wijnhovenstraat | other | 3 |  | |
 
-### Verspreide huizen Baarschot (Hilvarenbeek): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and roads named after nearby places
+### Verspreide huizen Baarschot (Hilvarenbeek)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -105,16 +105,16 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lombartsstraat | other | 3 |  | |
 | Van de Veldenweg | other | 3 |  | |
 
-### Esbeek (Hilvarenbeek): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
+### Esbeek (Hilvarenbeek)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Lauwersstraat | unspecified individual | 3 |  | |
 | Pastoor Jurgensstraat | unspecified individual | 3 |  | |
 
-### Verspreide huizen Hilvarenbeek (Hilvarenbeek): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Hilvarenbeek (Hilvarenbeek)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

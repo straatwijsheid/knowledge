@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Vlier-Zuid (Deurne): 8 straten
-*Buurtthema (Buurt theme):* local people, scientists and local field, farm and road names
+### Vlier-Zuid (Deurne)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, scientists and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Swinkelslaan | other | 3 |  | |
 | Thijssestraat | other | 3 |  | |
 
-### Deurne Centrum (Deurne): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Deurne Centrum (Deurne)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Torenstraat | unspecified individual | 3 |  | |
 | Van Gilsstraat | other | 3 |  | |
 
-### Helenaveen kern (Deurne): 6 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Helenaveen kern (Deurne)
+*6 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Kerssemakersstraat | other | 3 |  | |
 | Pastoor van Haarenstraat | other | 3 |  | |
 
-### Neerkant kern (Deurne): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and mammals
+### Neerkant kern (Deurne)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and mammals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Sandenstraat | other | 3 |  | |
 | Woltersstraat | other | 3 |  | |
 
-### Koolhof-Noord (Deurne): 3 straten
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Koolhof-Noord (Deurne)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Swalm | writer poet | 4 |  | |
 | Wiegershof | other | 3 |  | |
 
-### Liessel kern (Deurne): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Liessel kern (Deurne)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Pigmanspad | unspecified individual | 3 |  | |
 | Pater Aartsplein | unspecified individual | 3 |  | |
 
-### Vlier-Noord (Deurne): 3 straten
-*Buurtthema (Buurt theme):* local people, politicians and local field, farm and road names
+### Vlier-Noord (Deurne)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, politicians and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -83,84 +83,84 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Keizerstraat | politician statesman | 4 |  | |
 | Ywan de Molstraat | other | 3 |  | |
 
-### Heilige Geest (Deurne): 2 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Heilige Geest (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hellemanstraat | other | 3 |  | |
 | Pastoor Jacobsstraat | other | 3 |  | |
 
-### Houtenhoek (Deurne): 2 straten
-*Buurtthema (Buurt theme):* Mostly composers
+### Houtenhoek (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kemper | musician composer | 4 |  | |
 | Schommerveld | musician composer | 4 |  | |
 
-### Sint Jozefparochie-Oost (Deurne): 2 straten
-*Buurtthema (Buurt theme):* Mostly painters
+### Sint Jozefparochie-Oost (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Klinkerhof | artist visual | 4 |  | |
 | Tasveld | artist visual | 4 |  | |
 
-### Verspreide woningen bij Helenaveen (Deurne): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide woningen bij Helenaveen (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rector Nuijtsstraat | other | 3 |  | |
 | Zinkskeslaan | other | 3 |  | |
 
-### Vlierden kern (Deurne): 2 straten
-*Buurtthema (Buurt theme):* scientists, local field, farm and road names and unspecified_individual
+### Vlierden kern (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* scientists, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Notenpad | unspecified individual | 3 |  | |
 | Petersakker | scientist | 4 |  | |
 
-### Zeilberg (Deurne): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and unspecified_individual
+### Zeilberg (Deurne)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Blasiusstraat | religious | 3 |  | |
 | Pastoor Piggenlaantje | monarch statesman | 3 |  | |
 
-### Bedrijventerrein Kranenmortel (Deurne): 1 straat
-*Buurtthema (Buurt theme):* scientists, technology and tools and local people
+### Bedrijventerrein Kranenmortel (Deurne)
+*1 straat (streets). Buurtthema (Buurt theme):* scientists, technology and tools and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Huub van Doorneweg | other | 3 |  | |
 
-### Sint Jozefparochie-West (Deurne): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and saints and clergy
+### Sint Jozefparochie-West (Deurne)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Roefslaan | religious | 3 |  | |
 
-### Stationsbuurt (Deurne): 1 straat
-*Buurtthema (Buurt theme):* royals and nobility, local landmarks and institutions and local field, farm and road names
+### Stationsbuurt (Deurne)
+*1 straat (streets). Buurtthema (Buurt theme):* royals and nobility, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Stadhoudersweg | monarch statesman | 3 |  | |
 
-### Verspreide woningen bij Deurne (Deurne): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide woningen bij Deurne (Deurne)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester de Jonghlaan | other | 3 |  | |
 
-### Verspreide woningen bij Liessel (Deurne): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
+### Verspreide woningen bij Liessel (Deurne)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

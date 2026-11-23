@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Reusel (Reusel-De Mierden): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Reusel (Reusel-De Mierden)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lensheuvel | other | 3 |  | |
 | Poting | other | 3 |  | |
 
-### Hooge Mierde (Reusel-De Mierden): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
+### Hooge Mierde (Reusel-De Mierden)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Moerman | other | 3 |  | |
 | Toon van den Bornestraat | other | 3 |  | |
 
-### Lage Mierde (Reusel-De Mierden): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and fruit and crops
+### Lage Mierde (Reusel-De Mierden)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and fruit and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -37,31 +37,31 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hoosemansstraat | other | 3 |  | |
 | Richelpad | other | 3 |  | |
 
-### De Voort en Achterste Heikant (Reusel-De Mierden): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### De Voort en Achterste Heikant (Reusel-De Mierden)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Leijenstraat | other | 3 |  | |
 | Pikoreistraat | other | 3 |  | |
 
-### Hulsel (Reusel-De Mierden): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Hulsel (Reusel-De Mierden)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Eversacker | other | 3 |  | |
 | Van Wagenbergstraat | other | 3 |  | |
 
-### Buitengebied ten noorden van Reusel (Reusel-De Mierden): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, rivers and trades, guilds and offices
+### Buitengebied ten noorden van Reusel (Reusel-De Mierden)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, rivers and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rijperspad | other | 3 |  | |
 
-### Buitengebied ten zuiden van Reusel (Reusel-De Mierden): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied ten zuiden van Reusel (Reusel-De Mierden)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

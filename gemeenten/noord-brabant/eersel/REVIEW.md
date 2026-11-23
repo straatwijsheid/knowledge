@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Eersel-kom en Lindeakkers (Eersel): 11 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Eersel-kom en Lindeakkers (Eersel)
+*11 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stevensstraat | other | 3 |  | |
 | Zuster Reinildislaan | religious | 3 |  | |
 
-### Eersel-Zuid (Eersel): 8 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Eersel-Zuid (Eersel)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van der Boomstraat | unspecified individual | 3 |  | |
 | van der Zandenstraat | unspecified individual | 3 |  | |
 
-### Duizel (Eersel): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Duizel (Eersel)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Tuijlhof | other | 3 |  | |
 | Wintermanshof | other | 3 |  | |
 
-### Steensel (Eersel): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
+### Steensel (Eersel)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Joseph Schulteweg | other | 3 |  | |
 | Van Kriekenbeeckhof | other | 3 |  | |
 
-### Verspreide huizen Vessem (Eersel): 4 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Vessem (Eersel)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,43 +72,43 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Meester de la Courtstraat | other | 3 |  | |
 | Meester van Hasseltweg | other | 3 |  | |
 
-### De Donksbergen (Eersel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### De Donksbergen (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | De Hendrick Robinetlaan | other | 3 |  | |
 
-### Knegsel-kom (Eersel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Knegsel-kom (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Henk Imming plein | other | 3 |  | |
 
-### Molenakkers (Eersel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Molenakkers (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur de Haasstraat | other | 3 |  | |
 
-### Molenveld en Schadewijk (Eersel): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual and local field, farm and road names
+### Molenveld en Schadewijk (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Alsbergdreef | unspecified individual | 3 |  | |
 
-### Verspreide huizen Knegsel (Eersel): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local landmarks and institutions
+### Verspreide huizen Knegsel (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Eykenweg | other | 3 |  | |
 
-### Wintelre-kom (Eersel): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
+### Wintelre-kom (Eersel)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

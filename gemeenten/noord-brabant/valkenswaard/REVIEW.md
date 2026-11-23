@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Agnetendal (Valkenswaard): 36 straten
-*Buurtthema (Buurt theme):* Mostly saints and clergy
+### Agnetendal (Valkenswaard)
+*36 straten (streets). Buurtthema (Buurt theme):* Mostly saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Victordal | religious | 3 |  | |
 | Wijnakkers | religious | 4 |  | |
 
-### Kerkakkers (Valkenswaard): 11 straten
-*Buurtthema (Buurt theme):* Local people, explorers and politicians
+### Kerkakkers (Valkenswaard)
+*11 straten (streets). Buurtthema (Buurt theme):* Local people, explorers and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Poelsstraat | other | 3 |  | |
 | Pater Rijkenstraat | other | 3 |  | |
 
-### Geenhoven (Valkenswaard): 8 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, royals and nobility and unspecified_individual
+### Geenhoven (Valkenswaard)
+*8 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, royals and nobility and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Karel Mollenstraat Noord | other | 3 |  | |
 | Klinkerstraat | monarch statesman | 4 |  | |
 
-### Centrum (Valkenswaard): 7 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and unspecified_individual
+### Centrum (Valkenswaard)
+*7 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Karel Mollenstraat Zuid | other | 3 |  | |
 | Pastoor van Vroonhovenstraat | unspecified individual | 3 |  | |
 
-### Dommelen (Valkenswaard): 7 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, flowers and rivers
+### Dommelen (Valkenswaard)
+*7 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, flowers and rivers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Vereeptstraat | other | 3 |  | |
 | Pater Staessenspad | other | 3 |  | |
 
-### Turfberg-Noord (Valkenswaard): 7 straten
-*Buurtthema (Buurt theme):* Trees and plants, local people and local field, farm and road names
+### Turfberg-Noord (Valkenswaard)
+*7 straten (streets). Buurtthema (Buurt theme):* Trees and plants, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Herlaerhof | other | 3 |  | |
 | Van der Clusenstraat | other | 3 |  | |
 
-### De Belleman (Valkenswaard): 6 straten
-*Buurtthema (Buurt theme):* Mostly saints and clergy
+### De Belleman (Valkenswaard)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Bruhezedal | religious | 3 |  | |
 | Van Heinsbergdal | religious | 3 |  | |
 
-### Turfberg-Zuid (Valkenswaard): 5 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, mammals and local people
+### Turfberg-Zuid (Valkenswaard)
+*5 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, mammals and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -143,37 +143,37 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van de Venstraat | other | 3 |  | |
 | Wolbergstraat | other | 3 |  | |
 
-### Borkel (Valkenswaard): 2 straten
-*Buurtthema (Buurt theme):* Local landmarks and institutions, unspecified_individual and trades, guilds and offices
+### Borkel (Valkenswaard)
+*2 straten (streets). Buurtthema (Buurt theme):* Local landmarks and institutions, unspecified_individual and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Kuijpersplein | other | 3 |  | |
 | Pastoor Dobbelsteenstraat | unspecified individual | 3 |  | |
 
-### Het Gegraaf (Valkenswaard): 1 straat
-*Buurtthema (Buurt theme):* Trees and plants, flowers and local field, farm and road names
+### Het Gegraaf (Valkenswaard)
+*1 straat (streets). Buurtthema (Buurt theme):* Trees and plants, flowers and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Heerkensdreef | other | 3 |  | |
 
-### Hoge Akkers (Valkenswaard): 1 straat
-*Buurtthema (Buurt theme):* Local field, farm and road names, birds and royals and nobility
+### Hoge Akkers (Valkenswaard)
+*1 straat (streets). Buurtthema (Buurt theme):* Local field, farm and road names, birds and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Klappermanstraat | other | 3 |  | |
 
-### Verspreide huizen Malpiebergse- en Opperheide (Valkenswaard): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Malpiebergse- en Opperheide (Valkenswaard)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Aartslaan | other | 3 |  | |
 
-### Verspreide huizen Turfbergse Heide Nederheide (Valkenswaard): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Turfbergse Heide Nederheide (Valkenswaard)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

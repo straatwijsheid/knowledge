@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Heeze (Heeze-Leende): 34 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trades, guilds and offices
+### Heeze (Heeze-Leende)
+*34 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -48,52 +48,52 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willem Verbernestraat | other | 3 |  | |
 | Zuster Stellalaan | religious | 3 |  | |
 
-### Leende (Heeze-Leende): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and unspecified_individual
+### Leende (Heeze-Leende)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Harrie Weijershof | other | 3 |  | |
 | Willem van Kuijkstraat | other | 3 |  | |
 
-### Verspreide huizen ten oosten van Sterksel (Heeze-Leende): 2 straten
-*Buurtthema (Buurt theme):* birds, trees and plants and local field, farm and road names
+### Verspreide huizen ten oosten van Sterksel (Heeze-Leende)
+*2 straten (streets). Buurtthema (Buurt theme):* birds, trees and plants and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Albertlaan | other | 3 |  | |
 | Dokter Ruttenpark | other | 3 |  | |
 
-### Sterksel (Heeze-Leende): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and politicians
+### Sterksel (Heeze-Leende)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Schillemanstraat | other | 3 |  | |
 
-### Verspreide huizen Groote Heide (Heeze-Leende): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Groote Heide (Heeze-Leende)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Petrus van Eijnattenlaan | other | 3 |  | |
 
-### Verspreide huizen Heeze (Heeze-Leende): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Heeze (Heeze-Leende)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendric Everslaan | other | 3 |  | |
 
-### Verspreide huizen Zevenhuizense Heide (Heeze-Leende): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Zevenhuizense Heide (Heeze-Leende)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Vogelslaan | other | 3 |  | |
 
-### Verspreide huizen ten zuiden van Sterksel (Heeze-Leende): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen ten zuiden van Sterksel (Heeze-Leende)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

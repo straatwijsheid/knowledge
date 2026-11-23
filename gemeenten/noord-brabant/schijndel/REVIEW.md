@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### De Beemd 1 (Schijndel): 15 straten
-*Buurtthema (Buurt theme):* Saints and clergy, local people and writers and poets
+### De Beemd 1 (Schijndel)
+*15 straten (streets). Buurtthema (Buurt theme):* Saints and clergy, local people and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Oost-Frieslandstraat | other | 3 |  | |
 | de Cock van Neerijnenstraat | other | 3 |  | |
 
-### De Borne 1 (Schijndel): 9 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### De Borne 1 (Schijndel)
+*9 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Verhagenstraat | other | 3 |  | |
 | Wijsstraat | other | 3 |  | |
 
-### Schijndel Centrum 1 (Schijndel): 4 straten
-*Buurtthema (Buurt theme):* Saints and clergy, local field, farm and road names and local landmarks and institutions
+### Schijndel Centrum 1 (Schijndel)
+*4 straten (streets). Buurtthema (Buurt theme):* Saints and clergy, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vicaris Aertsweg | religious | 3 |  | |
 | Vicaris van Alphenstraat | religious | 3 |  | |
 
-### Schijndel Centrum 4 (Schijndel): 4 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, saints and clergy and local people
+### Schijndel Centrum 4 (Schijndel)
+*4 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, saints and clergy and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Meester Michelsstraat | religious | 3 |  | |
 | Mr. Goselingstraat | other | 3 |  | |
 
-### De Beemd 3 (Schijndel): 3 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local people and saints and clergy
+### De Beemd 3 (Schijndel)
+*3 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -73,38 +73,38 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Berghenstraat | other | 3 |  | |
 | Van der Leckstraat | other | 3 |  | |
 
-### Schijndel Centrum 2 (Schijndel): 2 straten
-*Buurtthema (Buurt theme):* Local people, local landmarks and institutions and politicians
+### Schijndel Centrum 2 (Schijndel)
+*2 straten (streets). Buurtthema (Buurt theme):* Local people, local landmarks and institutions and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Harry Bolsiuslaan | other | 3 |  | |
 | Mieke de Brefstraat | other | 3 |  | |
 
-### Wijbosch (Schijndel): 2 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and saints and clergy
+### Wijbosch (Schijndel)
+*2 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur van de Venstraat | religious | 3 |  | |
 | Pastoor Verhoevenhof | religious | 3 |  | |
 
-### Buitengebied Broekkant (Schijndel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Broekkant (Schijndel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van Vroonhovenstraat | religious | 3 |  | |
 
-### Buitengebied Vlagheide (Schijndel): 1 straat
-*Buurtthema (Buurt theme):* Mostly technology and tools
+### Buitengebied Vlagheide (Schijndel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hertog Jan van Brabantdreef | other | 3 |  | |
 
-### Schijndel Centrum 3 (Schijndel): 1 straat
-*Buurtthema (Buurt theme):* Local field, farm and road names, roads named after nearby places and trades, guilds and offices
+### Schijndel Centrum 3 (Schijndel)
+*1 straat (streets). Buurtthema (Buurt theme):* Local field, farm and road names, roads named after nearby places and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

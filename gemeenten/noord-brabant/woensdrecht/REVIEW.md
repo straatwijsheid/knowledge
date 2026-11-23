@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Hoogerheide (Woensdrecht): 19 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### Hoogerheide (Woensdrecht)
+*19 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Dilftstraat | other | 3 |  | |
 | Van der Meulenplein | scientist | 4 |  | |
 
-### Putte (Woensdrecht): 7 straten
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and local people
+### Putte (Woensdrecht)
+*7 straten (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Niftrikstraat | other | 3 |  | |
 | Zuster Will van Hooijdonkstraat | religious | 3 |  | |
 
-### Verspreide huizen Putte (Woensdrecht): 7 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and human settlement
+### Verspreide huizen Putte (Woensdrecht)
+*7 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and human settlement
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Parklaan | unspecified individual | 3 |  | |
 | Steenlandlaan | unspecified individual | 3 |  | |
 
-### Woensdrecht (Woensdrecht): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Woensdrecht (Woensdrecht)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stallaertstraat | unspecified individual | 3 |  | |
 | Van de Zandestraat | unspecified individual | 3 |  | |
 
-### Ossendrecht (Woensdrecht): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and religious orders
+### Ossendrecht (Woensdrecht)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and religious orders
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal Foulkesstraat | unspecified individual | 3 |  | |
 | Zuster Marie Adolphinestraat | religious | 3 |  | |
 
-### Huijbergen (Woensdrecht): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
+### Huijbergen (Woensdrecht)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -92,16 +92,16 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prior Borrekensstraat | religious | 3 |  | |
 | W.H. Bollaertstraat | other | 3 |  | |
 
-### Hoogerheide-Noord (Woensdrecht): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and trees and plants
+### Hoogerheide-Noord (Woensdrecht)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter van de Karplein | unspecified individual | 3 |  | |
 | Van Ostaayland | other | 3 |  | |
 
-### Verspreide huizen Woensdrecht (Woensdrecht): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
+### Verspreide huizen Woensdrecht (Woensdrecht)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

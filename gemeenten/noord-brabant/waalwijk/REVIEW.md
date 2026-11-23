@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Laageinde (Waalwijk): 37 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Laageinde (Waalwijk)
+*37 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor de Savornin Lohmanpark | other | 3 |  | |
 | Talmastraat | politician statesman | 3 |  | |
 
-### Besoyen (Waalwijk): 20 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Besoyen (Waalwijk)
+*20 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Berckenrodelaan | monarch statesman | 4 |  | |
 | Van der Hammenstraat | other | 3 |  | |
 
-### Baardwijk (Waalwijk): 17 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Baardwijk (Waalwijk)
+*17 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van de Werkenstraat | other | 3 |  | |
 | Van der Merwedelaan | other | 3 |  | |
 
-### Waspik beneden (Waalwijk): 17 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Waspik beneden (Waalwijk)
+*17 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Gentstraat | other | 3 |  | |
 | Wagenaarstraat | other | 3 |  | |
 
-### Landgoed Driessen (Waalwijk): 15 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and writers and poets
+### Landgoed Driessen (Waalwijk)
+*15 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Theo Goossensstraat | other | 3 |  | |
 | Velder | writer poet | 4 |  | |
 
-### Industrieterrein Zanddonk (Waalwijk): 10 straten
-*Buurtthema (Buurt theme):* local people, trees and plants and local field, farm and road names
+### Industrieterrein Zanddonk (Waalwijk)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, trees and plants and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor van 't Hoffweg | other | 3 |  | |
 | Professor van der Waalsweg | other | 3 |  | |
 
-### Sprang (Waalwijk): 9 straten
-*Buurtthema (Buurt theme):* local people, painters and trees and plants
+### Sprang (Waalwijk)
+*9 straten (streets). Buurtthema (Buurt theme):* local people, painters and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Ruijsdaelstraat | other | 3 |  | |
 | Van der Duinstraat | other | 3 |  | |
 
-### Antoniusparochie (Waalwijk): 8 straten
-*Buurtthema (Buurt theme):* writers and poets, local people and local field, farm and road names
+### Antoniusparochie (Waalwijk)
+*8 straten (streets). Buurtthema (Buurt theme):* writers and poets, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -189,8 +189,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Kuypersstraat | writer poet | 3 |  | |
 | Wethouder Smoldersstraat | writer poet | 3 |  | |
 
-### Capelle / Nieuwe Vaart (Waalwijk): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Capelle / Nieuwe Vaart (Waalwijk)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Raveschotstraat | other | 3 |  | |
 | van Steenhuijsstraat | other | 3 |  | |
 
-### Industrieterrein Haven (Waalwijk): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Industrieterrein Haven (Waalwijk)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Iersel en Witloxweg | other | 3 |  | |
 | Van Schijndelstraat | other | 3 |  | |
 
-### Waspik boven (Waalwijk): 5 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and trees and plants
+### Waspik boven (Waalwijk)
+*5 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -224,8 +224,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rector Gelissenstraat | other | 3 |  | |
 | Thomas Zijlmansstraat | other | 3 |  | |
 
-### Zanddonk (Waalwijk): 5 straten
-*Buurtthema (Buurt theme):* composers, unspecified_individual and scientists
+### Zanddonk (Waalwijk)
+*5 straten (streets). Buurtthema (Buurt theme):* composers, unspecified_individual and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -235,8 +235,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Praetoriussingel | unspecified individual | 3 |  | |
 | Van Anrooypark | other | 3 |  | |
 
-### Centrum (Waalwijk): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
+### Centrum (Waalwijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -245,8 +245,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Mollerlaan | other | 3 |  | |
 | Meester van Coothstraat | other | 3 |  | |
 
-### De Hoef (Waalwijk): 4 straten
-*Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
+### De Hoef (Waalwijk)
+*4 straten (streets). Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -255,8 +255,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Geerde | writer poet | 4 |  | |
 | Pastoor van der Zijlestraat | writer poet | 3 |  | |
 
-### Meerdijk (Waalwijk): 4 straten
-*Buurtthema (Buurt theme):* painters, Dutch regions and unspecified_individual
+### Meerdijk (Waalwijk)
+*4 straten (streets). Buurtthema (Buurt theme):* painters, Dutch regions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -265,8 +265,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hollandsingel | artist visual | 4 |  | |
 | Wielstraat | unspecified individual | 3 |  | |
 
-### Vrijhoeve (Waalwijk): 3 straten
-*Buurtthema (Buurt theme):* flowers, birds and royals and nobility
+### Vrijhoeve (Waalwijk)
+*3 straten (streets). Buurtthema (Buurt theme):* flowers, birds and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -274,15 +274,15 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hendrikstraat | monarch statesman | 3 |  | |
 | Johan Frisostraat | other | 3 |  | |
 
-### Buitengebied Capelle (Waalwijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, village and unspecified_individual
+### Buitengebied Capelle (Waalwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, village and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Clootwijkweg | other | 3 |  | |
 
-### Buitengebied Waspik (Waalwijk): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and village
+### Buitengebied Waspik (Waalwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

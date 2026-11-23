@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Stuivezand (Drimmelen): 8 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and birds
+### Stuivezand (Drimmelen)
+*8 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van de Zwaluwestraat | other | 3 |  | |
 | Van den Houtstraat | unspecified individual | 3 |  | |
 
-### Grienden (Drimmelen): 6 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Grienden (Drimmelen)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Duivenvoordestraat | other | 3 |  | |
 | Wethouder Dubbelmanstraat | other | 3 |  | |
 
-### De Heerlijkheid Lage Zwaluwe (Drimmelen): 4 straten
-*Buurtthema (Buurt theme):* Dutch regions, unspecified_individual and local people
+### De Heerlijkheid Lage Zwaluwe (Drimmelen)
+*4 straten (streets). Buurtthema (Buurt theme):* Dutch regions, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Gommersstraat | unspecified individual | 3 |  | |
 | Pastoor van Hooijdonklaan | unspecified individual | 3 |  | |
 
-### De Heerlijkheid Hooge Zwaluwe (Drimmelen): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### De Heerlijkheid Hooge Zwaluwe (Drimmelen)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -53,66 +53,66 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Crezeelaan | other | 3 |  | |
 | Wethouder Marcuslaan | other | 3 |  | |
 
-### De Langstraatspoorlijn (Drimmelen): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and village
+### De Langstraatspoorlijn (Drimmelen)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Godwaldtstraat | other | 3 |  | |
 | Kleijnstraat | other | 3 |  | |
 
-### Molenpolder (Drimmelen): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
+### Molenpolder (Drimmelen)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Aalbersestraat | unspecified individual | 3 |  | |
 | Van Goorstraat | other | 3 |  | |
 
-### De Dreven (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### De Dreven (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester van Campenhoutstraat | unspecified individual | 3 |  | |
 
-### De Meede (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
+### De Meede (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Lucia Eijckenstraat | other | 3 |  | |
 
-### Die Swaluw (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Die Swaluw (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Prinses Louisepolder | unspecified individual | 3 |  | |
 
-### Helkant (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, roads named after nearby places and town
+### Helkant (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, roads named after nearby places and town
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Thijssenweg | unspecified individual | 3 |  | |
 
-### Hoogerheide (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* Mostly birds
+### Hoogerheide (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Broekenstraat | other | 3 |  | |
 
-### Nieuwland (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Nieuwland (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | J C Hoevenaarstraat | other | 3 |  | |
 
-### Wagenberg noordwest (Drimmelen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Wagenberg noordwest (Drimmelen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

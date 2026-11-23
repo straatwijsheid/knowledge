@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Vijf Eiken (Gilze en Rijen): 19 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and noble houses and estates
+### Vijf Eiken (Gilze en Rijen)
+*19 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and noble houses and estates
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Houtenstraat | unspecified individual | 3 |  | |
 | van Slingelandthof | unspecified individual | 3 |  | |
 
-### Steenakkers (Gilze en Rijen): 10 straten
-*Buurtthema (Buurt theme):* local people, trades, guilds and offices and local field, farm and road names
+### Steenakkers (Gilze en Rijen)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, trades, guilds and offices and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | W. Binkstraat | other | 3 |  | |
 | Wethouder van den Wildenbergstraat | other | 3 |  | |
 
-### Strijpakkers-Laars (Gilze en Rijen): 8 straten
-*Buurtthema (Buurt theme):* local people, noble houses and estates and unspecified_individual
+### Strijpakkers-Laars (Gilze en Rijen)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, noble houses and estates and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van de Boschstraat | other | 3 |  | |
 | van der Marckstraat | unspecified individual | 3 |  | |
 
-### Vliegende Vennen (Gilze en Rijen): 7 straten
-*Buurtthema (Buurt theme):* writers and poets, local people and politicians
+### Vliegende Vennen (Gilze en Rijen)
+*7 straten (streets). Buurtthema (Buurt theme):* writers and poets, local people and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Theeuwespad | unspecified individual | 3 |  | |
 | Theodora Haverstraat | other | 3 |  | |
 
-### Centrumgebied Oost Rijen (Gilze en Rijen): 6 straten
-*Buurtthema (Buurt theme):* royals and nobility, local people and saints and clergy
+### Centrumgebied Oost Rijen (Gilze en Rijen)
+*6 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Oomenstraat | monarch statesman | 3 |  | |
 | Wagemakerspad | unspecified individual | 3 |  | |
 
-### Centrumgebied Noord Gilze (Gilze en Rijen): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
+### Centrumgebied Noord Gilze (Gilze en Rijen)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hippelpad | unspecified individual | 3 |  | |
 | Schoenmakerspad | unspecified individual | 3 |  | |
 
-### Kern Molenschot (Gilze en Rijen): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
+### Kern Molenschot (Gilze en Rijen)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van de Rietstraat | other | 3 |  | |
 | Wethouder Boemaarsstraat | other | 3 |  | |
 
-### Schildersbuurt (Gilze en Rijen): 3 straten
-*Buurtthema (Buurt theme):* painters, local people and royals and nobility
+### Schildersbuurt (Gilze en Rijen)
+*3 straten (streets). Buurtthema (Buurt theme):* painters, local people and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -117,59 +117,59 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Gillisstraat | artist visual | 3 |  | |
 | Polanenhof | artist visual | 4 |  | |
 
-### Centrumgebied West Rijen (Gilze en Rijen): 2 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, local people and local field, farm and road names
+### Centrumgebied West Rijen (Gilze en Rijen)
+*2 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | A. Vlaminckxplein | other | 3 |  | |
 | Wilhelminaplein | monarch statesman | 3 |  | |
 
-### Hofstad (Gilze en Rijen): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and trees and plants
+### Hofstad (Gilze en Rijen)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Geren | unspecified individual | 3 |  | |
 | Hengelstraat | unspecified individual | 3 |  | |
 
-### Bedrijventerrein Broekakkers (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Bedrijventerrein Broekakkers (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Krollaan | other | 3 |  | |
 
-### Grote Spie (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* fauna_butterfly, local field, farm and road names and roads named after nearby places
+### Grote Spie (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* fauna_butterfly, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Generaal van Geenstraat | other | 3 |  | |
 
-### Kern Hulten (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
+### Kern Hulten (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Ballingsweg | other | 3 |  | |
 
-### Paarse Strook (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
+### Paarse Strook (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Trees Kinstraat | other | 3 |  | |
 
-### Rijen Zuid (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* painters, local field, farm and road names and local people
+### Rijen Zuid (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* painters, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Willem I-plein | other | 3 |  | |
 
-### Wolfsweide (Gilze en Rijen): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Wolfsweide (Gilze en Rijen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Ravenstein (Oss): 16 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Ravenstein (Oss)
+*16 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Boogaardstraat | other | 3 |  | |
 | Walravenstraat | other | 3 |  | |
 
-### Berghem-Noord (Oss): 14 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Berghem-Noord (Oss)
+*14 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Heuvelstraat | monarch statesman | 4 |  | |
 | Zuster Hermenegildahof | religious | 3 |  | |
 
-### Verzetsheldenbuurt I (Oss): 13 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Verzetsheldenbuurt I (Oss)
+*13 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rector van Lieropstraat | other | 3 |  | |
 | Rudolf van Baarlestraat | other | 3 |  | |
 
-### Maren-Kessel (Oss): 9 straten
-*Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
+### Maren-Kessel (Oss)
+*9 straten (streets). Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Roesweg | other | 3 |  | |
 | Van Irhovenstraat | other | 3 |  | |
 
-### Megen (Oss): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Megen (Oss)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wielenstraat | unspecified individual | 3 |  | |
 | Willem Kippstraat | other | 3 |  | |
 
-### Geffen (Oss): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
+### Geffen (Oss)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Thijmstraat | other | 3 |  | |
 | Van Coothstraat | other | 3 |  | |
 
-### Macharen (Oss): 7 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Macharen (Oss)
+*7 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Odradastraat | other | 3 |  | |
 | Pastoor van Horrikstraat | other | 3 |  | |
 
-### Oijen (Oss): 7 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Oijen (Oss)
+*7 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Smitsstraat | other | 3 |  | |
 | Zuster Mechelinastraat | religious | 3 |  | |
 
-### Herpen (Oss): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Herpen (Oss)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Strijboschstraat | other | 3 |  | |
 | Teekenhof | other | 3 |  | |
 
-### Verzetsheldenbuurt II (Oss): 6 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and writers and poets
+### Verzetsheldenbuurt II (Oss)
+*6 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -161,8 +161,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Johannes Hendrikxstraat | other | 3 |  | |
 | Kapelaan Nausstraat | religious | 3 |  | |
 
-### Lith (Oss): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, fruit and crops and local landmarks and institutions
+### Lith (Oss)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, fruit and crops and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wiegersmastraat | other | 3 |  | |
 | Zuster Allegondastraat | religious | 3 |  | |
 
-### Berghemseweg-Zuid (Oss): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
+### Berghemseweg-Zuid (Oss)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Hermanslaan | other | 3 |  | |
 | Doctor van der Steenlaan | other | 3 |  | |
 
-### Buitengebied Lithoijen (Oss): 4 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Buitengebied Lithoijen (Oss)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -192,8 +192,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Martenshoefstraat | unspecified individual | 4 |  | |
 | Palkenhoefstraat | unspecified individual | 4 |  | |
 
-### Buitengebied Oijen (Oss): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
+### Buitengebied Oijen (Oss)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Feletstraat | unspecified individual | 3 |  | |
 | Sassenstraat | monarch statesman | 4 |  | |
 
-### Van Hogendorplaan-West (Oss): 4 straten
-*Buurtthema (Buurt theme):* Mostly politicians
+### Van Hogendorplaan-West (Oss)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -212,8 +212,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Sonsbeeckstraat | politician statesman | 4 |  | |
 | Van der Brugghenstraat | politician statesman | 4 |  | |
 
-### Vlashoek (Oss): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and local people
+### Vlashoek (Oss)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -222,8 +222,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Elsenstraat | other | 3 |  | |
 | Pastoor van Ierlandstraat | other | 3 |  | |
 
-### De Tillaard en De Elzen (Oss): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### De Tillaard en De Elzen (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -231,8 +231,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Koningsweg | unspecified individual | 3 |  | |
 | Nicolapad | unspecified individual | 3 |  | |
 
-### Deursen en Dennenburg (Oss): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Deursen en Dennenburg (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rector Nuijensweg | unspecified individual | 3 |  | |
 | Zwarteweg | unspecified individual | 3 |  | |
 
-### Hertogenbuurt (Oss): 3 straten
-*Buurtthema (Buurt theme):* royals and nobility, local people and local field, farm and road names
+### Hertogenbuurt (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -249,8 +249,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Orseleindstraat | other | 3 |  | |
 | Philips van Sint Polstraat | other | 3 |  | |
 
-### Oranjebuurt I en Ruivert (Oss): 3 straten
-*Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and local people
+### Oranjebuurt I en Ruivert (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -258,8 +258,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hescheweg | monarch statesman | 4 |  | |
 | Monseigneur van den Boerpark | monarch statesman | 3 |  | |
 
-### Overlangel (Oss): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Overlangel (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -267,8 +267,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Ruijsstraat | unspecified individual | 3 |  | |
 | Pastoor Blommaertstraat | unspecified individual | 3 |  | |
 
-### Vierwinden (Oss): 3 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Vierwinden (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -276,8 +276,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Germanenweg | other | 4 |  | |
 | Munlaan | other | 3 |  | |
 
-### Zeeheldenbuurt II (Oss): 3 straten
-*Buurtthema (Buurt theme):* Mostly admirals and naval heroes
+### Zeeheldenbuurt II (Oss)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly admirals and naval heroes
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -285,167 +285,167 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Helfrichstraat | military naval or politician | 4 |  | |
 | Van der Zaanstraat | military naval or politician | 4 |  | |
 
-### Buitengebied De Tuinlangel (Oss): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
+### Buitengebied De Tuinlangel (Oss)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Korenstraat | unspecified individual | 3 |  | |
 | Rottenstraat | unspecified individual | 3 |  | |
 
-### Buitengebied Lith (Oss): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Lith (Oss)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Huismansstraat | other | 3 |  | |
 | Meester van Coothstraat | other | 3 |  | |
 
-### Centrum-West (Oss): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Centrum-West (Oss)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dorus Hoeksplantsoen | other | 3 |  | |
 | Driek van Erpstraat | other | 3 |  | |
 
-### Runrot en Papendijk (Oss): 2 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Runrot en Papendijk (Oss)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Jansenhof | unspecified individual | 3 |  | |
 | Sassendreef | unspecified individual | 4 |  | |
 
-### Wagenaarstraat en omgeving (Oss): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, composers and local people
+### Wagenaarstraat en omgeving (Oss)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, composers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Anrooijstraat | other | 3 |  | |
 | Wagenaarstraat | other | 3 |  | |
 
-### Beethovengaarde en Lisztgaarde (Oss): 1 straat
-*Buurtthema (Buurt theme):* technology and tools, composers and local people
+### Beethovengaarde en Lisztgaarde (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* technology and tools, composers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Saal van Zwanenbergsingel | musician composer | 3 |  | |
 
-### Buitengebied Duurendseind (Oss): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
+### Buitengebied Duurendseind (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Zwijsenstraat | unspecified individual | 3 |  | |
 
-### Buitengebied Ravenstein en Huisseling (Oss): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and birds
+### Buitengebied Ravenstein en Huisseling (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Haverland | unspecified individual | 3 |  | |
 
-### Buitengebied het Laag Heemaal (Oss): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Buitengebied het Laag Heemaal (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Smitsweg | unspecified individual | 3 |  | |
 
-### Buitengebied ten oosten van Geffen (Oss): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
+### Buitengebied ten oosten van Geffen (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ivo van Dinther pad | other | 3 |  | |
 
-### Centrum-Noord (Oss): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, local landmarks and institutions and unspecified_individual
+### Centrum-Noord (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Bekkersstraat | unspecified individual | 3 |  | |
 
-### Centrum-Zuid (Oss): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
+### Centrum-Zuid (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meijer van Leeuwenstraat | other | 3 |  | |
 
-### Danenhoef (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly archaeology_term
+### Danenhoef (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly archaeology_term
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Aengelbertlaan | other | 3 |  | |
 
-### Demen (Oss): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and lakes
+### Demen (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and lakes
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Canersstraat | other | 3 |  | |
 
-### Dichtersbuurt (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Dichtersbuurt (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ruwaardmeerstraat | writer poet | 4 |  | |
 
-### Euterpelaan-Noord (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly composers
+### Euterpelaan-Noord (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Euterpelaan | mythological figure | 3 |  | |
 
-### Hazenkamp (Oss): 1 straat
-*Buurtthema (Buurt theme):* trades, guilds and offices, local field, farm and road names and unspecified_individual
+### Hazenkamp (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* trades, guilds and offices, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kleinussenstraat | other | 3 |  | |
 
-### Huisseling (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Huisseling (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester van de Wielstraat | other | 3 |  | |
 
-### Kortfoort (Oss): 1 straat
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and technology and tools
+### Kortfoort (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder van Eschstraat | other | 3 |  | |
 
-### Lithoijen (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Lithoijen (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Prelaat van de Bergplein | other | 3 |  | |
 
-### Staatsliedenbuurt (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly politicians
+### Staatsliedenbuurt (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Reenenstraat | politician statesman | 3 |  | |
 
-### Teeffelen (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Teeffelen (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van Weerdtstraat | other | 3 |  | |
 
-### Vogelbuurt (Oss): 1 straat
-*Buurtthema (Buurt theme):* Mostly birds
+### Vogelbuurt (Oss)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

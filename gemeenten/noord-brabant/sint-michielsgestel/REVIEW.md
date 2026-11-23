@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Berlicum (Sint-Michielsgestel): 12 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, mythological figures and saints and clergy
+### Berlicum (Sint-Michielsgestel)
+*12 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, mythological figures and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prelatenpad | religious | 3 |  | |
 | Sassenheimseweg | other | 3 |  | |
 
-### Theereheide (Sint-Michielsgestel): 10 straten
-*Buurtthema (Buurt theme):* flowers, trees and plants and local people
+### Theereheide (Sint-Michielsgestel)
+*10 straten (streets). Buurtthema (Buurt theme):* flowers, trees and plants and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Wittemstraat | other | 3 |  | |
 | Van den Berghstraat | other | 3 |  | |
 
-### Venkant, Beekkant en Beekvliet (Sint-Michielsgestel): 8 straten
-*Buurtthema (Buurt theme):* trades, guilds and offices, birds and local field, farm and road names
+### Venkant, Beekkant en Beekvliet (Sint-Michielsgestel)
+*8 straten (streets). Buurtthema (Buurt theme):* trades, guilds and offices, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Regent van den Heuvelstraat | other | 3 |  | |
 | Willem Sparkweg | other | 3 |  | |
 
-### Den Dungen (Sint-Michielsgestel): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Den Dungen (Sint-Michielsgestel)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Mgr.Godschalkstraat | religious | 3 |  | |
 | Rijndersstraat | other | 3 |  | |
 
-### Sint-Michielsgestel (Sint-Michielsgestel): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local people
+### Sint-Michielsgestel (Sint-Michielsgestel)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Robert Baeldestraat | other | 3 |  | |
 | Van den Kerkhoffstraat | other | 3 |  | |
 
-### Verspreide huizen Genenberg (Sint-Michielsgestel): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
+### Verspreide huizen Genenberg (Sint-Michielsgestel)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -87,31 +87,31 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Heeren van Zeventienplein | other | 3 |  | |
 | Philipslaan | other | 3 |  | |
 
-### Gemonde (Sint-Michielsgestel): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Gemonde (Sint-Michielsgestel)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Laan ten Habraken | other | 3 |  | |
 | Pastoor van Kesselhof | religious | 3 |  | |
 
-### Verspreide huizen Middelrode (Sint-Michielsgestel): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Middelrode (Sint-Michielsgestel)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Assendelftseweg | other | 3 |  | |
 | Haffertsestraat | other | 3 |  | |
 
-### Maaskantje (Sint-Michielsgestel): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and fruit and crops
+### Maaskantje (Sint-Michielsgestel)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and fruit and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | St.Jacobusstraat | religious | 3 |  | |
 
-### Middelrode (Sint-Michielsgestel): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and birds
+### Middelrode (Sint-Michielsgestel)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

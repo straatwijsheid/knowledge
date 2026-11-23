@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Noord (Someren): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
+### Noord (Someren)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Ter Hofstadlaan | other | 3 |  | |
 | Wijtenhofstraat | other | 3 |  | |
 
-### Someren centrum (Someren): 7 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
+### Someren centrum (Someren)
+*7 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Lieshoutstraat | other | 3 |  | |
 | Verdonckstraat | other | 3 |  | |
 
-### Lierop centrum (Someren): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Lierop centrum (Someren)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Dijkstraat | other | 3 |  | |
 | van Dongenstraat | other | 3 |  | |
 
-### Someren-Eind centrum (Someren): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
+### Someren-Eind centrum (Someren)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kleijnaarstraat | other | 3 |  | |
 | van den Eijndelaan | other | 3 |  | |
 
-### Verspreide huizen Someren-Heide (Someren): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and Dutch regions
+### Verspreide huizen Someren-Heide (Someren)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and Dutch regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -66,37 +66,37 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Smulderslaan | other | 3 |  | |
 | Stalmansweg | other | 3 |  | |
 
-### Hoeven (Someren): 2 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Hoeven (Someren)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dellerweg | unspecified individual | 4 |  | |
 | Ruiter | unspecified individual | 4 |  | |
 
-### Loove (Someren): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Loove (Someren)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Gijselstraat | other | 3 |  | |
 
-### Sluis 12 / 13 (Someren): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Sluis 12 / 13 (Someren)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jan Smitslaan | other | 3 |  | |
 
-### Stipdonk (Someren): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Stipdonk (Someren)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Verhagenstraat | other | 3 |  | |
 
-### Waterdael III (Someren): 1 straat
-*Buurtthema (Buurt theme):* Mostly fauna_butterfly
+### Waterdael III (Someren)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly fauna_butterfly
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

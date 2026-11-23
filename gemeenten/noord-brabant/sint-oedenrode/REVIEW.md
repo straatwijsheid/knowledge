@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Eerschot (Sint-Oedenrode): 22 straten
-*Buurtthema (Buurt theme):* Medieval nobility, priests and local figures
+### Eerschot (Sint-Oedenrode)
+*22 straten (streets). Buurtthema (Buurt theme):* Medieval nobility, priests and local figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Verwestraat | other | 4 |  | |
 | Vogelliusstraat | other | 3 |  | |
 
-### Heikant en Sluitappel (Sint-Oedenrode): 8 straten
-*Buurtthema (Buurt theme):* Nobel laureates and Dutch prime ministers/politicians
+### Heikant en Sluitappel (Sint-Oedenrode)
+*8 straten (streets). Buurtthema (Buurt theme):* Nobel laureates and Dutch prime ministers/politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rode Akkers | politician statesman | 4 |  | |
 | Van der Lindenstraat | politician statesman | 4 |  | |
 
-### Sint-Oedenrode Centrum Zuid (Sint-Oedenrode): 7 straten
-*Buurtthema (Buurt theme):* Birds, plus local barons and officials
+### Sint-Oedenrode Centrum Zuid (Sint-Oedenrode)
+*7 straten (streets). Buurtthema (Buurt theme):* Birds, plus local barons and officials
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Mater Lemmensstraat | religious | 3 |  | |
 | Schout van Peellandlaan | other | 3 |  | |
 
-### Sint-Oedenrode Centrum Noord (Sint-Oedenrode): 4 straten
-*Buurtthema (Buurt theme):* Old-centre names; generic
+### Sint-Oedenrode Centrum Noord (Sint-Oedenrode)
+*4 straten (streets). Buurtthema (Buurt theme):* Old-centre names; generic
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Deken van Erpstraat B | other | 3 |  | |
 | Philippusstraat | other | 3 |  | |
 
-### Armenhoef (Sint-Oedenrode): 3 straten
-*Buurtthema (Buurt theme):* Local nobility and medieval figures
+### Armenhoef (Sint-Oedenrode)
+*3 straten (streets). Buurtthema (Buurt theme):* Local nobility and medieval figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Homberghlaan | unspecified individual | 3 |  | |
 | Van Rijckevorsel van Kessellaan | unspecified individual | 3 |  | |
 
-### Cathalijne en Kinderbos (Sint-Oedenrode): 3 straten
-*Buurtthema (Buurt theme):* Classical composers, plus grains and crops
+### Cathalijne en Kinderbos (Sint-Oedenrode)
+*3 straten (streets). Buurtthema (Buurt theme):* Classical composers, plus grains and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Koningsvaren | musician composer | 4 |  | |
 | Van der Horststraat | musician composer | 4 |  | |
 
-### Kienehoef Zuid (Sint-Oedenrode): 3 straten
-*Buurtthema (Buurt theme):* House of Orange-Nassau
+### Kienehoef Zuid (Sint-Oedenrode)
+*3 straten (streets). Buurtthema (Buurt theme):* House of Orange-Nassau
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -100,29 +100,29 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Mariannestraat | monarch statesman | 4 |  | |
 | Pijnhorstweg | monarch statesman | 4 |  | |
 
-### Boskant (Sint-Oedenrode): 1 straat
-*Buurtthema (Buurt theme):* Trees (mostly willows)
+### Boskant (Sint-Oedenrode)
+*1 straat (streets). Buurtthema (Buurt theme):* Trees (mostly willows)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Teurlingsstraat | other | 3 |  | |
 
-### Buitengebied Vressel en Zwijnsbergen (Sint-Oedenrode): 1 straat
-*Buurtthema (Buurt theme):* Rural field and farm names
+### Buitengebied Vressel en Zwijnsbergen (Sint-Oedenrode)
+*1 straat (streets). Buurtthema (Buurt theme):* Rural field and farm names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Eimbert | other | 3 |  | |
 
-### Nijnsel (Sint-Oedenrode): 1 straat
-*Buurtthema (Buurt theme):* Garden flowers, plus industrial roads
+### Nijnsel (Sint-Oedenrode)
+*1 straat (streets). Buurtthema (Buurt theme):* Garden flowers, plus industrial roads
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Pankenstraat | other | 3 |  | |
 
-### Olland (Sint-Oedenrode): 1 straat
-*Buurtthema (Buurt theme):* Small village; generic names
+### Olland (Sint-Oedenrode)
+*1 straat (streets). Buurtthema (Buurt theme):* Small village; generic names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

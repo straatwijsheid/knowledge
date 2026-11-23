@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Wildackers (Goirle): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
+### Wildackers (Goirle)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder van Besouwstraat | other | 3 |  | |
 | Wethouder van de Lisdonkstraat | other | 3 |  | |
 
-### Geestelijken (Goirle): 9 straten
-*Buurtthema (Buurt theme):* Mostly saints and clergy
+### Geestelijken (Goirle)
+*9 straten (streets). Buurtthema (Buurt theme):* Mostly saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Rielstraat | religious | 3 |  | |
 | Van Hogendorpplein | other | 3 |  | |
 
-### Burgemeesters (Goirle): 6 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Burgemeesters (Goirle)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Hessen Kasselstraat | other | 3 |  | |
 | Van Malsenstraat | other | 3 |  | |
 
-### Grobbendonck (Goirle): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and human_rights_activist
+### Grobbendonck (Goirle)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and human_rights_activist
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Limburg Stirumstraat | other | 3 |  | |
 | Willem Ruysstraat | other | 3 |  | |
 
-### De Groote Akkers (Goirle): 3 straten
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### De Groote Akkers (Goirle)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,66 +72,66 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Carel Vosmaerdreef | other | 3 |  | |
 | Hélène Swarthdreef | other | 3 |  | |
 
-### Goirle-Centrum (Goirle): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, royals and nobility and local field, farm and road names
+### Goirle-Centrum (Goirle)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, royals and nobility and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dwarsstraat | unspecified individual | 3 |  | |
 | Kloosterplein | unspecified individual | 3 |  | |
 
-### Herstallen (Goirle): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and local people
+### Herstallen (Goirle)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Aert Swaensstraat | other | 3 |  | |
 | Hesselmansstraat | other | 3 |  | |
 
-### 't Ven (Goirle): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### 't Ven (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Tra Plein | other | 3 |  | |
 
-### Abcoven (Goirle): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and unspecified_individual
+### Abcoven (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Haestrechtstraat | other | 3 |  | |
 
-### De Boschkens-Oost (Goirle): 1 straat
-*Buurtthema (Buurt theme):* Mostly archaeology_term
+### De Boschkens-Oost (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly archaeology_term
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jos Bedeauxpad | other | 3 |  | |
 
-### Hoogeind (Goirle): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
+### Hoogeind (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Petershofje | unspecified individual | 3 |  | |
 
-### Tijlvoort-Noort (Goirle): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Tijlvoort-Noort (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wim Rötherlaan | other | 3 |  | |
 
-### Tijlvoort-Zuid (Goirle): 1 straat
-*Buurtthema (Buurt theme):* Mostly scientists
+### Tijlvoort-Zuid (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | De Breedijken | scientist | 4 |  | |
 
-### Tilburgseweg (Goirle): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Tilburgseweg (Goirle)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Boekel (Boekel): 11 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and local people
+### Boekel (Boekel)
+*11 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rutger van Herpenstraat | other | 3 |  | |
 | van der Horststraat | other | 3 |  | |
 
-### Venhorst (Boekel): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and flowers
+### Venhorst (Boekel)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Mennehof | other | 3 |  | |
 
-### Verspreide huizen Logt en Berkhoek (Boekel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Logt en Berkhoek (Boekel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

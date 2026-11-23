@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Centrum (Dongen): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Centrum (Dongen)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Ariënsstraat | unspecified individual | 3 |  | |
 | Monseigneur Poelsstraat | unspecified individual | 3 |  | |
 
-### Oud Dongen (Dongen): 6 straten
-*Buurtthema (Buurt theme):* local people, trees and plants and royals and nobility
+### Oud Dongen (Dongen)
+*6 straten (streets). Buurtthema (Buurt theme):* local people, trees and plants and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Dirvenstraat | other | 3 |  | |
 | Roeloff van Dalemstraat | other | 3 |  | |
 
-### West 2 (Dongen): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, composers and painters
+### West 2 (Dongen)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, composers and painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Keijserstraat | musician composer | 4 |  | |
 | Potterstraat | musician composer | 4 |  | |
 
-### Hoge Akker (Dongen): 5 straten
-*Buurtthema (Buurt theme):* unspecified_individual, writers and poets and local people
+### Hoge Akker (Dongen)
+*5 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, writers and poets and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -55,38 +55,38 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Miet Cornelissenstraat | other | 3 |  | |
 | Theo Swartjesstraat | other | 3 |  | |
 
-### 's Gravenmoer (Dongen): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### 's Gravenmoer (Dongen)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Koekkoeklaan | other | 3 |  | |
 | Wilhelminalaan | monarch statesman | 3 |  | |
 
-### West 1 (Dongen): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, rivers and mythological figures
+### West 1 (Dongen)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, rivers and mythological figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Constancestraat | other | 3 |  | |
 | Glorieux | other | 3 |  | |
 
-### Buitengebied Oost (Dongen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
+### Buitengebied Oost (Dongen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doremansteeg | other | 3 |  | |
 
-### Klein Dongen (Dongen): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Klein Dongen (Dongen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Janssenweg | other | 3 |  | |
 
-### Tichelrijt (Dongen): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local field, farm and road names
+### Tichelrijt (Dongen)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

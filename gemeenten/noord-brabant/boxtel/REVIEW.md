@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Boxtel-Centrum (Boxtel): 27 straten
-*Buurtthema (Buurt theme):* Historic offices, local notables and clergy, medieval nobility
+### Boxtel-Centrum (Boxtel)
+*27 straten (streets). Buurtthema (Buurt theme):* Historic offices, local notables and clergy, medieval nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Ranststraat | monarch statesman | 4 |  | |
 | van Rijckevorselstraat | monarch statesman | 4 |  | |
 
-### Boxtel-Oost (Boxtel): 25 straten
-*Buurtthema (Buurt theme):* Classical composers, traditional trades, and trees (-gaard)
+### Boxtel-Oost (Boxtel)
+*25 straten (streets). Buurtthema (Buurt theme):* Classical composers, traditional trades, and trees (-gaard)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Taxandrialaan | musician composer | 4 |  | |
 | Voetakkerspad | musician composer | 4 |  | |
 
-### Boxtel-Noord (Boxtel): 12 straten
-*Buurtthema (Buurt theme):* Saints, royals, guild/militia terms and local notables
+### Boxtel-Noord (Boxtel)
+*12 straten (streets). Buurtthema (Buurt theme):* Saints, royals, guild/militia terms and local notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van de Venstraat | other | 3 |  | |
 | van der Aastraat | religious | 4 |  | |
 
-### Lennisheuvel (Boxtel): 2 straten
-*Buurtthema (Buurt theme):* Farm tools, plus local priests and farm names
+### Lennisheuvel (Boxtel)
+*2 straten (streets). Buurtthema (Buurt theme):* Farm tools, plus local priests and farm names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Mandersstraat | religious | 3 |  | |
 | Pastoor Tilmanstraat | religious | 3 |  | |
 
-### Liempde (Boxtel): 1 straat
-*Buurtthema (Buurt theme):* Village and field names
+### Liempde (Boxtel)
+*1 straat (streets). Buurtthema (Buurt theme):* Village and field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Dobbeleijnstraat | other | 3 |  | |
 
-### Verspreide huizen Lennisheuvel (Boxtel): 1 straat
-*Buurtthema (Buurt theme):* Scattered rural houses or estate roads; generic names
+### Verspreide huizen Lennisheuvel (Boxtel)
+*1 straat (streets). Buurtthema (Buurt theme):* Scattered rural houses or estate roads; generic names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Nieuw-Vossemeer (Steenbergen): 15 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Nieuw-Vossemeer (Steenbergen)
+*15 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Treslonglaan | other | 3 |  | |
 | Wenerstraat | unspecified individual | 3 |  | |
 
-### Steenbergen-Centrum (Steenbergen): 11 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
+### Steenbergen-Centrum (Steenbergen)
+*11 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Hoogendorpstraat | other | 3 |  | |
 | Van Wesemaelstraat | other | 3 |  | |
 
-### Dinteloord (Steenbergen): 8 straten
-*Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local people
+### Dinteloord (Steenbergen)
+*8 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Nesstraat | other | 3 |  | |
 | Van Speykstraat | other | 3 |  | |
 
-### Welberg (Steenbergen): 8 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Welberg (Steenbergen)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Nispenstraat | unspecified individual | 3 |  | |
 | Van der Wellenstraat | other | 3 |  | |
 
-### Steenbergen-Zuid (Steenbergen): 7 straten
-*Buurtthema (Buurt theme):* flowers, trees and plants and local field, farm and road names
+### Steenbergen-Zuid (Steenbergen)
+*7 straten (streets). Buurtthema (Buurt theme):* flowers, trees and plants and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Leuvenstraat | other | 3 |  | |
 | Van Polanenstraat | other | 3 |  | |
 
-### Kruisland (Steenbergen): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Kruisland (Steenbergen)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Diepenbeekstraat | other | 3 |  | |
 | Wethouder Swagemakersstraat | other | 3 |  | |
 
-### Steenbergen-Noord (Steenbergen): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Steenbergen-Noord (Steenbergen)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -109,52 +109,52 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Koos Veraartstraat | other | 3 |  | |
 | Pieter Quiststraat | other | 3 |  | |
 
-### Verspreide huizen in het Westen (Steenbergen): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Verspreide huizen in het Westen (Steenbergen)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kleinedijk | unspecified individual | 3 |  | |
 | Schenkeldijk | unspecified individual | 3 |  | |
 
-### Verspreide huizen waaronder Pelsendijk en Rolaf (Steenbergen): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen waaronder Pelsendijk en Rolaf (Steenbergen)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Catshoeklaan | other | 3 |  | |
 | Van Hoofsweg | other | 3 |  | |
 
-### De Heen (Steenbergen): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### De Heen (Steenbergen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Helenahoeve | other | 3 |  | |
 
-### Graaf Hendrik- en Triangelpolder (Steenbergen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
+### Graaf Hendrik- en Triangelpolder (Steenbergen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Graaf Hendrikpolderdijk | other | 3 |  | |
 
-### Heense polders (Steenbergen): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Heense polders (Steenbergen)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Haaftenweg | other | 3 |  | |
 
-### Het Oudland (Steenbergen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Het Oudland (Steenbergen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Leguijt | unspecified individual | 3 |  | |
 
-### Industrieterrein Reinierpolder (Steenbergen): 1 straat
-*Buurtthema (Buurt theme):* local people, city and unspecified_individual
+### Industrieterrein Reinierpolder (Steenbergen)
+*1 straat (streets). Buurtthema (Buurt theme):* local people, city and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

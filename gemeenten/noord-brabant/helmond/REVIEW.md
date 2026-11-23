@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Heipoort (Helmond): 30 straten
-*Buurtthema (Buurt theme):* Local Helmond notables, plus saints
+### Heipoort (Helmond)
+*30 straten (streets). Buurtthema (Buurt theme):* Local Helmond notables, plus saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zangershof | other | 4 |  | |
 | Zonnehof | other | 4 |  | |
 
-### Leonardus (Helmond): 21 straten
-*Buurtthema (Buurt theme):* Bishops, priests and local clergy, plus notables
+### Leonardus (Helmond)
+*21 straten (streets). Buurtthema (Buurt theme):* Bishops, priests and local clergy, plus notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willem Beringsplein | religious | 4 |  | |
 | Willem Beringsstraat | religious | 4 |  | |
 
-### 't Hout-Centrum (Helmond): 15 straten
-*Buurtthema (Buurt theme):* Wood types, gemstones, windmills, and parish priests
+### 't Hout-Centrum (Helmond)
+*15 straten (streets). Buurtthema (Buurt theme):* Wood types, gemstones, windmills, and parish priests
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Sjef Remmenlaan | other | 3 |  | |
 | Wethouder van Rooijlaan | other | 3 |  | |
 
-### Stiphout-Dorp (Helmond): 15 straten
-*Buurtthema (Buurt theme):* Shrubs and wild plants, plus local families and field names
+### Stiphout-Dorp (Helmond)
+*15 straten (streets). Buurtthema (Buurt theme):* Shrubs and wild plants, plus local families and field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Weidenstraat | unspecified individual | 3 |  | |
 | Wingerdpad | unspecified individual | 3 |  | |
 
-### Kroon (Helmond): 10 straten
-*Buurtthema (Buurt theme):* Professors, doctors, mayors and politicians
+### Kroon (Helmond)
+*10 straten (streets). Buurtthema (Buurt theme):* Professors, doctors, mayors and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Someren Downer Laan | scientist | 4 |  | |
 | Van Someren-Downerlaan | scientist | 4 |  | |
 
-### Straakven (Helmond): 10 straten
-*Buurtthema (Buurt theme):* Aviation pioneers and airports
+### Straakven (Helmond)
+*10 straten (streets). Buurtthema (Buurt theme):* Aviation pioneers and airports
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Weerden Poelmanstraat | aviation pioneer | 4 |  | |
 | Welschapplein | aviation pioneer | 4 |  | |
 
-### Houtsdonk (Helmond): 8 straten
-*Buurtthema (Buurt theme):* Mayors and aldermen, plus canal/local names
+### Houtsdonk (Helmond)
+*8 straten (streets). Buurtthema (Buurt theme):* Mayors and aldermen, plus canal/local names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder van Deutekomplein | mayor local | 3 |  | |
 | Wethouder van Nunenstraat | mayor local | 3 |  | |
 
-### Beisterveldse Broek (Helmond): 6 straten
-*Buurtthema (Buurt theme):* Dutch naval heroes and explorers
+### Beisterveldse Broek (Helmond)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch naval heroes and explorers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -171,8 +171,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Brakelplantsoen | military naval or politician | 4 |  | |
 | Van Nesplantsoen | military naval or politician | 4 |  | |
 
-### Rijpelberg-Oost (Helmond): 6 straten
-*Buurtthema (Buurt theme):* Dutch provinces and regions (-hof)
+### Rijpelberg-Oost (Helmond)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch provinces and regions (-hof)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jan van Vlissingenhof | other | 3 |  | |
 | Theo Driessenhof | other | 3 |  | |
 
-### Oranjebuurt (Helmond): 5 straten
-*Buurtthema (Buurt theme):* Scientists and Nobel laureates, plus WWII liberators and Oranje royals
+### Oranjebuurt (Helmond)
+*5 straten (streets). Buurtthema (Buurt theme):* Scientists and Nobel laureates, plus WWII liberators and Oranje royals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Stolberglaan | scientist | 4 |  | |
 | Wesselmanlaan | scientist | 4 |  | |
 
-### Vossenberg (Helmond): 4 straten
-*Buurtthema (Buurt theme):* Small wild mammals
+### Vossenberg (Helmond)
+*4 straten (streets). Buurtthema (Buurt theme):* Small wild mammals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prins Karelstraat | other | 3 |  | |
 | Sjef Gerrisstraat | other | 3 |  | |
 
-### West (Helmond): 4 straten
-*Buurtthema (Buurt theme):* Medieval chivalry and nobility titles, plus local notables and place names
+### West (Helmond)
+*4 straten (streets). Buurtthema (Buurt theme):* Medieval chivalry and nobility titles, plus local notables and place names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -214,8 +214,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Fons Hardenbergstraat | other | 3 |  | |
 | J.A. Carpstraat | other | 3 |  | |
 
-### Akkers (Helmond): 3 straten
-*Buurtthema (Buurt theme):* Fish and sea mammals, plus medieval noblewomen and manors
+### Akkers (Helmond)
+*3 straten (streets). Buurtthema (Buurt theme):* Fish and sea mammals, plus medieval noblewomen and manors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -223,62 +223,62 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Johanna van Heverleestraat | other | 3 |  | |
 | Van Myerlestraat | other | 3 |  | |
 
-### Beisterveld (Helmond): 2 straten
-*Buurtthema (Buurt theme):* Garden flowers
+### Beisterveld (Helmond)
+*2 straten (streets). Buurtthema (Buurt theme):* Garden flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Hamacherplein | other | 3 |  | |
 | Wethouder van Wellaan | other | 3 |  | |
 
-### Bloemvelden (Helmond): 2 straten
-*Buurtthema (Buurt theme):* Dutch and Flemish painters
+### Bloemvelden (Helmond)
+*2 straten (streets). Buurtthema (Buurt theme):* Dutch and Flemish painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | De Heemplantsoen | artist visual | 4 |  | |
 | van Oostsanenstraat | artist visual | 4 |  | |
 
-### Brouwhuis-Dorp (Helmond): 2 straten
-*Buurtthema (Buurt theme):* Heather varieties and wild game/antelopes, plus local field names
+### Brouwhuis-Dorp (Helmond)
+*2 straten (streets). Buurtthema (Buurt theme):* Heather varieties and wild game/antelopes, plus local field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Govaartpad | other | 3 |  | |
 | Rector Heuvelsstraat | other | 3 |  | |
 
-### Hoogeind (Helmond): 2 straten
-*Buurtthema (Buurt theme):* Dike and meadow names, plus WWII generals
+### Hoogeind (Helmond)
+*2 straten (streets). Buurtthema (Buurt theme):* Dike and meadow names, plus WWII generals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Generaal Robertsstraat | military | 3 |  | |
 | Piet van Bokhovenpad | other | 3 |  | |
 
-### Steenweg en omgeving (Helmond): 2 straten
-*Buurtthema (Buurt theme):* House of Orange-Nassau
+### Steenweg en omgeving (Helmond)
+*2 straten (streets). Buurtthema (Buurt theme):* House of Orange-Nassau
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kromme Steenweg | monarch statesman | 4 |  | |
 | Speelhuisplein | monarch statesman | 4 |  | |
 
-### Gansenwinkel (Helmond): 1 straat
-*Buurtthema (Buurt theme):* Mountain ranges
+### Gansenwinkel (Helmond)
+*1 straat (streets). Buurtthema (Buurt theme):* Mountain ranges
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van de Venstraat | other | 3 |  | |
 
-### Geeneind (Helmond): 1 straat
-*Buurtthema (Buurt theme):* Butterflies, plus local road names
+### Geeneind (Helmond)
+*1 straat (streets). Buurtthema (Buurt theme):* Butterflies, plus local road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jonker Karellaan | other | 3 |  | |
 
-### Zwanenbeemd (Helmond): 1 straat
-*Buurtthema (Buurt theme):* Classical composers, plus trees
+### Zwanenbeemd (Helmond)
+*1 straat (streets). Buurtthema (Buurt theme):* Classical composers, plus trees
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

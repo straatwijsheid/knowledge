@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Andel (Altena): 17 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and trees and plants
+### Andel (Altena)
+*17 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Romboutstraat | unspecified individual | 3 |  | |
 | Wingerd | unspecified individual | 3 |  | |
 
-### Bedrijventerrein Werkendam (Altena): 13 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and technology and tools
+### Bedrijventerrein Werkendam (Altena)
+*13 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vierlinghstraat | unspecified individual | 3 |  | |
 | van der Kunstraat | other | 3 |  | |
 
-### Veen (Altena): 11 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Veen (Altena)
+*11 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Loostraat | unspecified individual | 3 |  | |
 | Wethouder van der Polstraat | other | 3 |  | |
 
-### Dussen (Altena): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Dussen (Altena)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Gendtstraat | unspecified individual | 3 |  | |
 | van Groesbeeklaantje | other | 3 |  | |
 
-### Woudrichem zuid (Altena): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Woudrichem zuid (Altena)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Viveenstraat | other | 3 |  | |
 | Wethouder de Joodestraat | other | 3 |  | |
 
-### Almkerk oost (Altena): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
+### Almkerk oost (Altena)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | de Borchgravestraat | other | 3 |  | |
 | de Ridderstraat | other | 3 |  | |
 
-### Burchtpolder (Altena): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Burchtpolder (Altena)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Randwijklaan | other | 3 |  | |
 | van der Elststraat | unspecified individual | 3 |  | |
 
-### Almkerk west (Altena): 4 straten
-*Buurtthema (Buurt theme):* technology and tools, local field, farm and road names and local people
+### Almkerk west (Altena)
+*4 straten (streets). Buurtthema (Buurt theme):* technology and tools, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Graaf van Nieuwenaarstraat | other | 3 |  | |
 | Professor de Quayplein | other | 3 |  | |
 
-### Giessen (Altena): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Giessen (Altena)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Nieuwenhuizen | other | 3 |  | |
 | Wethouder A.P.Elshoutplein | unspecified individual | 3 |  | |
 
-### Meeuwen (Altena): 4 straten
-*Buurtthema (Buurt theme):* local people, vessel_type and local field, farm and road names
+### Meeuwen (Altena)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, vessel_type and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Ridder van de Merwedestraat | other | 3 |  | |
 | Van Buurenstraat | other | 3 |  | |
 
-### Vervoornepolder noord (Altena): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
+### Vervoornepolder noord (Altena)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vervoornestraat | other | 3 |  | |
 | van Tienhoven van de Boogaardstraat | other | 3 |  | |
 
-### Buitengebied Uitwijk (Altena): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
+### Buitengebied Uitwijk (Altena)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -174,8 +174,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Mottepad | unspecified individual | 3 |  | |
 | Pelseweg | unspecified individual | 3 |  | |
 
-### Buitengebied Wijk en Aalburg oost (Altena): 3 straten
-*Buurtthema (Buurt theme):* roads named after nearby places, local field, farm and road names and unspecified_individual
+### Buitengebied Wijk en Aalburg oost (Altena)
+*3 straten (streets). Buurtthema (Buurt theme):* roads named after nearby places, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rivelstraat | unspecified individual | 3 |  | |
 | Robberdestraat | other | 3 |  | |
 
-### Nieuwendijk (Altena): 3 straten
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
+### Nieuwendijk (Altena)
+*3 straten (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -192,8 +192,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Snijderstraat | other | 3 |  | |
 | van der Steltstraat | other | 3 |  | |
 
-### Sleeuwijk west (Altena): 3 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and trees and plants
+### Sleeuwijk west (Altena)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -201,136 +201,136 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Nanningh Keyserstraat | other | 3 |  | |
 | Nicolaas Stellingwerf | other | 3 |  | |
 
-### Aalburg (Altena): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and technology and tools
+### Aalburg (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Katalijnestraat | other | 3 |  | |
 | Moorreesstraat | other | 3 |  | |
 
-### Buitengebied Genderen (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Buitengebied Genderen (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Groensteeg | unspecified individual | 3 |  | |
 | Notendijk | unspecified individual | 3 |  | |
 
-### Eethen (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and local people
+### Eethen (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | A. van der Kolkstraat | other | 3 |  | |
 | C.Branderhorststraat | other | 3 |  | |
 
-### Genderen (Altena): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Genderen (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Brunestraat | unspecified individual | 3 |  | |
 | Van der Beekstraat | unspecified individual | 3 |  | |
 
-### Hank (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and unspecified_individual
+### Hank (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Frans Hanegraafstraat | other | 3 |  | |
 | Pastoor Lipsplantsoen | unspecified individual | 3 |  | |
 
-### Rijswijk (NB) (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and technology and tools
+### Rijswijk (NB) (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester. J.N. Scholtenplein | other | 3 |  | |
 | Van Ballegooijenhof | other | 3 |  | |
 
-### Spijk (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and historic coins
+### Spijk (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and historic coins
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bloklandhof | other | 3 |  | |
 | Bloklandsingel | other | 3 |  | |
 
-### Vervoornepolder zuid (Altena): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and local people
+### Vervoornepolder zuid (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Graaf van Hornelaan | other | 3 |  | |
 | Sluyterstraat | other | 3 |  | |
 
-### Wijk (Altena): 2 straten
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
+### Wijk (Altena)
+*2 straten (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kapitein H. van der Maadenstraat | unspecified individual | 3 |  | |
 | Vroonhoeve | other | 3 |  | |
 
-### Buitengebied Babyloniënbroek (Altena): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and rivers
+### Buitengebied Babyloniënbroek (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and rivers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Biesheuvel | other | 3 |  | |
 
-### Buitengebied Drongelen (Altena): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
+### Buitengebied Drongelen (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hagoort | other | 3 |  | |
 
-### Buitengebied Hank oost (Altena): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
+### Buitengebied Hank oost (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Schenkeldijk | unspecified individual | 3 |  | |
 
-### Buitengebied Wijk en Aalburg west (Altena): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
+### Buitengebied Wijk en Aalburg west (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Biesheuvelweg | other | 3 |  | |
 
-### Buitengebied Woudrichem (Altena): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and roads named after nearby places
+### Buitengebied Woudrichem (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Graaf van Hornestraat | other | 3 |  | |
 
-### Drongelen (Altena): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Drongelen (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester D.A. van der Schansstraat | other | 3 |  | |
 
-### Uitwijk (Altena): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
+### Uitwijk (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor H. Colijnstraat | unspecified individual | 3 |  | |
 
-### Waardhuizen (Altena): 1 straat
-*Buurtthema (Buurt theme):* writers and poets, local people and local field, farm and road names
+### Waardhuizen (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* writers and poets, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Marinus van de Giesenhof | other | 3 |  | |
 
-### Woudrichem noord (Altena): 1 straat
-*Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
+### Woudrichem noord (Altena)
+*1 straat (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Langdonk-Oost (Roosendaal): 16 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Langdonk-Oost (Roosendaal)
+*16 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Luciadonk | other | 3 |  | |
 | Vierhoevenpad | other | 4 |  | |
 
-### Fatima-villapark (Roosendaal): 14 straten
-*Buurtthema (Buurt theme):* composers, local people and unspecified_individual
+### Fatima-villapark (Roosendaal)
+*14 straten (streets). Buurtthema (Buurt theme):* composers, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Anrooylaan | other | 3 |  | |
 | Van Beethovenlaan | musician composer | 3 |  | |
 
-### Langdonk-West (Roosendaal): 13 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Langdonk-West (Roosendaal)
+*13 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stephanusdonk | other | 3 |  | |
 | Susannadonk | other | 3 |  | |
 
-### Kroeven-Zuidwest (Roosendaal): 9 straten
-*Buurtthema (Buurt theme):* unspecified_individual, writers and poets and local people
+### Kroeven-Zuidwest (Roosendaal)
+*9 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, writers and poets and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Schendellaan | writer poet | 4 |  | |
 | Verweylaan | writer poet | 4 |  | |
 
-### Wouw (Roosendaal): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Wouw (Roosendaal)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Woltersplein | unspecified individual | 3 |  | |
 | Wesemaelestraat | other | 3 |  | |
 
-### Parklaan-Hoogstraat (Roosendaal): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Parklaan-Hoogstraat (Roosendaal)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Moureauveld | unspecified individual | 3 |  | |
 | Van Roomenstraat | other | 3 |  | |
 
-### Kroeven-Zuidoost (Roosendaal): 6 straten
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Kroeven-Zuidoost (Roosendaal)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Deyssellaan | other | 3 |  | |
 | Van de Woestijnelaan | writer poet | 4 |  | |
 
-### Scherpdeel (Roosendaal): 6 straten
-*Buurtthema (Buurt theme):* painters, local people and local field, farm and road names
+### Scherpdeel (Roosendaal)
+*6 straten (streets). Buurtthema (Buurt theme):* painters, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vlietsteeg | unspecified individual | 3 |  | |
 | Wethouder Lanenstraat | artist visual | 3 |  | |
 
-### Centrum-Oud (Roosendaal): 5 straten
-*Buurtthema (Buurt theme):* royals and nobility, unspecified_individual and local landmarks and institutions
+### Centrum-Oud (Roosendaal)
+*5 straten (streets). Buurtthema (Buurt theme):* royals and nobility, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kuiperstraat | unspecified individual | 3 |  | |
 | Van Oranje Nassauhof | unspecified individual | 3 |  | |
 
-### Kroeven-Noordoost (Roosendaal): 5 straten
-*Buurtthema (Buurt theme):* writers and poets, unspecified_individual and local people
+### Kroeven-Noordoost (Roosendaal)
+*5 straten (streets). Buurtthema (Buurt theme):* writers and poets, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Maerlantlaan | other | 3 |  | |
 | Van der Nootlaan | other | 3 |  | |
 
-### Kroeven-Noordwest (Roosendaal): 5 straten
-*Buurtthema (Buurt theme):* writers and poets, unspecified_individual and flowers
+### Kroeven-Noordwest (Roosendaal)
+*5 straten (streets). Buurtthema (Buurt theme):* writers and poets, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Manderlaan | unspecified individual | 3 |  | |
 | Van Veldekelaan | other | 3 |  | |
 
-### Centrum-Nieuw (Roosendaal): 3 straten
-*Buurtthema (Buurt theme):* local people, Dutch regions and countries and regions
+### Centrum-Nieuw (Roosendaal)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, Dutch regions and countries and regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -177,8 +177,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Brabersstraat | other | 3 |  | |
 | Hendrik Gerard Dirckxstraat | other | 3 |  | |
 
-### Sint Josephbuurt (Roosendaal): 3 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Sint Josephbuurt (Roosendaal)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -186,8 +186,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Maxburgh | other | 3 |  | |
 | Van Gilselaan | other | 3 |  | |
 
-### Spoorstraat-Van Coothlaan (Roosendaal): 3 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and writers and poets
+### Spoorstraat-Van Coothlaan (Roosendaal)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stoopstraat | unspecified individual | 3 |  | |
 | Van Coothlaan | other | 3 |  | |
 
-### Stationsbuurt (Roosendaal): 3 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
+### Stationsbuurt (Roosendaal)
+*3 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -204,96 +204,96 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Lemmensstraat | other | 3 |  | |
 | Ludwigstraat | unspecified individual | 3 |  | |
 
-### Heerma van Vossstraat-Molenbeek (Roosendaal): 2 straten
-*Buurtthema (Buurt theme):* countries and regions, local field, farm and road names and unspecified_individual
+### Heerma van Vossstraat-Molenbeek (Roosendaal)
+*2 straten (streets). Buurtthema (Buurt theme):* countries and regions, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendrikstraat | monarch statesman | 3 |  | |
 | Pastoor van Akenstraat | unspecified individual | 3 |  | |
 
-### Kalsdonk (Roosendaal): 2 straten
-*Buurtthema (Buurt theme):* scientists, unspecified_individual and technology and tools
+### Kalsdonk (Roosendaal)
+*2 straten (streets). Buurtthema (Buurt theme):* scientists, unspecified_individual and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Heilig Hartplein | other | 3 |  | |
 | Rector Hellemonsstraat | scientist | 3 |  | |
 
-### Nieuwenberg (Roosendaal): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
+### Nieuwenberg (Roosendaal)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meirestraat | unspecified individual | 3 |  | |
 | Spiekestraat | unspecified individual | 3 |  | |
 
-### Vrouwenhof (Roosendaal): 2 straten
-*Buurtthema (Buurt theme):* Dutch regions, local field, farm and road names and local people
+### Vrouwenhof (Roosendaal)
+*2 straten (streets). Buurtthema (Buurt theme):* Dutch regions, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Heijptstraat | other | 3 |  | |
 | Scholtensboslaan | other | 3 |  | |
 
-### Bovendonk (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Bovendonk (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Schneiderlaan | other | 3 |  | |
 
-### Ettingen (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* Mostly painters
+### Ettingen (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rembrandtgalerij | artist visual | 4 |  | |
 
-### Herreweg (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* Mostly painters
+### Herreweg (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Freijterslaan | artist visual | 3 |  | |
 
-### Hulsdonk (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* scientists, roads named after nearby places and local field, farm and road names
+### Hulsdonk (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* scientists, roads named after nearby places and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Leeuwenhoeklaan | other | 3 |  | |
 
-### Majoppeveld-Noord (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Majoppeveld-Noord (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jan Frederik Vlekkestraat | other | 3 |  | |
 
-### Nispen (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* birds, unspecified_individual and local field, farm and road names
+### Nispen (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* birds, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van Spaandonklaan | unspecified individual | 3 |  | |
 
-### Verspreide huizen Wouw in het Zuiden (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Verspreide huizen Wouw in het Zuiden (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ingenieur P.F. v.d. Broekweg | other | 3 |  | |
 
-### Vroenhout (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Vroenhout (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Boeiinksestraat | other | 3 |  | |
 
-### Wouwse Plantage (Roosendaal): 1 straat
-*Buurtthema (Buurt theme):* Mostly flowers
+### Wouwse Plantage (Roosendaal)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

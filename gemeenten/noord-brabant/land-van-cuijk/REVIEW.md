@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Sint Anthonis (Land van Cuijk): 20 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Sint Anthonis (Land van Cuijk)
+*20 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willem Schiksstraat | other | 3 |  | |
 | Wim Verschurenstraat | other | 3 |  | |
 
-### Esterveld (Land van Cuijk): 18 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Esterveld (Land van Cuijk)
+*18 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Nootstraat | other | 3 |  | |
 | Van der Plaatstraat | monarch statesman | 4 |  | |
 
-### Bikkelkamp (Land van Cuijk): 15 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Bikkelkamp (Land van Cuijk)
+*15 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vicaris Hermansstraat | other | 3 |  | |
 | Zittertstraat | other | 3 |  | |
 
-### Cuijk kern (Land van Cuijk): 11 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Cuijk kern (Land van Cuijk)
+*11 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Idastraat | other | 3 |  | |
 | Zuster Moniquepad | religious | 3 |  | |
 
-### Overloon Centrum (Land van Cuijk): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Overloon Centrum (Land van Cuijk)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor Asserstraat | other | 3 |  | |
 | Snejerspad | unspecified individual | 3 |  | |
 
-### Boxmeer Centrum (Land van Cuijk): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Boxmeer Centrum (Land van Cuijk)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Weijerplein | unspecified individual | 3 |  | |
 | Weijerstraat | unspecified individual | 3 |  | |
 
-### Vierlingsbeek Centrum (Land van Cuijk): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Vierlingsbeek Centrum (Land van Cuijk)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vierlingh | unspecified individual | 3 |  | |
 | Willem I straat | other | 3 |  | |
 
-### Villapark 't Zand (Land van Cuijk): 8 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Villapark 't Zand (Land van Cuijk)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -156,8 +156,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Berghstraat | unspecified individual | 3 |  | |
 | Verheijen van Estveltstraat | other | 3 |  | |
 
-### Cuijk De Valuwe (Land van Cuijk): 7 straten
-*Buurtthema (Buurt theme):* historic coins, trades, guilds and offices and local people
+### Cuijk De Valuwe (Land van Cuijk)
+*7 straten (streets). Buurtthema (Buurt theme):* historic coins, trades, guilds and offices and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -169,8 +169,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor Alberdingk Thijmstraat | other | 3 |  | |
 | Professor van de Brinkstraat | other | 3 |  | |
 
-### Maashees Centrum (Land van Cuijk): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Maashees Centrum (Land van Cuijk)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Swinkelsstraat | unspecified individual | 3 |  | |
 | de Goeijstraat | unspecified individual | 3 |  | |
 
-### Sambeek Centrum (Land van Cuijk): 7 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Sambeek Centrum (Land van Cuijk)
+*7 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Bunsstraat | other | 3 |  | |
 | Stevenshof | unspecified individual | 3 |  | |
 
-### Haps kern (Land van Cuijk): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
+### Haps kern (Land van Cuijk)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Pompestraat | other | 3 |  | |
 | Vivellihof | other | 3 |  | |
 
-### Beers kern (Land van Cuijk): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
+### Beers kern (Land van Cuijk)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -218,8 +218,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Burgemeester van de Braakplein | other | 3 |  | |
 | W P F Ghijssenstraat | other | 3 |  | |
 
-### Beugen buitengebied (Land van Cuijk): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Beugen buitengebied (Land van Cuijk)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -229,8 +229,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hendrikstraat | monarch statesman | 3 |  | |
 | Zuster Bloemstraat | religious | 3 |  | |
 
-### Mill-Centrum (Land van Cuijk): 5 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### Mill-Centrum (Land van Cuijk)
+*5 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Moonsstraat | unspecified individual | 3 |  | |
 | Pastoor Maasstraat | unspecified individual | 3 |  | |
 
-### Oploo (Land van Cuijk): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Oploo (Land van Cuijk)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -251,8 +251,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Stalbergenstraat | other | 3 |  | |
 | Van Steenhuijsstraat | other | 3 |  | |
 
-### Bakelgeert-Noord (Land van Cuijk): 4 straten
-*Buurtthema (Buurt theme):* Mostly painters
+### Bakelgeert-Noord (Land van Cuijk)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -261,8 +261,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hohenzollern | artist visual | 4 |  | |
 | Schilderspad | artist visual | 4 |  | |
 
-### Bakelgeert-Zuid (Land van Cuijk): 4 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
+### Bakelgeert-Zuid (Land van Cuijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -271,8 +271,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Peelenstraat | other | 3 |  | |
 | Pastoor Kerstenstraat | other | 3 |  | |
 
-### Bedrijventerrein Saxa Gotha (Land van Cuijk): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Bedrijventerrein Saxa Gotha (Land van Cuijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -281,8 +281,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lionstraat | unspecified individual | 3 |  | |
 | Wim de Körverstraat | other | 3 |  | |
 
-### Linden buitengebied (Land van Cuijk): 4 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Linden buitengebied (Land van Cuijk)
+*4 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -291,8 +291,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Le Sage ten Broekstraat | other | 3 |  | |
 | Lommerstraat | unspecified individual | 3 |  | |
 
-### Oud Velp (Land van Cuijk): 4 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Oud Velp (Land van Cuijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -301,8 +301,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hanenstraat | unspecified individual | 3 |  | |
 | Pastoor Loefsweg | other | 3 |  | |
 
-### Escharen kom (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Escharen kom (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -310,8 +310,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Meester Bongaardsweg | other | 3 |  | |
 | Willem van Esterenweg | other | 3 |  | |
 
-### Groeningen  buitengebied (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Groeningen  buitengebied (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -319,8 +319,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hoeijmakerstraat | unspecified individual | 4 |  | |
 | Voortweg | unspecified individual | 4 |  | |
 
-### Overloon buitengebied (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
+### Overloon buitengebied (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -328,8 +328,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Crooijmansweg | other | 3 |  | |
 | Rieterdreef | other | 3 |  | |
 
-### Sint Hubert buitengebied (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
+### Sint Hubert buitengebied (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -337,8 +337,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Petersweg | other | 3 |  | |
 | Waggelmanweg | other | 3 |  | |
 
-### Wilbertoord (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* mammals, local people and unspecified_individual
+### Wilbertoord (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* mammals, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -346,8 +346,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Beltstraat | other | 3 |  | |
 | Wethouder Lindersstraat | other | 3 |  | |
 
-### Wilbertoord buitengebied (Land van Cuijk): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
+### Wilbertoord buitengebied (Land van Cuijk)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -355,213 +355,213 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Verstegenweg | unspecified individual | 3 |  | |
 | van Ophovenlaan | other | 3 |  | |
 
-### Bedrijventerrein Het Spoor (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and human settlement
+### Bedrijventerrein Het Spoor (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and human settlement
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Berentsweg | other | 3 |  | |
 | Jochemsweg | other | 3 |  | |
 
-### Beugen Centrum (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Beugen Centrum (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Verdijkplein | unspecified individual | 3 |  | |
 | Carolusstraat | other | 3 |  | |
 
-### Gen. De Bonskazerne (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Gen. De Bonskazerne (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Majoor de Grosstraat | other | 3 |  | |
 | Maximiliaan de Manstraat | other | 3 |  | |
 
-### Holthees Centrum (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Holthees Centrum (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Peelweg | unspecified individual | 3 |  | |
 | Rodermansstraat | other | 3 |  | |
 
-### Mill-Zuid (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, countries and regions and unspecified_individual
+### Mill-Zuid (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, countries and regions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Gerritsweg | other | 3 |  | |
 | Van den Bogaardweg | other | 3 |  | |
 
-### Rijkevoort Centrum (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Rijkevoort Centrum (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Joop Thijssenstraat | other | 3 |  | |
 | Meester van den Bergplein | unspecified individual | 3 |  | |
 
-### Sint Agatha kern (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, fruit and crops and local people
+### Sint Agatha kern (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, fruit and crops and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Harry Kepserplein | other | 3 |  | |
 | Van den Boschweg | unspecified individual | 3 |  | |
 
-### Sint Hubert (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* trades, guilds and offices, birds and local field, farm and road names
+### Sint Hubert (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* trades, guilds and offices, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Jacobsstraat | other | 3 |  | |
 | Wethouder Lemmenstraat | other | 3 |  | |
 
-### Westerbeek (Land van Cuijk): 2 straten
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Westerbeek (Land van Cuijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rector van Asseldonkstraat | other | 3 |  | |
 | Van Haandelstraat | other | 3 |  | |
 
-### Beers buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, village and royals and nobility
+### Beers buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, village and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Moonsweg | monarch statesman | 3 |  | |
 
-### Cuijk industriegebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, human settlement and unspecified_individual
+### Cuijk industriegebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, human settlement and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Simon Homburgstraat | other | 3 |  | |
 
-### Escharen buitengebied-Oost (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
+### Escharen buitengebied-Oost (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Coeberghlaan | other | 3 |  | |
 
-### Gassel buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Gassel buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ten Holtweg | other | 3 |  | |
 
-### Gassel kom (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and royals and nobility
+### Gassel kom (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hogenakker | unspecified individual | 3 |  | |
 
-### Industrieterrein Wisseveld (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local people
+### Industrieterrein Wisseveld (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Koninginnedijk | monarch statesman | 3 |  | |
 
-### Katwijk kern (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Katwijk kern (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Suijsstraat | other | 3 |  | |
 
-### Langenboom (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, mineral and local field, farm and road names
+### Langenboom (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, mineral and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Thomasweg | other | 3 |  | |
 
-### Langenboom buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Langenboom buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendriksweg | other | 3 |  | |
 
-### Ledeacker (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and politicians
+### Ledeacker (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van der Vaartweg | politician statesman | 3 |  | |
 
-### Ledeacker buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Ledeacker buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Bekkersstraat | unspecified individual | 3 |  | |
 
-### Maashees buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Maashees buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rieterweg | other | 3 |  | |
 
-### Meren-De Gagel buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* birds, unspecified_individual and local field, farm and road names
+### Meren-De Gagel buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* birds, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Weemhofweg | other | 3 |  | |
 
-### Sambeek buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Sambeek buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Buskensweg | other | 3 |  | |
 
-### Stevensbeek (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and village
+### Stevensbeek (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Eymardstraat | mythological figure | 3 |  | |
 
-### Velp Buitengebied Zuid (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Velp Buitengebied Zuid (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Generaal de Bonsweg | other | 3 |  | |
 
-### Vianen kern (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Vianen kern (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Franssenstraat | other | 3 |  | |
 
-### Vortum-Mullem Centrum (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Vortum-Mullem Centrum (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Sweensstraat | unspecified individual | 3 |  | |
 
-### Wanroij (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
+### Wanroij (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Risterstraat | other | 3 |  | |
 
-### Westerbeek buitengebied (Land van Cuijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Westerbeek buitengebied (Land van Cuijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

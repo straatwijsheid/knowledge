@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Centrum zuid (Asten): 9 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Centrum zuid (Asten)
+*9 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Peter van Berkelstraat | other | 3 |  | |
 | Rigaud de Cockstraat | other | 3 |  | |
 
-### Ostade (Asten): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
+### Ostade (Asten)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Patersweg | monarch statesman | 4 |  | |
 | Willem Clockgieterstraat | other | 3 |  | |
 
-### Centrum (Asten): 4 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
+### Centrum (Asten)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Burgemeester Ruttenplein | other | 3 |  | |
 | Frits de Bruijnstraat | other | 3 |  | |
 
-### Centrum west (Asten): 4 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and local people
+### Centrum west (Asten)
+*4 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hombroeckstraat | other | 3 |  | |
 | Otten Backstraat | other | 3 |  | |
 
-### Heusden centrum (Asten): 3 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Heusden centrum (Asten)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Arnoldstraat | other | 3 |  | |
 | Vorstermansplein | other | 3 |  | |
 
-### Ommel centrum (Asten): 3 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
+### Ommel centrum (Asten)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -74,23 +74,23 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Vogelsstraat | other | 3 |  | |
 | Pastoor van Ervenstraat | other | 3 |  | |
 
-### Verspreide huizen Ommel (Asten): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Verspreide huizen Ommel (Asten)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jan van Havenstraat | other | 3 |  | |
 | Van de Pasweg | other | 3 |  | |
 
-### Hazeldonk (Asten): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Hazeldonk (Asten)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Kuppenveldweg | other | 3 |  | |
 
-### Sterrenbuurt (Asten): 1 straat
-*Buurtthema (Buurt theme):* mythological figures, astronomy and local field, farm and road names
+### Sterrenbuurt (Asten)
+*1 straat (streets). Buurtthema (Buurt theme):* mythological figures, astronomy and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

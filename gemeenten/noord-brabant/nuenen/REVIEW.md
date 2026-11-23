@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Nuenen-Oost (Nuenen): 100 straten
-*Buurtthema (Buurt theme):* Medieval local office-holders (schout, schepen, jonker) and old field names
+### Nuenen-Oost (Nuenen)
+*100 straten (streets). Buurtthema (Buurt theme):* Medieval local office-holders (schout, schepen, jonker) and old field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zuster Winkellaan | other | 4 |  | |
 | Zwanenstuck | other | 4 |  | |
 
-### Nuenen-Noord (Nuenen): 71 straten
-*Buurtthema (Buurt theme):* Orange-Nassau royals, trees, Dutch/Flemish writers and painters, and local medieval notables
+### Nuenen-Noord (Nuenen)
+*71 straten (streets). Buurtthema (Buurt theme):* Orange-Nassau royals, trees, Dutch/Flemish writers and painters, and local medieval notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zuster Celinehof | other | 4 |  | |
 | Zuster Celinepad | other | 4 |  | |
 
-### Gerwen (Nuenen): 8 straten
-*Buurtthema (Buurt theme):* Local field names and village notables, plus clergy
+### Gerwen (Nuenen)
+*8 straten (streets). Buurtthema (Buurt theme):* Local field names and village notables, plus clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Waarsenburglaan | other | 3 |  | |
 | Willem Schutslaan | other | 3 |  | |
 
-### Nederwetten (Nuenen): 3 straten
-*Buurtthema (Buurt theme):* Field/farm names and local people (-hof)
+### Nederwetten (Nuenen)
+*3 straten (streets). Buurtthema (Buurt theme):* Field/farm names and local people (-hof)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -214,15 +214,15 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Meester Janssenpad | other | 3 |  | |
 | Willem van de Laarhof | other | 3 |  | |
 
-### Nuenen-Zuid (Nuenen): 1 straat
-*Buurtthema (Buurt theme):* Birds and wildflowers/herbs (-hof streets)
+### Nuenen-Zuid (Nuenen)
+*1 straat (streets). Buurtthema (Buurt theme):* Birds and wildflowers/herbs (-hof streets)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Arnold Pootlaan | other | 3 |  | |
 
-### Verspreide huizen Boord, Opwetten (Nuenen): 1 straat
-*Buurtthema (Buurt theme):* Local field and farm names
+### Verspreide huizen Boord, Opwetten (Nuenen)
+*1 straat (streets). Buurtthema (Buurt theme):* Local field and farm names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

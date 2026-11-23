@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Wilhelminadorp (Best): 30 straten
-*Buurtthema (Buurt theme):* Local notables and clergy, plus House of Orange
+### Wilhelminadorp (Best)
+*30 straten (streets). Buurtthema (Buurt theme):* Local notables and clergy, plus House of Orange
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | W. van Hallstraat | other | 4 |  | |
 | Wilhelminapark | monarch statesman | 3 |  | |
 
-### Hoge Akker (Best): 22 straten
-*Buurtthema (Buurt theme):* Local priests, brothers and doctors
+### Hoge Akker (Best)
+*22 straten (streets). Buurtthema (Buurt theme):* Local priests, brothers and doctors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor W. Hellemonsstraat | religious | 3 |  | |
 | Pater M. Wolffstraat | religious | 3 |  | |
 
-### Naastenbest (Best): 14 straten
-*Buurtthema (Buurt theme):* Dutch Golden Age admirals, explorers and painters, plus House of Orange
+### Naastenbest (Best)
+*14 straten (streets). Buurtthema (Buurt theme):* Dutch Golden Age admirals, explorers and painters, plus House of Orange
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -92,36 +92,36 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Voetboog | military naval or politician | 4 |  | |
 | van Lumeystraat | military naval or politician | 4 |  | |
 
-### 't Zand (Best): 1 straat
-*Buurtthema (Buurt theme):* Industrial estate roads
+### 't Zand (Best)
+*1 straat (streets). Buurtthema (Buurt theme):* Industrial estate roads
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Handelsweg | musician composer | 3 |  | |
 
-### Centrum (Best): 1 straat
-*Buurtthema (Buurt theme):* Old village centre; generic names
+### Centrum (Best)
+*1 straat (streets). Buurtthema (Buurt theme):* Old village centre; generic names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Secretaris L. Jansenstraat | other | 3 |  | |
 
-### De Leeuwerik (Best): 1 straat
-*Buurtthema (Buurt theme):* Traditional trades and crafts
+### De Leeuwerik (Best)
+*1 straat (streets). Buurtthema (Buurt theme):* Traditional trades and crafts
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Notermansstraat | other | 3 |  | |
 
-### Heivelden (Best): 1 straat
-*Buurtthema (Buurt theme):* Heath (-hei) and agricultural field (-velden) names
+### Heivelden (Best)
+*1 straat (streets). Buurtthema (Buurt theme):* Heath (-hei) and agricultural field (-velden) names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter de Steenhuijsenlaan | other | 3 |  | |
 
-### Villawijk (Best): 1 straat
-*Buurtthema (Buurt theme):* Birds
+### Villawijk (Best)
+*1 straat (streets). Buurtthema (Buurt theme):* Birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

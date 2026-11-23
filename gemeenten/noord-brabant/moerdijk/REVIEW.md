@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Noordlangeweg (Moerdijk): 12 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Noordlangeweg (Moerdijk)
+*12 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zuster Lankhaarlaan | religious | 3 |  | |
 | mr. Jaap Burgerlaan | other | 3 |  | |
 
-### Centrum (Moerdijk): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Centrum (Moerdijk)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lobbekenstorenstraat | other | 3 |  | |
 | Pastoor van Kessellaan | other | 3 |  | |
 
-### Klundert (Moerdijk): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Klundert (Moerdijk)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Puttenstraat | other | 3 |  | |
 | Von Kropffplein | other | 3 |  | |
 
-### Langeweg (Moerdijk): 3 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and religious orders
+### Langeweg (Moerdijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and religious orders
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Serafijnstraat | unspecified individual | 3 |  | |
 | Wethouder Trompersstraat | other | 3 |  | |
 
-### Moerdijk (Moerdijk): 3 straten
-*Buurtthema (Buurt theme):* royals and nobility, local people and unspecified_individual
+### Moerdijk (Moerdijk)
+*3 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schokkerstraat | monarch statesman | 4 |  | |
 | Wethouder Mattheestraat | monarch statesman | 3 |  | |
 
-### Noordhoek (Moerdijk): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### Noordhoek (Moerdijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Van Hoekpad | unspecified individual | 3 |  | |
 | Pastoor Verheijdenstraat | unspecified individual | 3 |  | |
 
-### Standdaarbuiten (Moerdijk): 3 straten
-*Buurtthema (Buurt theme):* fauna_butterfly, local field, farm and road names and fungus
+### Standdaarbuiten (Moerdijk)
+*3 straten (streets). Buurtthema (Buurt theme):* fauna_butterfly, local field, farm and road names and fungus
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Coolenplein | unspecified individual | 3 |  | |
 | Pastoor Reijnsstraat | unspecified individual | 3 |  | |
 
-### Torenveld (Moerdijk): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Torenveld (Moerdijk)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -95,50 +95,50 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willem III straat | other | 3 |  | |
 | van Strijenstraat | other | 3 |  | |
 
-### Fijnaart (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* birds, local field, farm and road names and painters
+### Fijnaart (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* birds, local field, farm and road names and painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hazebrouckstraat | other | 3 |  | |
 
-### Heijningen (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, city and unspecified_individual
+### Heijningen (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, city and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Graaf Bernadottestraat | unspecified individual | 3 |  | |
 
-### Industrieterrein Moerdijk (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* generic development terms, birds and local field, farm and road names
+### Industrieterrein Moerdijk (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* generic development terms, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Johan Willem Frisostraat | other | 3 |  | |
 
-### Kloosterblokje (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, saints and clergy and local landmarks and institutions
+### Kloosterblokje (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, saints and clergy and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bisschop van Genkdreef | religious | 3 |  | |
 
-### Krooswijk (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Krooswijk (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Reijndersstraat | other | 3 |  | |
 
-### Verspreide huizen Moerdijk (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
+### Verspreide huizen Moerdijk (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Sebastiaansweg | other | 3 |  | |
 
-### Willemstad (Moerdijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Willemstad (Moerdijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

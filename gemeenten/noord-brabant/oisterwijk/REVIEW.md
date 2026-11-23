@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Dorp Haaren (Oisterwijk): 19 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and local people
+### Dorp Haaren (Oisterwijk)
+*19 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Bressersstraat | other | 3 |  | |
 | Wethouder Pijnenborgstraat | other | 3 |  | |
 
-### Omg. Levenskerk/Boomgaard (Oisterwijk): 16 straten
-*Buurtthema (Buurt theme):* Local people, royals and nobility and saints and clergy
+### Omg. Levenskerk/Boomgaard (Oisterwijk)
+*16 straten (streets). Buurtthema (Buurt theme):* Local people, royals and nobility and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zuster Anna van Ierselhof | religious | 3 |  | |
 | Zwijsenstraat | religious | 3 |  | |
 
-### Omg. Prinsessenbuurt (Oisterwijk): 14 straten
-*Buurtthema (Buurt theme):* Local people, saints and clergy and local field, farm and road names
+### Omg. Prinsessenbuurt (Oisterwijk)
+*14 straten (streets). Buurtthema (Buurt theme):* Local people, saints and clergy and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Helmerplein | religious | 3 |  | |
 | Schout van de Wouwstraat | other | 3 |  | |
 
-### omg Pannenschuur Centrum (Oisterwijk): 13 straten
-*Buurtthema (Buurt theme):* Local people, herbs and spices and local field, farm and road names
+### omg Pannenschuur Centrum (Oisterwijk)
+*13 straten (streets). Buurtthema (Buurt theme):* Local people, herbs and spices and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wim Brugmanstraat | other | 3 |  | |
 | Wim van Baaststraat | other | 3 |  | |
 
-### buitengebied Oisterwijk Zuid (Oisterwijk): 7 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local people and roads named after nearby places
+### buitengebied Oisterwijk Zuid (Oisterwijk)
+*7 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local people and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Swinderenlaan | other | 3 |  | |
 | Van Tienhovenlaan | other | 3 |  | |
 
-### omg. Burghtweide (Oisterwijk): 7 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### omg. Burghtweide (Oisterwijk)
+*7 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schout van Engelenstraat | other | 3 |  | |
 | Waterborgh | other | 4 |  | |
 
-### omg. Waterhoef (Oisterwijk): 7 straten
-*Buurtthema (Buurt theme):* Trades, guilds and offices, local field, farm and road names and local people
+### omg. Waterhoef (Oisterwijk)
+*7 straten (streets). Buurtthema (Buurt theme):* Trades, guilds and offices, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -133,8 +133,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Renata | other | 3 |  | |
 | Secretaris van den Hoevelstraat | other | 3 |  | |
 
-### Omg. Klein Bungalowpark (Oisterwijk): 5 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local people and unspecified_individual
+### Omg. Klein Bungalowpark (Oisterwijk)
+*5 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Op 't Hooghof | religious | 3 |  | |
 | Storimanstraat | other | 3 |  | |
 
-### omg. Petrus Kerk (Oisterwijk): 5 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and saints and clergy
+### omg. Petrus Kerk (Oisterwijk)
+*5 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Kemenadelaan | other | 3 |  | |
 | Zuster Theogonialaan | religious | 3 |  | |
 
-### omg. 'Prinsessen' wijk (Oisterwijk): 4 straten
-*Buurtthema (Buurt theme):* Saints and clergy, royals and nobility and trees and plants
+### omg. 'Prinsessen' wijk (Oisterwijk)
+*4 straten (streets). Buurtthema (Buurt theme):* Saints and clergy, royals and nobility and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Heesbeenstraat | religious | 3 |  | |
 | Pastoor van der Meijdenstraat | religious | 3 |  | |
 
-### Buitengebied Haaren (Oisterwijk): 3 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and roads named after nearby places
+### Buitengebied Haaren (Oisterwijk)
+*3 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -174,8 +174,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Sweensstraat | religious | 3 |  | |
 | Monseigneur Zwijsenstraat | religious | 3 |  | |
 
-### Omg. Achterbos/Papenakker (Oisterwijk): 3 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and local people
+### Omg. Achterbos/Papenakker (Oisterwijk)
+*3 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Griete Veldeke | other | 3 |  | |
 | Pastoor de Louwstraat | religious | 3 |  | |
 
-### omg. Europaln/Hondsbergseln (Oisterwijk): 3 straten
-*Buurtthema (Buurt theme):* Royals and nobility, local people and countries and regions
+### omg. Europaln/Hondsbergseln (Oisterwijk)
+*3 straten (streets). Buurtthema (Buurt theme):* Royals and nobility, local people and countries and regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -192,59 +192,59 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Waldemarlaan | unspecified individual | 3 |  | |
 | Wierdsmalaan | other | 3 |  | |
 
-### omg. 't Westend (Oisterwijk): 2 straten
-*Buurtthema (Buurt theme):* Aviation pioneers, mythological figures and unspecified_individual
+### omg. 't Westend (Oisterwijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Aviation pioneers, mythological figures and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Küllerlaan | aviation pioneer | 4 |  | |
 | Markuspad | aviation pioneer | 4 |  | |
 
-### omg. De Lind/Kerkstraat (Oisterwijk): 2 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and local people
+### omg. De Lind/Kerkstraat (Oisterwijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local landmarks and institutions and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Canterslaan | other | 3 |  | |
 | De Balbian Versterlaan | other | 3 |  | |
 
-### Buitengebied Moergestel Zuid-Oost (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Moergestel Zuid-Oost (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Blankemansweg | other | 3 |  | |
 
-### Industriebegied Stokeind (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and generic development terms
+### Industriebegied Stokeind (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Local field, farm and road names, unspecified_individual and generic development terms
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Rijckevorsellaan | unspecified individual | 3 |  | |
 
-### Omg. George Perklaan (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Omg. George Perklaan (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | George Perklaan | other | 3 |  | |
 
-### omg. 't Seuverick (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly trees and plants
+### omg. 't Seuverick (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kapelaan Huyberslaan | religious | 3 |  | |
 
-### omg. Bunders (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly painters
+### omg. Bunders (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Vogelslaan | other | 3 |  | |
 
-### omg. Dotterpln/Wildemanstraat (Oisterwijk): 1 straat
-*Buurtthema (Buurt theme):* Trees and plants, unspecified_individual and flowers
+### omg. Dotterpln/Wildemanstraat (Oisterwijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Trees and plants, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

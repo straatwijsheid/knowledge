@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Burgemeestersbuurt (Tilburg): 17 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Burgemeestersbuurt (Tilburg)
+*17 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schout de Roijstraat | other | 3 |  | |
 | Schout van de Wouwerstraat | other | 3 |  | |
 
-### Hoefstraat Zuid (Tilburg): 15 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Hoefstraat Zuid (Tilburg)
+*15 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Veliusstraat | unspecified individual | 3 |  | |
 | Wagenaarstraat | unspecified individual | 3 |  | |
 
-### Staatsliedenbuurt Oost (Tilburg): 15 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Staatsliedenbuurt Oost (Tilburg)
+*15 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | René Norenburgstraat | other | 3 |  | |
 | Rob van Spaendonckstraat | other | 3 |  | |
 
-### Pastorieklamp West (Tilburg): 12 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Pastorieklamp West (Tilburg)
+*12 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Smidspad | other | 4 |  | |
 | Superior de Beerstraat | other | 3 |  | |
 
-### Hoefstraat Noord (Tilburg): 11 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Hoefstraat Noord (Tilburg)
+*11 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Aastraat | other | 4 |  | |
 | Wichmansstraat | other | 3 |  | |
 
-### Kasteel West (Tilburg): 11 straten
-*Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
+### Kasteel West (Tilburg)
+*11 straten (streets). Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Bylandtstraat | unspecified individual | 3 |  | |
 | Willem de Rijkestraat | other | 3 |  | |
 
-### Quirijnstok West (Tilburg): 10 straten
-*Buurtthema (Buurt theme):* unspecified_individual, composers and local people
+### Quirijnstok West (Tilburg)
+*10 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, composers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vermeulenstraat | musician composer | 4 |  | |
 | Voormolenerf | unspecified individual | 3 |  | |
 
-### Theresia Midden (Tilburg): 10 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Theresia Midden (Tilburg)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -157,8 +157,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Mierlostraat | unspecified individual | 3 |  | |
 | Van Sasse van Ysseltstraat | other | 3 |  | |
 
-### Zeeheldenbuurt (Tilburg): 10 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Zeeheldenbuurt (Tilburg)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -173,8 +173,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Linschotenstraat | other | 3 |  | |
 | Van Speijkstraat | other | 3 |  | |
 
-### Bedrijventerrein Kraaiven (Tilburg): 8 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Bedrijventerrein Kraaiven (Tilburg)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -187,8 +187,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lombartsstraat | other | 3 |  | |
 | Simon de Cockstraat | other | 3 |  | |
 
-### Berkel Noord (Tilburg): 8 straten
-*Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local people
+### Berkel Noord (Tilburg)
+*8 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, technology and tools and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -201,8 +201,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Goossensstraat | unspecified individual | 3 |  | |
 | Pastoor van Tilborgstraat | unspecified individual | 3 |  | |
 
-### Binnenstad Oost (Tilburg): 8 straten
-*Buurtthema (Buurt theme):* unspecified_individual, trades, guilds and offices and local people
+### Binnenstad Oost (Tilburg)
+*8 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, trades, guilds and offices and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -215,8 +215,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Delfthof | other | 3 |  | |
 | Willem II-straat | other | 3 |  | |
 
-### Sint Pieterspark (Tilburg): 8 straten
-*Buurtthema (Buurt theme):* Mostly saints and clergy
+### Sint Pieterspark (Tilburg)
+*8 straten (streets). Buurtthema (Buurt theme):* Mostly saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -229,8 +229,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Bisschop van Zoesstraat | religious | 3 |  | |
 | St. Bartholomeusstraat | religious | 4 |  | |
 
-### Uitvindersbuurt (Tilburg): 8 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and scientists
+### Uitvindersbuurt (Tilburg)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -243,8 +243,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stratinghpad | scientist | 4 |  | |
 | Van Coehoornhof | other | 3 |  | |
 
-### Broekhoven I (Tilburg): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Broekhoven I (Tilburg)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -256,8 +256,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Hessen-Kasselstraat | other | 3 |  | |
 | Van Vessemstraat | unspecified individual | 3 |  | |
 
-### Enschot Oost (Tilburg): 7 straten
-*Buurtthema (Buurt theme):* local people, composers and local field, farm and road names
+### Enschot Oost (Tilburg)
+*7 straten (streets). Buurtthema (Buurt theme):* local people, composers and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -269,8 +269,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Maire Vugtslaan | other | 3 |  | |
 | Torenpad | unspecified individual | 3 |  | |
 
-### Quirijnstok Noord-Oost (Tilburg): 7 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Quirijnstok Noord-Oost (Tilburg)
+*7 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -282,8 +282,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wiertsstraat | unspecified individual | 4 |  | |
 | Zagwijnstraat | unspecified individual | 4 |  | |
 
-### Quirijnstok Noord-West (Tilburg): 7 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### Quirijnstok Noord-West (Tilburg)
+*7 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -295,8 +295,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Otterloostraat | unspecified individual | 3 |  | |
 | Van Tetterodestraat | other | 3 |  | |
 
-### Tiendschuur (Tilburg): 7 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and scientists
+### Tiendschuur (Tilburg)
+*7 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -308,8 +308,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Bonaventurastraat | scientist | 4 |  | |
 | Gregoriusstraat | scientist | 4 |  | |
 
-### Bouwmeestersbuurt Noord (Tilburg): 6 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Bouwmeestersbuurt Noord (Tilburg)
+*6 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -320,8 +320,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pironstraat | unspecified individual | 3 |  | |
 | Tjeuke Timmermansstraat | other | 3 |  | |
 
-### Fatima Oost (Tilburg): 6 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Fatima Oost (Tilburg)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -332,8 +332,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Kerstensstraat | other | 3 |  | |
 | Wethouder van Roesselstraat | other | 3 |  | |
 
-### Jagersbuurt Oost (Tilburg): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, mammals and local people
+### Jagersbuurt Oost (Tilburg)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, mammals and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -344,8 +344,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jagerslaan | unspecified individual | 3 |  | |
 | Weimanspad | unspecified individual | 3 |  | |
 
-### Tivoli (Tilburg): 6 straten
-*Buurtthema (Buurt theme):* scientists, local people and unspecified_individual
+### Tivoli (Tilburg)
+*6 straten (streets). Buurtthema (Buurt theme):* scientists, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -356,8 +356,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor Dondersstraat | scientist | 3 |  | |
 | Salkplantsoen | scientist | 4 |  | |
 
-### Bedrijventerrein Het Laar (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Bedrijventerrein Het Laar (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -367,8 +367,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Galgenpad | other | 4 |  | |
 | Jan Frederik Vlekkeweg | other | 3 |  | |
 
-### Bedrijventerrein Vossenberg (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and unspecified_individual
+### Bedrijventerrein Vossenberg (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -378,8 +378,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rodenberg | mythological figure | 4 |  | |
 | Rodenbergpad | unspecified individual | 3 |  | |
 
-### Bouwmeestersbuurt Zuid (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and roads named after nearby places
+### Bouwmeestersbuurt Zuid (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -389,8 +389,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Keldermansstraat | unspecified individual | 3 |  | |
 | Van Lawickhof | other | 3 |  | |
 
-### Lijnse Hoek Oost (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Lijnse Hoek Oost (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -400,8 +400,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kreutzerstraat | unspecified individual | 4 |  | |
 | Silcherstraat | unspecified individual | 4 |  | |
 
-### Lijnse Hoek West (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Lijnse Hoek West (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -411,8 +411,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hoffmannlaan | unspecified individual | 4 |  | |
 | Von Flotowstraat | musician composer | 3 |  | |
 
-### Padua (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* saints and clergy, local people and unspecified_individual
+### Padua (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* saints and clergy, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -422,8 +422,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jan Grewenstraat | other | 3 |  | |
 | Kardinaal van Enckevoirtstraat | religious | 3 |  | |
 
-### Rauwbraken (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and painters
+### Rauwbraken (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -433,8 +433,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Mutsaertsstraat | other | 3 |  | |
 | Monseigneur Poelsstraat | other | 3 |  | |
 
-### Staatsliedenbuurt West (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* local people, politicians and unspecified_individual
+### Staatsliedenbuurt West (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* local people, politicians and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -444,8 +444,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Luitenant Wilsstraat | other | 3 |  | |
 | Van Limburg Stirumlaan | other | 3 |  | |
 
-### Station Universiteit (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* unspecified_individual, politicians and local field, farm and road names
+### Station Universiteit (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, politicians and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -455,8 +455,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Treubstraat | unspecified individual | 3 |  | |
 | Verschuurstraat | politician statesman | 4 |  | |
 
-### Trouwlaan (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Trouwlaan (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -466,8 +466,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Trompstraat | military naval or politician | 3 |  | |
 | Wassenaerlaan | other | 3 |  | |
 
-### Westermarkt (Tilburg): 5 straten
-*Buurtthema (Buurt theme):* local people, scientists and unspecified_individual
+### Westermarkt (Tilburg)
+*5 straten (streets). Buurtthema (Buurt theme):* local people, scientists and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -477,8 +477,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jozef van der Grintenstraat | other | 3 |  | |
 | Westermarkt | unspecified individual | 3 |  | |
 
-### Afrikaanderbuurt Oost (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* local people, politicians and scientists
+### Afrikaanderbuurt Oost (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, politicians and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -487,8 +487,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Peter Panhuijzenplein | other | 3 |  | |
 | President Steijnstraat | other | 3 |  | |
 
-### Fatima West (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* archaeology_term, unspecified_individual and local people
+### Fatima West (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* archaeology_term, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -497,8 +497,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Valkenierstraat | unspecified individual | 3 |  | |
 | Van de Coulsterstraat | other | 3 |  | |
 
-### Ind.terrein Loven Zuid (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Ind.terrein Loven Zuid (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -507,8 +507,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kapitein Rondairestraat | other | 3 |  | |
 | Paganelstraat | unspecified individual | 3 |  | |
 
-### Kasteel Oost (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Kasteel Oost (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -517,8 +517,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kasteelpad | other | 4 |  | |
 | Lambert de Wijsstraat | other | 3 |  | |
 
-### Landbouwbuurt (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* local people, politicians and trades, guilds and offices
+### Landbouwbuurt (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, politicians and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -527,8 +527,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dominee Kopsstraat | other | 3 |  | |
 | Warmoesstraat | unspecified individual | 3 |  | |
 
-### Pastorieklamp Oost (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* local people, writers and poets and local landmarks and institutions
+### Pastorieklamp Oost (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, writers and poets and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -537,8 +537,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor Aalbersestraat | other | 3 |  | |
 | Vigiliusstraat | unspecified individual | 3 |  | |
 
-### Quirijnstok Zuid-West (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* unspecified_individual, human settlement and foreign towns
+### Quirijnstok Zuid-West (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, human settlement and foreign towns
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -547,8 +547,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Orbisonstraat | unspecified individual | 3 |  | |
 | Zappastraat | unspecified individual | 3 |  | |
 
-### Rooi Pannen (Tilburg): 4 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Rooi Pannen (Tilburg)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -557,8 +557,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Frans Siemerpad | other | 3 |  | |
 | Frans van Spaendonckplein | other | 4 |  | |
 
-### Afrikaanderbuurt Midden (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* local people, south_africa and city
+### Afrikaanderbuurt Midden (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, south_africa and city
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -566,8 +566,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal Kockstraat | other | 3 |  | |
 | Generaal Smutslaan | other | 3 |  | |
 
-### Bokhamer (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Bokhamer (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -575,8 +575,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Joannes Berisstraat | other | 3 |  | |
 | Petrus van Emmerickstraat | other | 3 |  | |
 
-### Bokhamer West (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Bokhamer West (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -584,8 +584,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Huijsmansstraat | other | 3 |  | |
 | Van Maarseveenstraat | other | 4 |  | |
 
-### Goirke Noord (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* local people, countries and regions and local field, farm and road names
+### Goirke Noord (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, countries and regions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -593,8 +593,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wittebolleplein | other | 3 |  | |
 | Wittebollestraat | other | 3 |  | |
 
-### Heikant Oost (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, composers and local field, farm and road names
+### Heikant Oost (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, composers and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -602,8 +602,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Eilenbergstraat | musician composer | 4 |  | |
 | Schumanpad | unspecified individual | 3 |  | |
 
-### Heikant West (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual and composers
+### Heikant West (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual and composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -611,8 +611,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Heubergerstraat | unspecified individual | 3 |  | |
 | Zellerstraat | unspecified individual | 3 |  | |
 
-### Heikant Zuid-Oost (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* Mostly composers
+### Heikant Zuid-Oost (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -620,8 +620,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Heikansebaan | musician composer | 4 |  | |
 | Henselstraat | musician composer | 4 |  | |
 
-### Quirijnstok Zuid-Oost (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, composers and jurists
+### Quirijnstok Zuid-Oost (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, composers and jurists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -629,8 +629,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hoeksepad | unspecified individual | 3 |  | |
 | Lennondreef | musician composer | 4 |  | |
 
-### Ruiven (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* scientists, trees and plants and flowers
+### Ruiven (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* scientists, trees and plants and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -638,8 +638,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Tombrocklaan | scientist | 3 |  | |
 | Löblaan | unspecified individual | 3 |  | |
 
-### Tweestedenziekenhuis (Tilburg): 3 straten
-*Buurtthema (Buurt theme):* local people, city and town
+### Tweestedenziekenhuis (Tilburg)
+*3 straten (streets). Buurtthema (Buurt theme):* local people, city and town
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -647,440 +647,440 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Eijgenraamstraat | other | 3 |  | |
 | Rueckertbaan | unspecified individual | 3 |  | |
 
-### Armhoef Noord-West (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Armhoef Noord-West (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Loudonstraat | unspecified individual | 3 |  | |
 | Van Imhoffstraat | other | 3 |  | |
 
-### Armhoef Zuid (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Armhoef Zuid (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendrik Zwaardecroonstraat | other | 3 |  | |
 | Jan Maurits van Nassaustraat | other | 3 |  | |
 
-### Bedrijventerrein AaBe (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Bedrijventerrein AaBe (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Baggermanlaan | other | 3 |  | |
 | Wethouder van Ierlantstraat | other | 3 |  | |
 
-### Bedrijventerrein Enschot (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Bedrijventerrein Enschot (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Van Mensvoortstraat | other | 3 |  | |
 | Meester Van Zeelandstraat | other | 3 |  | |
 
-### Besterd (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Besterd (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Daltonerf | unspecified individual | 3 |  | |
 | Pascalerf | unspecified individual | 3 |  | |
 
-### Broekhoven II West (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly scientists
+### Broekhoven II West (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor Keesomstraat | scientist | 3 |  | |
 | Professor Lorentzstraat | scientist | 3 |  | |
 
-### Eikenbosch (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* royals and nobility, painters and local field, farm and road names
+### Eikenbosch (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* royals and nobility, painters and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Generaal Eisenhowerweg | monarch statesman | 3 |  | |
 | Hildebrandlaan | writer poet | 3 |  | |
 
-### Enschot Midden (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* herbs and spices, flowers and local field, farm and road names
+### Enschot Midden (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* herbs and spices, flowers and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Binkstraat | other | 3 |  | |
 | Meester Van Roosmalenhof | other | 3 |  | |
 
-### Heikant Noord-Oost (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Heikant Noord-Oost (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Borodinstraat | unspecified individual | 4 |  | |
 | De Fallastraat | unspecified individual | 4 |  | |
 
-### Heikant Noord-West (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly composers
+### Heikant Noord-West (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Elgarstraat | musician composer | 4 |  | |
 | Holzbauerpad | musician composer | 4 |  | |
 
-### Hoogvenne West (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, trades, guilds and offices and vessel_type
+### Hoogvenne West (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, trades, guilds and offices and vessel_type
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Clercxstraat | other | 3 |  | |
 | Jan Aartestraat | other | 3 |  | |
 
-### Kastelenbuurt Noord (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly noble houses and estates
+### Kastelenbuurt Noord (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly noble houses and estates
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor Cobbenhagenlaan | other | 3 |  | |
 | Professor Gimbrèrelaan | other | 3 |  | |
 
-### Koningsoord (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and religious orders
+### Koningsoord (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and religious orders
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Laudenstraat | other | 3 |  | |
 | Mettenstraat | other | 3 |  | |
 
-### Melis Stokestraat (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Melis Stokestraat (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Frans de Basstraat | other | 3 |  | |
 | Willem Knuttelstraat | other | 3 |  | |
 
-### Nassaubuurt (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly royals and nobility
+### Nassaubuurt (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendrik van Tulderstraat | other | 3 |  | |
 | Jacob Romansstraat | other | 3 |  | |
 
-### Oude Dijk (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Oude Dijk (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Doorenstraat | unspecified individual | 3 |  | |
 | Zwijsenplein | unspecified individual | 3 |  | |
 
-### Rugdijk-Hazennest (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Rugdijk-Hazennest (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Bechtweg | other | 3 |  | |
 | Pater Dondersstraat | other | 3 |  | |
 
-### Schildersbuurt Noord (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly painters
+### Schildersbuurt Noord (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Diepenstraat | artist visual | 3 |  | |
 | Nicolaas Knipstraat | other | 3 |  | |
 
-### Schrijversbuurt (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Schrijversbuurt (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Banningstraat | writer poet | 4 |  | |
 | Van Lennepstraat | other | 3 |  | |
 
-### Spoorzone Noord-Oost (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Spoorzone Noord-Oost (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Brokxlaan | other | 3 |  | |
 | Burgemeester Stekelenburgplein | other | 3 |  | |
 
-### Stappegoor Noord (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and alpine_geography
+### Stappegoor Noord (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and alpine_geography
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Curlingstraat | unspecified individual | 3 |  | |
 | Professor Goossenslaan | other | 3 |  | |
 
-### Theresia Oost (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local people, trades, guilds and offices and village
+### Theresia Oost (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, trades, guilds and offices and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Mollerstraat | other | 3 |  | |
 | H. Berkvensstraat | other | 3 |  | |
 
-### Universiteit Campus (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Universiteit Campus (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor Verbernelaan | other | 3 |  | |
 | Professor de Moorplein | other | 3 |  | |
 
-### Wandelbos Noord-West (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* local people, herbs and spices and saints and clergy
+### Wandelbos Noord-West (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, herbs and spices and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Baron van Voorst tot Voorstweg | other | 3 |  | |
 | Karel Boddenweg | other | 3 |  | |
 
-### Westend (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Westend (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Poirtersstraat | writer poet | 4 |  | |
 | Van Maerlantstraat | other | 3 |  | |
 
-### Zeshoeven (Tilburg): 2 straten
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and unspecified_individual
+### Zeshoeven (Tilburg)
+*2 straten (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Felixhof | other | 3 |  | |
 | Van Heeswijkstraat | other | 3 |  | |
 
-### Amarant Piusoord (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Amarant Piusoord (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Parklaan | unspecified individual | 3 |  | |
 
-### Bedrijventerrein Albion (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Dutch regions, roads named after nearby places and local people
+### Bedrijventerrein Albion (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Dutch regions, roads named after nearby places and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Geurtjensweg | other | 3 |  | |
 
-### Bedrijventerrein Vossenberg West I (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and village
+### Bedrijventerrein Vossenberg West I (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* mythological figures, local field, farm and road names and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Schepersdijk | unspecified individual | 3 |  | |
 
-### Bosscheweg (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
+### Bosscheweg (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kapitein Grantstraat | other | 3 |  | |
 
-### Broekhoven I West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Broekhoven I West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Primus van Gilsstraat | other | 3 |  | |
 
-### Buitengebied Biezenmortel (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and town
+### Buitengebied Biezenmortel (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and town
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Zwijsenstraat | unspecified individual | 3 |  | |
 
-### Buitengebied Gilzerbaan West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Gilzerbaan West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Diedeghemstraat | other | 3 |  | |
 
-### Buitengebied Noord-West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Buitengebied Noord-West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Letschertpad | other | 3 |  | |
 
-### Campenhoef Midden (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* village, roads named after nearby places and unspecified_individual
+### Campenhoef Midden (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* village, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kronenbergstraat | other | 3 |  | |
 
-### Campenhoef Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* village, roads named after nearby places and unspecified_individual
+### Campenhoef Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* village, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Klinkenbergstraat | other | 3 |  | |
 
-### Dalem Zuid II (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* village, roads named after nearby places and human settlement
+### Dalem Zuid II (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* village, roads named after nearby places and human settlement
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Sonerf | other | 3 |  | |
 
-### De Kievit Noord-Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* village, roads named after nearby places and local field, farm and road names
+### De Kievit Noord-Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* village, roads named after nearby places and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Letschertweg | other | 3 |  | |
 
-### De Kuil (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* herbs and spices, flowers and unspecified_individual
+### De Kuil (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* herbs and spices, flowers and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Slimstraat | other | 3 |  | |
 
-### Elisabethziekenhuis (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Elisabethziekenhuis (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor Stoltehof | other | 3 |  | |
 
-### Goirleseweg West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Goirleseweg West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jef van Bebberhof | other | 3 |  | |
 
-### Heikant Zuid-West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, composers and writers and poets
+### Heikant Zuid-West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, composers and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Regerpad | musician composer | 3 |  | |
 
-### Ind.terrein Kanaalzone Noord (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* rivers, unspecified_individual and local people
+### Ind.terrein Kanaalzone Noord (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* rivers, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Frans Mannaertsstraat | other | 3 |  | |
 
-### Ind.terrein Kanaalzone Noord-Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Ind.terrein Kanaalzone Noord-Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor Romeinstraat | other | 3 |  | |
 
-### Ind.terrein Kanaalzone Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Ind.terrein Kanaalzone Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dijksterhuisstraat | unspecified individual | 3 |  | |
 
-### Jagersbuurt West (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* trades, guilds and offices, birds and unspecified_individual
+### Jagersbuurt West (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* trades, guilds and offices, birds and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kooikerstraat | other | 3 |  | |
 
-### Kleurenbuurt Noord (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* technology and tools, unspecified_individual and rivers
+### Kleurenbuurt Noord (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* technology and tools, unspecified_individual and rivers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Umberstraat | other | 3 |  | |
 
-### Koningsplein (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, royals and nobility and local landmarks and institutions
+### Koningsplein (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, royals and nobility and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ververstraat | unspecified individual | 3 |  | |
 
-### Leijhoeven (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Leijhoeven (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Bloemenlaan | other | 3 |  | |
 
-### Moerenburg (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and village
+### Moerenburg (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kommerstraat | other | 3 |  | |
 
-### Notre Dame (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, unspecified_individual and human settlement
+### Notre Dame (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, unspecified_individual and human settlement
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Cornelstraat | other | 3 |  | |
 
-### Oostkamer Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* herbs and spices, unspecified_individual and flowers
+### Oostkamer Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* herbs and spices, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hovenierstraat | other | 3 |  | |
 
-### Schildersbuurt Zuid (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Mostly painters
+### Schildersbuurt Zuid (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Gebroeders van Eijckstraat | other | 3 |  | |
 
-### Sint Anna Zuid (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* religious orders, unspecified_individual and fruit and crops
+### Sint Anna Zuid (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* religious orders, unspecified_individual and fruit and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Sonstraat | other | 3 |  | |
 
-### Stappegoor Zuid (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Mostly local people
+### Stappegoor Zuid (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dampad | other | 4 |  | |
 
-### Textielbuurt Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* occupation_guild_textile, unspecified_individual and town
+### Textielbuurt Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* occupation_guild_textile, unspecified_individual and town
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ratinéstraat | other | 3 |  | |
 
-### Visserijbuurt (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* trades, guilds and offices, fish and local people
+### Visserijbuurt (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* trades, guilds and offices, fish and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Don Sartostraat | other | 3 |  | |
 
-### Vogeltjesbuurt Oost (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* birds, local field, farm and road names and roads named after nearby places
+### Vogeltjesbuurt Oost (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* birds, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Professor van Buchemlaan | other | 3 |  | |
 
-### Wijkevoort (Tilburg): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Wijkevoort (Tilburg)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Zesgehuchten (Geldrop-Mierlo): 21 straten
-*Buurtthema (Buurt theme):* Medieval court, nobility and chivalry titles, plus '-land' crop/field names
+### Zesgehuchten (Geldrop-Mierlo)
+*21 straten (streets). Buurtthema (Buurt theme):* Medieval court, nobility and chivalry titles, plus '-land' crop/field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zaailand | monarch statesman | 4 |  | |
 | Zomerland | monarch statesman | 4 |  | |
 
-### Coevering (Geldrop-Mierlo): 15 straten
-*Buurtthema (Buurt theme):* Explorers and navigators, plus Four Sons of Aymon / Arthurian characters and local aldermen
+### Coevering (Geldrop-Mierlo)
+*15 straten (streets). Buurtthema (Buurt theme):* Explorers and navigators, plus Four Sons of Aymon / Arthurian characters and local aldermen
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Winkelcentrum de Coevering | explorer | 4 |  | |
 | Writsaarthof | explorer | 4 |  | |
 
-### Kerkakkers (Geldrop-Mierlo): 13 straten
-*Buurtthema (Buurt theme):* Historic field ('-akker') names, lords of Mierlo, and local clergy/mayors
+### Kerkakkers (Geldrop-Mierlo)
+*13 straten (streets). Buurtthema (Buurt theme):* Historic field ('-akker') names, lords of Mierlo, and local clergy/mayors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wersakker | unspecified individual | 3 |  | |
 | Willigstraat | unspecified individual | 3 |  | |
 
-### Braakhuizen-Zuid (Geldrop-Mierlo): 10 straten
-*Buurtthema (Buurt theme):* Dutch naval heroes, thorn shrubs, and local figures
+### Braakhuizen-Zuid (Geldrop-Mierlo)
+*10 straten (streets). Buurtthema (Buurt theme):* Dutch naval heroes, thorn shrubs, and local figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Gennipstraat | military naval or politician | 4 |  | |
 | Vogelpoelstraat | military naval or politician | 4 |  | |
 
-### Genoenhuis (Geldrop-Mierlo): 9 straten
-*Buurtthema (Buurt theme):* J.R.R. Tolkien's Middle-earth: characters and places from The Lord of the Rings
+### Genoenhuis (Geldrop-Mierlo)
+*9 straten (streets). Buurtthema (Buurt theme):* J.R.R. Tolkien's Middle-earth: characters and places from The Lord of the Rings
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Ori | literary mythical figure | 4 |  | |
 | Zilverlei | literary mythical figure | 4 |  | |
 
-### Centrum (Geldrop-Mierlo): 4 straten
-*Buurtthema (Buurt theme):* Orange-Nassau royalty, fortification terms, and local/religious names
+### Centrum (Geldrop-Mierlo)
+*4 straten (streets). Buurtthema (Buurt theme):* Orange-Nassau royalty, fortification terms, and local/religious names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -116,8 +116,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Donjon | unspecified individual | 3 |  | |
 | Heggestraat | unspecified individual | 3 |  | |
 
-### Mierlo-Dorp (Geldrop-Mierlo): 3 straten
-*Buurtthema (Buurt theme):* Orange-Nassau royalty, fruit cultivars, and village street names
+### Mierlo-Dorp (Geldrop-Mierlo)
+*3 straten (streets). Buurtthema (Buurt theme):* Orange-Nassau royalty, fruit cultivars, and village street names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -125,24 +125,24 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Eikenhorst | unspecified individual | 3 |  | |
 | Molenplein | unspecified individual | 3 |  | |
 
-### Braakhuizen-Noord (Geldrop-Mierlo): 2 straten
-*Buurtthema (Buurt theme):* Textile trades and machinery, dye/herb plants, and waterbirds
+### Braakhuizen-Noord (Geldrop-Mierlo)
+*2 straten (streets). Buurtthema (Buurt theme):* Textile trades and machinery, dye/herb plants, and waterbirds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Harrie van Gestelstraat | other | 3 |  | |
 | Jan Heurkensstraat | other | 3 |  | |
 
-### Neerakkers (Geldrop-Mierlo): 2 straten
-*Buurtthema (Buurt theme):* Owls, grains, trees and wild plants, plus local mayors and lords
+### Neerakkers (Geldrop-Mierlo)
+*2 straten (streets). Buurtthema (Buurt theme):* Owls, grains, trees and wild plants, plus local mayors and lords
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Kerssemakersstraat | other | 3 |  | |
 | Meester van Busselstraat | other | 3 |  | |
 
-### Buitengebied Mierlo (Geldrop-Mierlo): 1 straat
-*Buurtthema (Buurt theme):* Scattered rural names with some birds and plants
+### Buitengebied Mierlo (Geldrop-Mierlo)
+*1 straat (streets). Buurtthema (Buurt theme):* Scattered rural names with some birds and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

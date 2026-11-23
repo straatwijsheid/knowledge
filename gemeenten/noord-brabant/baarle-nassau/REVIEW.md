@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Centrumgebied Baarle-Nassau (Baarle-Nassau): 8 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and saints and clergy
+### Centrumgebied Baarle-Nassau (Baarle-Nassau)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -22,24 +22,24 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor de Katerstraat | other | 3 |  | |
 | Rector van den Broekstraat | other | 3 |  | |
 
-### Hoogbraak (Baarle-Nassau): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and mammals
+### Hoogbraak (Baarle-Nassau)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and mammals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester van Gilsestraat | other | 3 |  | |
 | C.A. Bodestraat | other | 3 |  | |
 
-### Kern Ulicoten (Baarle-Nassau): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Kern Ulicoten (Baarle-Nassau)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bernardusstraat | unspecified individual | 3 |  | |
 | Hof van Bernardus | other | 3 |  | |
 
-### Dorp Noord (Baarle-Nassau): 1 straat
-*Buurtthema (Buurt theme):* royals and nobility, Dutch regions and unspecified_individual
+### Dorp Noord (Baarle-Nassau)
+*1 straat (streets). Buurtthema (Buurt theme):* royals and nobility, Dutch regions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

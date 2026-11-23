@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Vlijmen-Dorp (Heusden): 21 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
+### Vlijmen-Dorp (Heusden)
+*21 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Barneveltstraat | other | 3 |  | |
 | Van Cronenburgstraat | other | 3 |  | |
 
-### Oudheusden (Heusden): 15 straten
-*Buurtthema (Buurt theme):* local people, royals and nobility and local field, farm and road names
+### Oudheusden (Heusden)
+*15 straten (streets). Buurtthema (Buurt theme):* local people, royals and nobility and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Camminghastraat | unspecified individual | 3 |  | |
 | Van Deelenstraat | other | 3 |  | |
 
-### Elshout (Heusden): 13 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Elshout (Heusden)
+*13 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Schagenstraat | other | 3 |  | |
 | Van Wassenaarstraat | other | 3 |  | |
 
-### Vliedberg (Heusden): 13 straten
-*Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and local people
+### Vliedberg (Heusden)
+*13 straten (streets). Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Herlaerstraat | other | 3 |  | |
 | Wethouder van Buulweg | writer poet | 3 |  | |
 
-### Haarsteeg (Heusden): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Haarsteeg (Heusden)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Slegerslaan | other | 3 |  | |
 | Willy van den Berkstraat | other | 3 |  | |
 
-### Venne-Oost (Heusden): 8 straten
-*Buurtthema (Buurt theme):* composers, painters and admirals and naval heroes
+### Venne-Oost (Heusden)
+*8 straten (streets). Buurtthema (Buurt theme):* composers, painters and admirals and naval heroes
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Nesstraat | other | 3 |  | |
 | Van Ruijsdaelstraat | other | 3 |  | |
 
-### Braken-Oost (Heusden): 7 straten
-*Buurtthema (Buurt theme):* flowers, royals and nobility and local field, farm and road names
+### Braken-Oost (Heusden)
+*7 straten (streets). Buurtthema (Buurt theme):* flowers, royals and nobility and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Haestrechtstraat | other | 3 |  | |
 | Van Malsenstraat | other | 3 |  | |
 
-### Braken-West (Heusden): 5 straten
-*Buurtthema (Buurt theme):* trees and plants, flowers and local people
+### Braken-West (Heusden)
+*5 straten (streets). Buurtthema (Buurt theme):* trees and plants, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Akkermansstraat | other | 3 |  | |
 | Rooijackerserf | other | 3 |  | |
 
-### Centrum Drunen (Heusden): 5 straten
-*Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
+### Centrum Drunen (Heusden)
+*5 straten (streets). Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Hogendorpstraat | other | 3 |  | |
 | Zwikker | unspecified individual | 3 |  | |
 
-### Nieuwkuijk (Heusden): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and trees and plants
+### Nieuwkuijk (Heusden)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -170,8 +170,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Becxstraat | monarch statesman | 3 |  | |
 | Van Schuppenstraat | other | 3 |  | |
 
-### Herpt (Heusden): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Herpt (Heusden)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -179,16 +179,16 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Burgemeester Buijsstraat | unspecified individual | 3 |  | |
 | Van Cuijkstraat | other | 3 |  | |
 
-### Vijfhoeven (Heusden): 2 straten
-*Buurtthema (Buurt theme):* trees and plants, politicians and composers
+### Vijfhoeven (Heusden)
+*2 straten (streets). Buurtthema (Buurt theme):* trees and plants, politicians and composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Marijnenlaan | other | 3 |  | |
 | Van Leeuwenhoeklaan | other | 3 |  | |
 
-### Heusden (Heusden): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Heusden (Heusden)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

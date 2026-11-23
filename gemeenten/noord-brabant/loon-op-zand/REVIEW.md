@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Oud-Loon (Loon op Zand): 13 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Oud-Loon (Loon op Zand)
+*13 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Salm-Salmstraat | other | 3 |  | |
 | van den Hummelstraat | other | 3 |  | |
 
-### De Oude Omdraaier (Loon op Zand): 8 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### De Oude Omdraaier (Loon op Zand)
+*8 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor de Klijnlaan | other | 3 |  | |
 | van Heeswijkstraat | other | 4 |  | |
 
-### Vossenberg (west) (Loon op Zand): 3 straten
-*Buurtthema (Buurt theme):* Mostly composers
+### Vossenberg (west) (Loon op Zand)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,83 +50,83 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Bernardushof | musician composer | 4 |  | |
 | Sweensstraat | religious | 3 |  | |
 
-### De Baan (Loon op Zand): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and flowers
+### De Baan (Loon op Zand)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Erasstraat | other | 3 |  | |
 | Pastoor van Bragtplein | unspecified individual | 3 |  | |
 
-### De Moer (Loon op Zand): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, village and mountain
+### De Moer (Loon op Zand)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, village and mountain
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Kampstraat | other | 3 |  | |
 | St. Annapadje | religious | 3 |  | |
 
-### Molenwijk (noord) (Loon op Zand): 2 straten
-*Buurtthema (Buurt theme):* astronomy, unspecified_individual and local people
+### Molenwijk (noord) (Loon op Zand)
+*2 straten (streets). Buurtthema (Buurt theme):* astronomy, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Collinsstraat | unspecified individual | 3 |  | |
 | Virgo | unspecified individual | 3 |  | |
 
-### Pannenhoef (oost) (Loon op Zand): 2 straten
-*Buurtthema (Buurt theme):* painters, local people and unspecified_individual
+### Pannenhoef (oost) (Loon op Zand)
+*2 straten (streets). Buurtthema (Buurt theme):* painters, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Gerard de Nijshof | other | 3 |  | |
 | Hilsestraat | artist visual | 4 |  | |
 
-### Prinsessenbuurt (Loon op Zand): 2 straten
-*Buurtthema (Buurt theme):* local people, politicians and human settlement
+### Prinsessenbuurt (Loon op Zand)
+*2 straten (streets). Buurtthema (Buurt theme):* local people, politicians and human settlement
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Rietraweg | religious | 3 |  | |
 | Pastoor Simkensstraat | other | 3 |  | |
 
-### Centrum (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, painters and local people
+### Centrum (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, painters and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor van Beurdenstraat | other | 3 |  | |
 
-### De Kets (industrieterrein) (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* Mostly countries and regions
+### De Kets (industrieterrein) (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly countries and regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Nies van der Schansstraat | other | 3 |  | |
 
-### Het Hoekske (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Het Hoekske (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | van Haestrechtstraat | other | 3 |  | |
 
-### Rooi Dorp (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* royals and nobility, saints and clergy and politicians
+### Rooi Dorp (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* royals and nobility, saints and clergy and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Völkerstraat | monarch statesman | 3 |  | |
 
-### Schrijversbuurt (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* Mostly writers and poets
+### Schrijversbuurt (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Huygenstraat | writer poet | 4 |  | |
 
-### Staatsliedenbuurt (Loon op Zand): 1 straat
-*Buurtthema (Buurt theme):* royals and nobility, roads named after nearby places and scientists
+### Staatsliedenbuurt (Loon op Zand)
+*1 straat (streets). Buurtthema (Buurt theme):* royals and nobility, roads named after nearby places and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

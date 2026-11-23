@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Rucphen (Rucphen): 12 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and painters
+### Rucphen (Rucphen)
+*12 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van den Houtestraat | artist visual | 4 |  | |
 | van der Zijpedreef | other | 3 |  | |
 
-### Sint Willebrord (Rucphen): 9 straten
-*Buurtthema (Buurt theme):* birds, composers and flowers
+### Sint Willebrord (Rucphen)
+*9 straten (streets). Buurtthema (Buurt theme):* birds, composers and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Regerstraat | musician composer | 3 |  | |
 | Willem III-straat | other | 3 |  | |
 
-### Zegge (Rucphen): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Zegge (Rucphen)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Schendelstraat | writer poet | 4 |  | |
 | van den Wildenbergstraat | writer poet | 4 |  | |
 
-### Schijf (Rucphen): 6 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Schijf (Rucphen)
+*6 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,23 +67,23 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Loonenstraat | other | 3 |  | |
 | Pastoor van Waesstraat | other | 3 |  | |
 
-### Sprundel (Rucphen): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Sprundel (Rucphen)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Anna Salomestraat | other | 3 |  | |
 | Graaf Ansfriedstraat | unspecified individual | 3 |  | |
 
-### Verspreide huizen Rucphen (Rucphen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, mammals and roads named after nearby places
+### Verspreide huizen Rucphen (Rucphen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, mammals and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Keijtenburgstraat | other | 3 |  | |
 
-### Verspreide huizen Zegge (Rucphen): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Verspreide huizen Zegge (Rucphen)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

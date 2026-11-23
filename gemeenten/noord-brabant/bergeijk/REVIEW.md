@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Van den Valgaetstraat e.o. (Bergeijk): 6 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Van den Valgaetstraat e.o. (Bergeijk)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Galenstraat | other | 3 |  | |
 | Van den Valgaetstraat | other | 3 |  | |
 
-### Hasselsestraat e.o. (Bergeijk): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, foreign towns and local people
+### Hasselsestraat e.o. (Bergeijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, foreign towns and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hendrik Wilslaan | other | 3 |  | |
 | Lambert Melskenslaan | other | 3 |  | |
 
-### Prins van Luikstraat e.o. (Bergeijk): 4 straten
-*Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
+### Prins van Luikstraat e.o. (Bergeijk)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Verhoevenstraat | other | 3 |  | |
 | van Rummenstraat | other | 3 |  | |
 
-### Dokter A.Hoynck van Papendrechtstraat-Dokter Duchateaustraat (Bergeijk): 3 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Dokter A.Hoynck van Papendrechtstraat-Dokter Duchateaustraat (Bergeijk)
+*3 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Dokter Barentsenstraat | other | 3 |  | |
 | Dokter Duchateaustraat | other | 3 |  | |
 
-### Loo (Bergeijk): 3 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Loo (Bergeijk)
+*3 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -58,102 +58,102 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Frater Romboutsstraat | other | 3 |  | |
 | Terlostraat | unspecified individual | 3 |  | |
 
-### Kept e.o. (Bergeijk): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local landmarks and institutions
+### Kept e.o. (Bergeijk)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Rauppstraat | other | 3 |  | |
 | Paulussenhof | other | 3 |  | |
 
-### Kerkstraat e.o. (Bergeijk): 2 straten
-*Buurtthema (Buurt theme):* Mostly unspecified_individual
+### Kerkstraat e.o. (Bergeijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doolhof | unspecified individual | 4 |  | |
 | Gestelplaetse | unspecified individual | 4 |  | |
 
-### Van den Tillaartstraat e.o. (Bergeijk): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Van den Tillaartstraat e.o. (Bergeijk)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Magneestraat | other | 3 |  | |
 | Van den Tillaartstraat | other | 3 |  | |
 
-### Bucht e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Bucht e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Schaepmanstraat | mayor local | 3 |  | |
 
-### Buitengebied Noord 2 (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Noord 2 (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bisschop Rythoviusdreef | religious | 3 |  | |
 
-### Buitengebied Noord-West 1 (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Noord-West 1 (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Johan van der Heidendreef | other | 3 |  | |
 
-### Buitengebied Zuid 2 (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied Zuid 2 (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Aartslaan | other | 3 |  | |
 
-### Buitengebied Zuid-West (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Buitengebied Zuid-West (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Lindersweg | unspecified individual | 3 |  | |
 
-### De Hasselt e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### De Hasselt e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Knoopsstraat | other | 3 |  | |
 
-### Dorpsstraat e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Dorpsstraat e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur Biermansplein | unspecified individual | 3 |  | |
 
-### Hagelkruis e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trades, guilds and offices
+### Hagelkruis e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Beverwijkstraat | other | 3 |  | |
 
-### Meester Pankenstraat-Riethovensedijk (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* flowers, local people and local field, farm and road names
+### Meester Pankenstraat-Riethovensedijk (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Pankenstraat | other | 3 |  | |
 
-### Molenstraat e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Molenstraat e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Houbenplein | other | 3 |  | |
 
-### Tiliaans-Weegbree e.o. (Bergeijk): 1 straat
-*Buurtthema (Buurt theme):* Mostly flowers
+### Tiliaans-Weegbree e.o. (Bergeijk)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

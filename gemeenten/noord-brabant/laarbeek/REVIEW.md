@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Aarle-Rixtel (Laarbeek): 16 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
+### Aarle-Rixtel (Laarbeek)
+*16 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Termeerstraat | other | 3 |  | |
 | Van Roijstraat | other | 3 |  | |
 
-### Lieshout (Laarbeek): 14 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
+### Lieshout (Laarbeek)
+*14 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Revershof | other | 3 |  | |
 | Ribbiusstraat | other | 3 |  | |
 
-### Donk (Laarbeek): 11 straten
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and local people
+### Donk (Laarbeek)
+*11 straten (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rogier Monicxlaan | other | 3 |  | |
 | Woutersstraat | other | 3 |  | |
 
-### Beek (Laarbeek): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and unspecified_individual
+### Beek (Laarbeek)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Heinsbergenplein | other | 3 |  | |
 | Wethouder Notenplein | other | 3 |  | |
 
-### Verspreide huizen Beek en Donk (Laarbeek): 4 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Beek en Donk (Laarbeek)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater van der Burgtweg | other | 3 |  | |
 | Professor Dondersweg | other | 3 |  | |
 
-### Mariahout (Laarbeek): 3 straten
-*Buurtthema (Buurt theme):* birds, local field, farm and road names and saints and clergy
+### Mariahout (Laarbeek)
+*3 straten (streets). Buurtthema (Buurt theme):* birds, local field, farm and road names and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -101,29 +101,29 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Talingstraat | other | 3 |  | |
 | Zuster Persoonsstraat | religious | 3 |  | |
 
-### Bedrijventerrein Beekerheide (Laarbeek): 1 straat
-*Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and unspecified_individual
+### Bedrijventerrein Beekerheide (Laarbeek)
+*1 straat (streets). Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Duikerpad | unspecified individual | 3 |  | |
 
-### Verspreide huizen Heikant (Laarbeek): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Heikant (Laarbeek)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Eustachiuslaan | religious | 3 |  | |
 
-### Verspreide huizen Laar en Strijp (Laarbeek): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Laar en Strijp (Laarbeek)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jonker Karellaan | other | 3 |  | |
 
-### Verspreide huizen Lieshout (Laarbeek): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and unspecified_individual
+### Verspreide huizen Lieshout (Laarbeek)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

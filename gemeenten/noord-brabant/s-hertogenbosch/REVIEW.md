@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Maasoever ('s-Hertogenbosch): 29 straten
-*Buurtthema (Buurt theme):* Old coins, plus historic schouts of 's-Hertogenbosch
+### Maasoever ('s-Hertogenbosch)
+*29 straten (streets). Buurtthema (Buurt theme):* Old coins, plus historic schouts of 's-Hertogenbosch
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schout van der Dussensingel | other | 4 |  | |
 | Spaanse Matplein | other | 4 |  | |
 
-### Het Zilverpark ('s-Hertogenbosch): 23 straten
-*Buurtthema (Buurt theme):* Historic 'Meester' office-holders, plus silver-prefixed plants
+### Het Zilverpark ('s-Hertogenbosch)
+*23 straten (streets). Buurtthema (Buurt theme):* Historic 'Meester' office-holders, plus silver-prefixed plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zilvermos | other | 4 |  | |
 | Zilverpark | other | 4 |  | |
 
-### Hondsberg ('s-Hertogenbosch): 20 straten
-*Buurtthema (Buurt theme):* Greek myth heroes, plus mayors, priests and doctors
+### Hondsberg ('s-Hertogenbosch)
+*20 straten (streets). Buurtthema (Buurt theme):* Greek myth heroes, plus mayors, priests and doctors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Tiboschplein | mythological figure | 3 |  | |
 | Wethouder Tilboschplein | mythological figure | 3 |  | |
 
-### De Muntel ('s-Hertogenbosch): 18 straten
-*Buurtthema (Buurt theme):* Medieval and 16th-century local notables
+### De Muntel ('s-Hertogenbosch)
+*18 straten (streets). Buurtthema (Buurt theme):* Medieval and 16th-century local notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Willem Mariastraat | other | 3 |  | |
 | van Berckelstraat | other | 3 |  | |
 
-### Aawijk noord ('s-Hertogenbosch): 16 straten
-*Buurtthema (Buurt theme):* Local notables and artists
+### Aawijk noord ('s-Hertogenbosch)
+*16 straten (streets). Buurtthema (Buurt theme):* Local notables and artists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Beresteynstraat | other | 4 |  | |
 | van Reysstraat | other | 4 |  | |
 
-### De Kruiskamp ('s-Hertogenbosch): 16 straten
-*Buurtthema (Buurt theme):* Dutch/Belgian cities, admirals, aviation pioneers, commissioners and mayors
+### De Kruiskamp ('s-Hertogenbosch)
+*16 straten (streets). Buurtthema (Buurt theme):* Dutch/Belgian cities, admirals, aviation pioneers, commissioners and mayors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Van Soestbergenstraat | military naval or politician | 3 |  | |
 | Wilhelmus Kervelstraat | other | 3 |  | |
 
-### De Overlaet west ('s-Hertogenbosch): 15 straten
-*Buurtthema (Buurt theme):* Dutch prime ministers and politicians, religious orders, gemstones, planets (-borch)
+### De Overlaet west ('s-Hertogenbosch)
+*15 straten (streets). Buurtthema (Buurt theme):* Dutch prime ministers and politicians, religious orders, gemstones, planets (-borch)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -187,8 +187,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Valkeniersingel | politician statesman | 4 |  | |
 | Wildstraat | politician statesman | 4 |  | |
 
-### Molenhoek ('s-Hertogenbosch): 15 straten
-*Buurtthema (Buurt theme):* Composers, writers, admirals and local mayors
+### Molenhoek ('s-Hertogenbosch)
+*15 straten (streets). Buurtthema (Buurt theme):* Composers, writers, admirals and local mayors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -208,8 +208,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Sasseltberg | other | 4 |  | |
 | van der Leeuwstraat | other | 4 |  | |
 
-### De Vliert ('s-Hertogenbosch): 14 straten
-*Buurtthema (Buurt theme):* Painters, plus priests and local notables
+### De Vliert ('s-Hertogenbosch)
+*14 straten (streets). Buurtthema (Buurt theme):* Painters, plus priests and local notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -228,8 +228,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wulfinghstraat | artist visual | 4 |  | |
 | van Rijckevorsel van Kessellaan | artist visual | 4 |  | |
 
-### De Schutskamp ('s-Hertogenbosch): 12 straten
-*Buurtthema (Buurt theme):* Explorers and colonial governors
+### De Schutskamp ('s-Hertogenbosch)
+*12 straten (streets). Buurtthema (Buurt theme):* Explorers and colonial governors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -246,8 +246,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rijzertlaan | explorer | 4 |  | |
 | Schutskampstraat | explorer | 4 |  | |
 
-### Boschveld ('s-Hertogenbosch): 10 straten
-*Buurtthema (Buurt theme):* Scientists and Nobel laureates
+### Boschveld ('s-Hertogenbosch)
+*10 straten (streets). Buurtthema (Buurt theme):* Scientists and Nobel laureates
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -262,8 +262,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Veemarktweg | scientist | 4 |  | |
 | van Coehoornplein | scientist | 4 |  | |
 
-### De Staatsliedenbuurt ('s-Hertogenbosch): 10 straten
-*Buurtthema (Buurt theme):* Dutch statesmen and social reformers
+### De Staatsliedenbuurt ('s-Hertogenbosch)
+*10 straten (streets). Buurtthema (Buurt theme):* Dutch statesmen and social reformers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -278,8 +278,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | To Janssenstraat | politician statesman | 4 |  | |
 | Vorrinklaan | politician statesman | 4 |  | |
 
-### Hintham zuid ('s-Hertogenbosch): 9 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Hintham zuid ('s-Hertogenbosch)
+*9 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -293,8 +293,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pieter Kleijnstraat | other | 3 |  | |
 | Willem van Geldorpstraat | other | 3 |  | |
 
-### Bokhoven ('s-Hertogenbosch): 8 straten
-*Buurtthema (Buurt theme):* Medieval nobility of Bokhoven
+### Bokhoven ('s-Hertogenbosch)
+*8 straten (streets). Buurtthema (Buurt theme):* Medieval nobility of Bokhoven
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -307,8 +307,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Oppershof | other | 4 |  | |
 | Snoeckepad | other | 4 |  | |
 
-### Kom Engelen ('s-Hertogenbosch): 8 straten
-*Buurtthema (Buurt theme):* Water and wading birds, plus local people
+### Kom Engelen ('s-Hertogenbosch)
+*8 straten (streets). Buurtthema (Buurt theme):* Water and wading birds, plus local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -321,8 +321,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zuster Hilkerstraat | religious | 3 |  | |
 | Zuster van Scheijndelstraat | religious | 3 |  | |
 
-### Orthen ('s-Hertogenbosch): 8 straten
-*Buurtthema (Buurt theme):* Village names, fort, and local priests
+### Orthen ('s-Hertogenbosch)
+*8 straten (streets). Buurtthema (Buurt theme):* Village names, fort, and local priests
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -335,8 +335,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | St. Rochusstraat | religious | 3 |  | |
 | Van der Griendtstraat | other | 3 |  | |
 
-### Zuid ('s-Hertogenbosch): 7 straten
-*Buurtthema (Buurt theme):* Classical composers, ancient authors, Burgundian dukes
+### Zuid ('s-Hertogenbosch)
+*7 straten (streets). Buurtthema (Buurt theme):* Classical composers, ancient authors, Burgundian dukes
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -348,8 +348,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vonk en Vlamlaantje | musician composer | 4 |  | |
 | Zuiderstrandweg | musician composer | 4 |  | |
 
-### Binnenstad centrum ('s-Hertogenbosch): 6 straten
-*Buurtthema (Buurt theme):* Medieval city: gates, harbours, religious houses, guild streets
+### Binnenstad centrum ('s-Hertogenbosch)
+*6 straten (streets). Buurtthema (Buurt theme):* Medieval city: gates, harbours, religious houses, guild streets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -360,8 +360,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor de Kroonstraat | religious | 3 |  | |
 | Snellestraat | other | 3 |  | |
 
-### Graafsebuurt noord ('s-Hertogenbosch): 6 straten
-*Buurtthema (Buurt theme):* Flemish and Dutch painters, plus shrubs
+### Graafsebuurt noord ('s-Hertogenbosch)
+*6 straten (streets). Buurtthema (Buurt theme):* Flemish and Dutch painters, plus shrubs
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -372,8 +372,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Grobbendoncklaan | artist visual | 4 |  | |
 | Vliertsesteeg | artist visual | 4 |  | |
 
-### Kom Empel ('s-Hertogenbosch): 6 straten
-*Buurtthema (Buurt theme):* Mayors, priests and historical offices
+### Kom Empel ('s-Hertogenbosch)
+*6 straten (streets). Buurtthema (Buurt theme):* Mayors, priests and historical offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -384,8 +384,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Claassenstraat | other | 3 |  | |
 | Pastoor Verhoevenstraat | other | 3 |  | |
 
-### De Overlaet oost ('s-Hertogenbosch): 5 straten
-*Buurtthema (Buurt theme):* Resistance heroes, entertainers and athletes, fish and birds, and Dutch rivers (-borch)
+### De Overlaet oost ('s-Hertogenbosch)
+*5 straten (streets). Buurtthema (Buurt theme):* Resistance heroes, entertainers and athletes, fish and birds, and Dutch rivers (-borch)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -395,8 +395,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Meester van Ierselstraat | other | 3 |  | |
 | Zuster Gertrudosingel | religious | 3 |  | |
 
-### Graafsebuurt zuid ('s-Hertogenbosch): 5 straten
-*Buurtthema (Buurt theme):* Catholic priests and Dutch politicians, plus trees
+### Graafsebuurt zuid ('s-Hertogenbosch)
+*5 straten (streets). Buurtthema (Buurt theme):* Catholic priests and Dutch politicians, plus trees
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -406,8 +406,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Mutsaersstraat | religious | 3 |  | |
 | Zuidoosterfront | religious | 4 |  | |
 
-### Orthen west ('s-Hertogenbosch): 5 straten
-*Buurtthema (Buurt theme):* Medieval dukes and saints
+### Orthen west ('s-Hertogenbosch)
+*5 straten (streets). Buurtthema (Buurt theme):* Medieval dukes and saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -417,8 +417,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Werenfriedstraat | monarch statesman | 3 |  | |
 | Van Wandelenstraat | other | 3 |  | |
 
-### Binnenstad oost ('s-Hertogenbosch): 4 straten
-*Buurtthema (Buurt theme):* Religious orders and old city places
+### Binnenstad oost ('s-Hertogenbosch)
+*4 straten (streets). Buurtthema (Buurt theme):* Religious orders and old city places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -427,8 +427,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Mgr. Prinsenstraat | religious | 3 |  | |
 | Schilderstraat | unspecified individual | 3 |  | |
 
-### De Hinthamerpoort ('s-Hertogenbosch): 4 straten
-*Buurtthema (Buurt theme):* City bastions, generals and trees
+### De Hinthamerpoort ('s-Hertogenbosch)
+*4 straten (streets). Buurtthema (Buurt theme):* City bastions, generals and trees
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -437,8 +437,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Westenburgerweg | unspecified individual | 3 |  | |
 | van Boelenstraat | unspecified individual | 3 |  | |
 
-### Hintham noord ('s-Hertogenbosch): 4 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Hintham noord ('s-Hertogenbosch)
+*4 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -447,8 +447,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Hoekx-singel | other | 3 |  | |
 | Pastoor de Leijerstraat | other | 3 |  | |
 
-### Bazeldonk ('s-Hertogenbosch): 3 straten
-*Buurtthema (Buurt theme):* Medieval and Renaissance Dutch/Flemish writers
+### Bazeldonk ('s-Hertogenbosch)
+*3 straten (streets). Buurtthema (Buurt theme):* Medieval and Renaissance Dutch/Flemish writers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -456,8 +456,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Limietlaan | writer poet | 4 |  | |
 | Zuiderpassage | writer poet | 4 |  | |
 
-### Paleiskwartier ('s-Hertogenbosch): 3 straten
-*Buurtthema (Buurt theme):* Inventors and scholars, plus city offices
+### Paleiskwartier ('s-Hertogenbosch)
+*3 straten (streets). Buurtthema (Buurt theme):* Inventors and scholars, plus city offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -465,8 +465,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hofmeesterstraat | unspecified individual | 3 |  | |
 | Jonkerstraat | scientist | 4 |  | |
 
-### Rosmalen centrum ('s-Hertogenbosch): 3 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Rosmalen centrum ('s-Hertogenbosch)
+*3 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -474,8 +474,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Harry Coppensstraat | other | 3 |  | |
 | Wethouder van der Valkstraat | other | 3 |  | |
 
-### Sparrenburg ('s-Hertogenbosch): 3 straten
-*Buurtthema (Buurt theme):* Brabant regions (-hoeven) and farm names
+### Sparrenburg ('s-Hertogenbosch)
+*3 straten (streets). Buurtthema (Buurt theme):* Brabant regions (-hoeven) and farm names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -483,133 +483,133 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Deken van Roestellaan | other | 3 |  | |
 | T.M. Kortenhorstlaan | other | 3 |  | |
 
-### A2 zone Rosmalen zuid ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### A2 zone Rosmalen zuid ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Jonkheer von Heijdenlaan | other | 3 |  | |
 | Heer en Beekstraat | other | 3 |  | |
 
-### Binnenstad noord ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Binnenstad noord ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rouppe van der Voortplein | other | 3 |  | |
 | Van Aarleplein | other | 3 |  | |
 
-### De Bossche Pad ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### De Bossche Pad ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Paesschenstraat | other | 3 |  | |
 | Willem Deckersstraat | other | 3 |  | |
 
-### De Buitenpepers ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Numbered historic field names (Eerste...Achtste Buitenpepers)
+### De Buitenpepers ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Numbered historic field names (Eerste...Achtste Buitenpepers)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Frans Fransenstraat | other | 3 |  | |
 | Wethouder Schuurmanslaan | other | 3 |  | |
 
-### De Meerendonk ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Dutch writers
+### De Meerendonk ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Dutch writers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kruithoorn | writer poet | 4 |  | |
 | de Vaartgraaf | writer poet | 4 |  | |
 
-### Kom Nuland ('s-Hertogenbosch): 2 straten
-*Buurtthema (Buurt theme):* Farm tools, crops, local mayors and field names
+### Kom Nuland ('s-Hertogenbosch)
+*2 straten (streets). Buurtthema (Buurt theme):* Farm tools, crops, local mayors and field names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Teunissenstraat | other | 3 |  | |
 | Marie Trompstraat | other | 3 |  | |
 
-### Bedrijventerrein Nuland ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Bedrijventerrein Nuland ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Handelsstraat | musician composer | 3 |  | |
 
-### Brabantpoort ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Brabantpoort ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Burgerslaan | other | 3 |  | |
 
-### De Italiaanse buurt ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Italian cities
+### De Italiaanse buurt ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Italian cities
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester van Zwietenpad | other | 3 |  | |
 
-### De Rietvelden oost ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### De Rietvelden oost ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Moermanstraat | other | 3 |  | |
 
-### Grevelingen ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Grevelingen ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Kuijpersstraat | other | 3 |  | |
 
-### Het Vinkel ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Het Vinkel ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jos de Letterlaan | other | 3 |  | |
 
-### Het Zand ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Royals, Brabant regions, harbour and station names
+### Het Zand ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Royals, Brabant regions, harbour and station names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Maijweg | monarch statesman | 4 |  | |
 
-### Kom Vinkel ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Kom Vinkel ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Vogelsplein | other | 3 |  | |
 
-### Landelijk gebied Vinkel ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Landelijk gebied Vinkel ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Rijckevorselweg | other | 3 |  | |
 
-### Maasakker ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Farmland (-akker, -waard, -veld) names
+### Maasakker ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Farmland (-akker, -waard, -veld) names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ton de Vosplein | other | 3 |  | |
 
-### Maliskamp oost ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Trees, plus painters and saints
+### Maliskamp oost ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Trees, plus painters and saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Milla de Kampenstraat | other | 3 |  | |
 
-### Maliskamp west ('s-Hertogenbosch): 1 straat
-*Buurtthema (Buurt theme):* Too small, rural or generic to classify
+### Maliskamp west ('s-Hertogenbosch)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small, rural or generic to classify
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

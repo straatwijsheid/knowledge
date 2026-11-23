@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Schaijk (Landerd): 16 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Schaijk (Landerd)
+*16 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van de Venlaan | other | 3 |  | |
 | van der Heijdenstraat | other | 3 |  | |
 
-### Reek (Landerd): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Reek (Landerd)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Suijsstraat | other | 3 |  | |
 | Wethouder Zegersstraat | other | 3 |  | |
 
-### Zeeland (Landerd): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and flowers
+### Zeeland (Landerd)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -52,22 +52,22 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rector van Gerwenstraat | other | 3 |  | |
 | Van Kilsdonkplein | other | 3 |  | |
 
-### Buitengebied-Odiliapeel (Landerd): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Buitengebied-Odiliapeel (Landerd)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Piet Kroef laan | other | 3 |  | |
 
-### Odiliapeel (Landerd): 1 straat
-*Buurtthema (Buurt theme):* flowers, birds and local field, farm and road names
+### Odiliapeel (Landerd)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor van Houtstraat | other | 3 |  | |
 
-### Verspreide huizen Schaijkse Heide (Landerd): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
+### Verspreide huizen Schaijkse Heide (Landerd)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

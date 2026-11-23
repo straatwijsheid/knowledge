@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### De Notel (Oirschot): 12 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local people and trades, guilds and offices
+### De Notel (Oirschot)
+*12 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local people and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Hofstatstraat | other | 3 |  | |
 | van den Laeckstraat | other | 3 |  | |
 
-### Spoordonk (Oirschot): 7 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Spoordonk (Oirschot)
+*7 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Leefdaelstraat | other | 4 |  | |
 | Van Petershemstraat | other | 3 |  | |
 
-### Oirschot-Centrum (Oirschot): 5 straten
-*Buurtthema (Buurt theme):* Local landmarks and institutions, trades, guilds and offices and local field, farm and road names
+### Oirschot-Centrum (Oirschot)
+*5 straten (streets). Buurtthema (Buurt theme):* Local landmarks and institutions, trades, guilds and offices and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hopmanstraat | other | 3 |  | |
 | Van Baerlandstraat | other | 3 |  | |
 
-### Verspreide huizen Oostelbeers (Oirschot): 4 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Oostelbeers (Oirschot)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -60,45 +60,45 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor J. van de Mortellaan | other | 3 |  | |
 | Jonkheer de la Courtweg | other | 3 |  | |
 
-### Verspreide huizen Westelbeers (Oirschot): 2 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, roads named after nearby places and unspecified_individual
+### Verspreide huizen Westelbeers (Oirschot)
+*2 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, roads named after nearby places and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ingenieur van Meelweg | unspecified individual | 3 |  | |
 | St. Sebastiaanshoek | religious | 3 |  | |
 
-### Verspreide huizen Zuid-Oirschotse Heide (Oirschot): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Zuid-Oirschotse Heide (Oirschot)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dirk Noordhoflaan | other | 3 |  | |
 | Herder Pasmansdreef | other | 3 |  | |
 
-### Middelbeers (Oirschot): 1 straat
-*Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and trades, guilds and offices
+### Middelbeers (Oirschot)
+*1 straat (streets). Buurtthema (Buurt theme):* Local field, farm and road names, trees and plants and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Mevrouw Smulders-Beliënplein | other | 3 |  | |
 
-### Oirschot Noordoost (Oirschot): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Oirschot Noordoost (Oirschot)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur van de Venstraat | other | 3 |  | |
 
-### Oostelbeers (Oirschot): 1 straat
-*Buurtthema (Buurt theme):* Trees and plants, unspecified_individual and local landmarks and institutions
+### Oostelbeers (Oirschot)
+*1 straat (streets). Buurtthema (Buurt theme):* Trees and plants, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van de Sandestraat | other | 3 |  | |
 
-### Verspreide huizen Spoordonk (Oirschot): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Spoordonk (Oirschot)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

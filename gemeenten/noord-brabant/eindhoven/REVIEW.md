@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Generalenbuurt (Eindhoven): 35 straten
-*Buurtthema (Buurt theme):* Allied/Dutch WWII generals and statesmen
+### Generalenbuurt (Eindhoven)
+*35 straten (streets). Buurtthema (Buurt theme):* Allied/Dutch WWII generals and statesmen
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal van der Duynlaan | military | 3 |  | |
 | Generaal van der Leythenlaan | military | 3 |  | |
 
-### Lievendaal (Eindhoven): 20 straten
-*Buurtthema (Buurt theme):* Dutch legal scholars/jurists (matches Het Ven)
+### Lievendaal (Eindhoven)
+*20 straten (streets). Buurtthema (Buurt theme):* Dutch legal scholars/jurists (matches Het Ven)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van der Lindenstraat | legal scholar | 4 |  | |
 | van der Vlugtpad | legal scholar | 4 |  | |
 
-### Kerkdorp Acht (Eindhoven): 13 straten
-*Buurtthema (Buurt theme):* Dutch rivers, plus a distinct sub-cluster of local WWII resistance/war victims from the village of Acht
+### Kerkdorp Acht (Eindhoven)
+*13 straten (streets). Buurtthema (Buurt theme):* Dutch rivers, plus a distinct sub-cluster of local WWII resistance/war victims from the village of Acht
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rien van Bruggenpad | other | 3 |  | |
 | Willem Jan Jonkerlaan | other | 3 |  | |
 
-### Prinsejagt (Eindhoven): 13 straten
-*Buurtthema (Buurt theme):* Architects and Dutch historians
+### Prinsejagt (Eindhoven)
+*13 straten (streets). Buurtthema (Buurt theme):* Architects and Dutch historians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Dormaalstraat | architect or historian | 4 |  | |
 | van Papebroeckstraat | architect or historian | 4 |  | |
 
-### Mensfort (Eindhoven): 12 straten
-*Buurtthema (Buurt theme):* Dutch architects
+### Mensfort (Eindhoven)
+*12 straten (streets). Buurtthema (Buurt theme):* Dutch architects
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Vianenpad | architect or historian | 4 |  | |
 | van der Meystraat | architect or historian | 4 |  | |
 
-### Burghplan (Eindhoven): 9 straten
-*Buurtthema (Buurt theme):* Dutch/Flemish Golden Age & medieval painters, with a saints sub-cluster
+### Burghplan (Eindhoven)
+*9 straten (streets). Buurtthema (Buurt theme):* Dutch/Flemish Golden Age & medieval painters, with a saints sub-cluster
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wapperslaan | artist visual | 4 |  | |
 | van Renesseweg | artist visual | 4 |  | |
 
-### Puttense Dreef (Eindhoven): 9 straten
-*Buurtthema (Buurt theme):* Dutch & Flemish painters
+### Puttense Dreef (Eindhoven)
+*9 straten (streets). Buurtthema (Buurt theme):* Dutch & Flemish painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -161,8 +161,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Witven | artist visual | 4 |  | |
 | van Reespad | artist visual | 4 |  | |
 
-### Roosten (Eindhoven): 9 straten
-*Buurtthema (Buurt theme):* Physicians & medical scientists (matches Eikenburg)
+### Roosten (Eindhoven)
+*9 straten (streets). Buurtthema (Buurt theme):* Physicians & medical scientists (matches Eikenburg)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -176,8 +176,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Speckenlaan | scientist physician | 4 |  | |
 | Verbeeklaan | scientist physician | 4 |  | |
 
-### Het Ven (Eindhoven): 8 straten
-*Buurtthema (Buurt theme):* Dutch legal scholars/jurists, plus a West-Brabant towns sub-cluster
+### Het Ven (Eindhoven)
+*8 straten (streets). Buurtthema (Buurt theme):* Dutch legal scholars/jurists, plus a West-Brabant towns sub-cluster
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Speelheuvelweg | legal scholar | 4 |  | |
 | Zeelsterstraat | legal scholar | 4 |  | |
 
-### Rochusbuurt (Eindhoven): 8 straten
-*Buurtthema (Buurt theme):* Medieval Brabant nobility and saints
+### Rochusbuurt (Eindhoven)
+*8 straten (streets). Buurtthema (Buurt theme):* Medieval Brabant nobility and saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Bergeijkstraat | monarch statesman | 4 |  | |
 | Willem van Millenberchstraat | monarch statesman | 4 |  | |
 
-### Bennekel-West, Gagelbosch (Eindhoven): 7 straten
-*Buurtthema (Buurt theme):* Composers (Muziekkwartier, continued)
+### Bennekel-West, Gagelbosch (Eindhoven)
+*7 straten (streets). Buurtthema (Buurt theme):* Composers (Muziekkwartier, continued)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prokofjevpad | musician composer | 4 |  | |
 | Ruloffsweg | musician composer | 4 |  | |
 
-### Binnenstad (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Organic historic city-center names (no assigned theme)
+### Binnenstad (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Organic historic city-center names (no assigned theme)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -229,8 +229,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Ten Hagestraat | other | 3 |  | |
 | Willem Dicbierstraat | other | 3 |  | |
 
-### Eliasterrein, Vonderkwartier (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* House of Orange-Nassau royalty
+### Eliasterrein, Vonderkwartier (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* House of Orange-Nassau royalty
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -241,8 +241,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Griensvenpad | monarch statesman | 3 |  | |
 | Prinsenhof | monarch statesman | 4 |  | |
 
-### Elzent-Noord (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Dutch poets & writers
+### Elzent-Noord (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch poets & writers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -253,8 +253,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Knuvelderlaan | writer poet | 4 |  | |
 | Lex en Edo Hornemannplantsoen | writer poet | 4 |  | |
 
-### Engelsbergen (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Eindhoven mayors, plus a medieval/Carolingian rulers sub-cluster
+### Engelsbergen (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Eindhoven mayors, plus a medieval/Carolingian rulers sub-cluster
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -265,8 +265,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Scherpakkerweg | mayor local | 4 |  | |
 | Steijgerweg | mayor local | 4 |  | |
 
-### Genneperzijde (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Dutch literary figures
+### Genneperzijde (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch literary figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -277,8 +277,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Spieghelstraat | writer poet | 4 |  | |
 | van Coothstraat | writer poet | 4 |  | |
 
-### Hemelrijken (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Dutch naval heroes/admirals, plus modern statesmen
+### Hemelrijken (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch naval heroes/admirals, plus modern statesmen
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -289,8 +289,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Zeeheldenlaan | military naval or politician | 4 |  | |
 | de Vriesstraat | military naval or politician | 4 |  | |
 
-### Irisbuurt (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Golden Age Dutch/Flemish painters, plus literal harbor history (Eindhovensch Kanaal)
+### Irisbuurt (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Golden Age Dutch/Flemish painters, plus literal harbor history (Eindhovensch Kanaal)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -301,8 +301,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schellingstraat | artist visual | 4 |  | |
 | van Wassenhovestraat | artist visual | 4 |  | |
 
-### Jagershoef (Eindhoven): 6 straten
-*Buurtthema (Buurt theme):* Medieval literature: Reynard the Fox and Arthurian-legend characters
+### Jagershoef (Eindhoven)
+*6 straten (streets). Buurtthema (Buurt theme):* Medieval literature: Reynard the Fox and Arthurian-legend characters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -313,8 +313,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Reynhovestraat | literary mythical figure | 4 |  | |
 | Rosseelstraat | literary mythical figure | 4 |  | |
 
-### Eikenburg (Eindhoven): 5 straten
-*Buurtthema (Buurt theme):* Pioneering physicians & medical scientists
+### Eikenburg (Eindhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* Pioneering physicians & medical scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -324,8 +324,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Florastate | scientist physician | 4 |  | |
 | Van der Beken Pasteelweg | scientist physician | 4 |  | |
 
-### Lakerlopen (Eindhoven): 5 straten
-*Buurtthema (Buurt theme):* Dutch & Flemish Golden Age painters
+### Lakerlopen (Eindhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* Dutch & Flemish Golden Age painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -335,8 +335,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Picushof | artist visual | 4 |  | |
 | Terwestenstraat | artist visual | 4 |  | |
 
-### Philipsdorp (Eindhoven): 5 straten
-*Buurtthema (Buurt theme):* The Philips family (workers' garden village built by Philips), plus trees and saints
+### Philipsdorp (Eindhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* The Philips family (workers' garden village built by Philips), plus trees and saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -346,8 +346,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Hubertastraat | industrialist philips | 4 | OSM free text (mapper's note): 'Waarschijnlijk moeder van M.E.H. Tjaden' (probably the mother of M.E.H. Tjaden). We could not find M.E.H. Tjaden; do you know who that is (a Philips director or family member)? Then Huberta would be a Tjaden, not a Philips. | |
 | Stadionplein | industrialist philips | 4 |  | |
 
-### Rapenland (Eindhoven): 5 straten
-*Buurtthema (Buurt theme):* Sculptors
+### Rapenland (Eindhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* Sculptors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -357,8 +357,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jan van Boonenstraat | artist visual sculptor | 4 |  | |
 | van Logterenpad | artist visual sculptor | 4 |  | |
 
-### Bennekel-Oost (Eindhoven): 3 straten
-*Buurtthema (Buurt theme):* Renaissance & Baroque composers (Muziekkwartier)
+### Bennekel-Oost (Eindhoven)
+*3 straten (streets). Buurtthema (Buurt theme):* Renaissance & Baroque composers (Muziekkwartier)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -366,8 +366,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schutzweg | musician composer | 4 |  | |
 | Smuldersweg | musician composer | 4 |  | |
 
-### Gennep (Eindhoven): 3 straten
-*Buurtthema (Buurt theme):* Too small/mixed to classify confidently
+### Gennep (Eindhoven)
+*3 straten (streets). Buurtthema (Buurt theme):* Too small/mixed to classify confidently
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -375,8 +375,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Professor Holstlaan | other | 3 |  | |
 | Wim van Tuijllaan | other | 3 |  | |
 
-### Koudenhoven (Eindhoven): 3 straten
-*Buurtthema (Buurt theme):* Dutch WWII-era ministers/statesmen
+### Koudenhoven (Eindhoven)
+*3 straten (streets). Buurtthema (Buurt theme):* Dutch WWII-era ministers/statesmen
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -384,8 +384,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Oude Muschbergweg | politician statesman | 4 |  | |
 | Wasvenpad | politician statesman | 4 |  | |
 
-### Schrijversbuurt (Eindhoven): 3 straten
-*Buurtthema (Buurt theme):* Dutch & Flemish writers
+### Schrijversbuurt (Eindhoven)
+*3 straten (streets). Buurtthema (Buurt theme):* Dutch & Flemish writers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -393,173 +393,173 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Binnewiertzstraat | writer poet | 4 |  | |
 | Burgemeester van Gennippad | writer poet | 3 |  | |
 
-### Bergen (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Organic historic city-center names, weak House-of-Orange sub-cluster
+### Bergen (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Organic historic city-center names, weak House-of-Orange sub-cluster
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Deken van Somerenstraat | monarch statesman | 3 |  | |
 | Waagstraat | unspecified individual | 3 |  | |
 
-### Blaarthem (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Composers (Muziekkwartier, continued)
+### Blaarthem (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Composers (Muziekkwartier, continued)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bernsteinstraat | musician composer | 4 |  | |
 | M.G. van den Hurkpad | musician composer | 4 |  | |
 
-### Fellenoord (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Transit-hub infrastructure (single-letter bus platforms), one WWII-liberator plein
+### Fellenoord (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Transit-hub infrastructure (single-letter bus platforms), one WWII-liberator plein
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Erik Vos Busplein | other | 3 |  | |
 | Pastoor Petersstraat | other | 3 |  | |
 
-### Flight Forum (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Early Dutch aviation pioneers
+### Flight Forum (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Early Dutch aviation pioneers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Parmentierweg | aviation pioneer | 4 |  | |
 | Zandgolf | aviation pioneer | 4 |  | |
 
-### Genderdal (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Classical composers
+### Genderdal (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Classical composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Strozziplantsoen | musician composer | 4 |  | |
 | Varèsepark | musician composer | 4 |  | |
 
-### Joriskwartier (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Flowers/plants
+### Joriskwartier (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Flowers/plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Harkxplein | other | 3 |  | |
 | Pastoor Sickingstraat | other | 3 |  | |
 
-### Limbeek-Zuid (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Dutch first-wave feminists / women's rights activists
+### Limbeek-Zuid (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Dutch first-wave feminists / women's rights activists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Anna Walravenpad | activist | 4 |  | |
 | Kabelstraat | activist | 4 |  | |
 
-### Oude Gracht-Oost (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Greco-Roman mythology
+### Oude Gracht-Oost (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Greco-Roman mythology
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dardanuspad | mythological figure | 4 |  | |
 | Lucretiastraat | mythological figure | 4 |  | |
 
-### Oude Toren (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Polar and maritime explorers
+### Oude Toren (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Polar and maritime explorers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Eckartseweg Zuid | explorer | 4 |  | |
 | Vroenhof | explorer | 4 |  | |
 
-### Strijp S (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Former Philips factory-site terms and Philips engineers/directors
+### Strijp S (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Former Philips factory-site terms and Philips engineers/directors
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ingenieur Van der Polstraat | philips engineer | 3 |  | |
 | Professor Carassohof | philips engineer | 3 |  | |
 
-### Vredeoord (Eindhoven): 2 straten
-*Buurtthema (Buurt theme):* Too few named streets to identify a theme
+### Vredeoord (Eindhoven)
+*2 straten (streets). Buurtthema (Buurt theme):* Too few named streets to identify a theme
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Poletlaan | other | 3 |  | |
 | Joseph Alexis Kerfflaan | other | 3 |  | |
 
-### BeA2 (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* No clear pattern in this small/mixed set (generic + a few surnames)
+### BeA2 (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* No clear pattern in this small/mixed set (generic + a few surnames)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dirk Noordhoflaan | other | 3 |  | |
 
-### Eckartdal (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Historic Eckart estate (castle, coach house, avenue)
+### Eckartdal (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Historic Eckart estate (castle, coach house, avenue)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Frans Starkpad | other | 3 |  | |
 
-### Grasrijk (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* "Gras" (grass)-prefixed nature branding for a modern development
+### Grasrijk (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* "Gras" (grass)-prefixed nature branding for a modern development
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Peter Zuidlaan | other | 3 |  | |
 
-### Hagenkamp (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Medieval Burgundian/Habsburg nobility
+### Hagenkamp (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Medieval Burgundian/Habsburg nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Polanenweg | monarch statesman | 4 |  | |
 
-### Karpen (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* 19th-century Dutch statesmen, plus a Dutch East Indies place sub-cluster
+### Karpen (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* 19th-century Dutch statesmen, plus a Dutch East Indies place sub-cluster
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Koudenhovenseweg Noord | politician statesman | 4 |  | |
 
-### Kronehoef (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Small fur-bearing mammals, plus textile-guild trades and one WWII general
+### Kronehoef (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Small fur-bearing mammals, plus textile-guild trades and one WWII general
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Deken van Liempdstraat | military | 3 |  | |
 
-### Looiakkers (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Too small; two Dutch writers present
+### Looiakkers (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Too small; two Dutch writers present
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hofdijkstraat | unspecified individual | 3 |  | |
 
-### Oude Gracht-West (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Greek mythology (matches Oude Gracht-Oost)
+### Oude Gracht-West (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Greek mythology (matches Oude Gracht-Oost)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Melpomenestraat | mythological figure | 4 |  | |
 
-### Sintenbuurt (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Catholic saints and clergy
+### Sintenbuurt (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Catholic saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rector Baptistlaan | religious | 3 |  | |
 
-### Tempel (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Belgian towns
+### Tempel (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Belgian towns
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bisschop Bekkerslaan | religious | 3 |  | |
 
-### Vaartbroek (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Fruits and vegetables, plus one WWII outlier (Airborne)
+### Vaartbroek (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Fruits and vegetables, plus one WWII outlier (Airborne)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bert Oosterboschpad | other | 3 |  | |
 
-### Woensel-West (Eindhoven): 1 straat
-*Buurtthema (Buurt theme):* Physicists, inventors, and engineers, plus a small timber-type sub-cluster (Douglashout, Grenenhout, Loofhout, Naaldhout)
+### Woensel-West (Eindhoven)
+*1 straat (streets). Buurtthema (Buurt theme):* Physicists, inventors, and engineers, plus a small timber-type sub-cluster (Douglashout, Grenenhout, Loofhout, Naaldhout)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

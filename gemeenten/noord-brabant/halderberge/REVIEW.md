@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Oudenbosch-Centrum (Halderberge): 20 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Oudenbosch-Centrum (Halderberge)
+*20 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Strijmondlaan | other | 3 |  | |
 | Vader Vincentiusstraat | other | 3 |  | |
 
-### Oud Gastel (Halderberge): 14 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Oud Gastel (Halderberge)
+*14 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | de Potterestraat | other | 3 |  | |
 | van Glymesstraat | other | 3 |  | |
 
-### Velletri (Halderberge): 10 straten
-*Buurtthema (Buurt theme):* local people, foreign towns and unspecified_individual
+### Velletri (Halderberge)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, foreign towns and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | J M van den Berghstraat | other | 3 |  | |
 | Professor Van Swaaijlaan | other | 3 |  | |
 
-### Hoeven (Halderberge): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
+### Hoeven (Halderberge)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | President Van Gilslaan | other | 3 |  | |
 | President Van Rijenlaan | other | 3 |  | |
 
-### Stampersgat (Halderberge): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
+### Stampersgat (Halderberge)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | L.P. van Mallandstraat | other | 3 |  | |
 | Monseigneur Dellepoortstraat | other | 3 |  | |
 
-### Bosschenhoofd (Halderberge): 3 straten
-*Buurtthema (Buurt theme):* royals and nobility, trees and plants and village
+### Bosschenhoofd (Halderberge)
+*3 straten (streets). Buurtthema (Buurt theme):* royals and nobility, trees and plants and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -102,44 +102,44 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Hopmanshof | monarch statesman | 3 |  | |
 | Pastoor van Breugelstraat | monarch statesman | 3 |  | |
 
-### Pagnevaart (Halderberge): 2 straten
-*Buurtthema (Buurt theme):* trees and plants, flowers and local landmarks and institutions
+### Pagnevaart (Halderberge)
+*2 straten (streets). Buurtthema (Buurt theme):* trees and plants, flowers and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pater Beckerstraat | other | 3 |  | |
 | Professor Mulderslaan | other | 3 |  | |
 
-### Achter 't Hof (Halderberge): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and royals and nobility
+### Achter 't Hof (Halderberge)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Mommersstraat | unspecified individual | 3 |  | |
 
-### Verspreide huizen Bosschenhoofd (Halderberge): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and literary figures
+### Verspreide huizen Bosschenhoofd (Halderberge)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and literary figures
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Amalialaantje | monarch statesman | 3 |  | |
 
-### Verspreide huizen Kuivezand en omgeving (Halderberge): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and royals and nobility
+### Verspreide huizen Kuivezand en omgeving (Halderberge)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Peeter Ceelen Keetweg | other | 3 |  | |
 
-### Verspreide huizen ten zuiden van Hoeven (Halderberge): 1 straat
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
+### Verspreide huizen ten zuiden van Hoeven (Halderberge)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hermansstraat | other | 3 |  | |
 
-### Verspreide huizen ten zuiden van Oudenbosch (Halderberge): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, village and local people
+### Verspreide huizen ten zuiden van Oudenbosch (Halderberge)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, village and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

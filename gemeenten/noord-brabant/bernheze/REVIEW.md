@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### De Beemd (Bernheze): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
+### De Beemd (Bernheze)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trees and plants and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Berg-erf | other | 3 |  | |
 | Van der Heijden-erf | other | 3 |  | |
 
-### Den Berg (Bernheze): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Den Berg (Bernheze)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater van den Elzenstraat | unspecified individual | 3 |  | |
 | Sonniusstraat | unspecified individual | 3 |  | |
 
-### Graaf Wernerstraat (Bernheze): 5 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Graaf Wernerstraat (Bernheze)
+*5 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Maasstraat | other | 3 |  | |
 | Ridder Robertstraat | other | 3 |  | |
 
-### De abdij (Bernheze): 4 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and saints and clergy
+### De abdij (Bernheze)
+*4 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Heijmanstraat | religious | 3 |  | |
 | Monseigneur Dubbelmanstraat | religious | 3 |  | |
 
-### De Bleeken - 't Grolder (Bernheze): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
+### De Bleeken - 't Grolder (Bernheze)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jonkerstraat | monarch statesman | 4 |  | |
 | Stoksestraat | monarch statesman | 4 |  | |
 
-### Eikenhoek (Bernheze): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
+### Eikenhoek (Bernheze)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jan Habrakenstraat | other | 3 |  | |
 | Pastoor Lathouwersstraat | other | 3 |  | |
 
-### Kerkveld (Bernheze): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and fruit and crops
+### Kerkveld (Bernheze)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and fruit and crops
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -82,141 +82,141 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Harrie van de Venstraat | other | 3 |  | |
 | Walterus van Houtstraat | other | 3 |  | |
 
-### 't Dorp (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### 't Dorp (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Liniushof | other | 3 |  | |
 | Pastoor Scheepensstraat | other | 3 |  | |
 
-### Heelwijk (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Heelwijk (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Doctor Saal van Zwanenberglaan | other | 3 |  | |
 | Woutkensstraat | other | 3 |  | |
 
-### Loosbroek (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and local people
+### Loosbroek (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jan Dobbelsteenstraat | other | 3 |  | |
 | Pastoor de Grootstraat | other | 3 |  | |
 
-### Monseigneur van Den Hurklaan (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Monseigneur van Den Hurklaan (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | De La Sallestraat | unspecified individual | 3 |  | |
 | Monseigneur van den Hurklaan | unspecified individual | 3 |  | |
 
-### Oranjebuurt (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* Mostly royals and nobility
+### Oranjebuurt (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Van Berchemhof | monarch statesman | 3 |  | |
 | Burgemeester Woltersstraat | monarch statesman | 3 |  | |
 
-### Van 't Rijk (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local landmarks and institutions and trees and plants
+### Van 't Rijk (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local landmarks and institutions and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Eikelkampstraat | unspecified individual | 3 |  | |
 | Van Binsbergenstraat | unspecified individual | 3 |  | |
 
-### Weijen West (Bernheze): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and writers and poets
+### Weijen West (Bernheze)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dobbestraat | unspecified individual | 3 |  | |
 | Vatenstraat | unspecified individual | 3 |  | |
 
-### 't Vijfeiken (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### 't Vijfeiken (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ludovicushof | other | 3 |  | |
 
-### Balledonk (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, painters and writers and poets
+### Balledonk (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, painters and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Monseigneur van Oorschotstraat | artist visual | 3 |  | |
 
-### Buitenpas - Noordrand (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Buitenpas - Noordrand (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Louisehof | other | 3 |  | |
 
-### Componistenbuurt (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly composers
+### Componistenbuurt (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Berliozstraat | musician composer | 4 |  | |
 
-### De Velft (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and local people
+### De Velft (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Boelensstraat | other | 3 |  | |
 
-### Hazelberg (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Hazelberg (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hoge Broekstraat | other | 3 |  | |
 
-### Heeswijkse Bosschen (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Heeswijkse Bosschen (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jan van den Boomstraat | other | 3 |  | |
 
-### Hoofdstraat (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Hoofdstraat (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dokter Boutkanstraat | other | 3 |  | |
 
-### Kennedystraat (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and unspecified_individual
+### Kennedystraat (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Gildestraat | writer poet | 4 |  | |
 
-### Laar (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Laar (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor J. Groenenstraat | other | 3 |  | |
 
-### Maxend (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, mammals and unspecified_individual
+### Maxend (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, mammals and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Toon van Durenlaan | other | 3 |  | |
 
-### Vorstenbosch (Bernheze): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Vorstenbosch (Bernheze)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

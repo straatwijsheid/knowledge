@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Slotjes-Midden (Oosterhout): 15 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and saints and clergy
+### Slotjes-Midden (Oosterhout)
+*15 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Polanenstraat | religious | 4 |  | |
 | Verschuurstraat | religious | 4 |  | |
 
-### Staatsliedenbuurt (Oosterhout): 10 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and politicians
+### Staatsliedenbuurt (Oosterhout)
+*10 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Someren-Downerlaan | other | 3 |  | |
 | Vondelinghof | politician statesman | 4 |  | |
 
-### Schrijversbuurt (Oosterhout): 9 straten
-*Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
+### Schrijversbuurt (Oosterhout)
+*9 straten (streets). Buurtthema (Buurt theme):* writers and poets, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Velthemstraat | other | 3 |  | |
 | Verweijstraat | writer poet | 4 |  | |
 
-### Centrum (Oosterhout): 8 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Centrum (Oosterhout)
+*8 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Liedekerkestraat | other | 3 |  | |
 | Van Reesstraat | other | 3 |  | |
 
-### Leijsenakkers (Oosterhout): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Leijsenakkers (Oosterhout)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vierlingstraat | unspecified individual | 3 |  | |
 | Vroenhoutstraat | other | 3 |  | |
 
-### Vrachelen-Noord (Oosterhout): 7 straten
-*Buurtthema (Buurt theme):* literary figures, local field, farm and road names and local people
+### Vrachelen-Noord (Oosterhout)
+*7 straten (streets). Buurtthema (Buurt theme):* literary figures, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Maria Lécinastraat | other | 3 |  | |
 | Pieter Stastokstraat | other | 3 |  | |
 
-### Componistenbuurt (Oosterhout): 6 straten
-*Buurtthema (Buurt theme):* Mostly composers
+### Componistenbuurt (Oosterhout)
+*6 straten (streets). Buurtthema (Buurt theme):* Mostly composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Burgemeester van Oerslaan | musician composer | 3 |  | |
 | Wagenaarstraat | musician composer | 4 |  | |
 
-### Vrachelen-Zuidoost (Oosterhout): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### Vrachelen-Zuidoost (Oosterhout)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Spadestraat | unspecified individual | 3 |  | |
 | Zeislaan | unspecified individual | 3 |  | |
 
-### Vogelbuurt (Oosterhout): 5 straten
-*Buurtthema (Buurt theme):* Mostly birds
+### Vogelbuurt (Oosterhout)
+*5 straten (streets). Buurtthema (Buurt theme):* Mostly birds
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -136,73 +136,73 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Wassenaarveld | other | 3 |  | |
 | Van Wijngaardestraat | other | 3 |  | |
 
-### Natuurkundigenbuurt (Oosterhout): 2 straten
-*Buurtthema (Buurt theme):* scientists, unspecified_individual and local people
+### Natuurkundigenbuurt (Oosterhout)
+*2 straten (streets). Buurtthema (Buurt theme):* scientists, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Balmerstraat | scientist | 4 |  | |
 | Van Leeuwenhoeklaan | other | 3 |  | |
 
-### Slotjes-West (Oosterhout): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trades, guilds and offices
+### Slotjes-West (Oosterhout)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Heer Arnoudstraat | unspecified individual | 3 |  | |
 | Van Borsselestraat | other | 3 |  | |
 
-### Bosgebied Dorst (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
+### Bosgebied Dorst (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder van Dijklaan | unspecified individual | 3 |  | |
 
-### Bosgebied-Oosterhout (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Bosgebied-Oosterhout (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Materlaan | other | 3 |  | |
 
-### Buitengebied Dorst-Zuid (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, village and local field, farm and road names
+### Buitengebied Dorst-Zuid (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, village and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Leijweg | unspecified individual | 3 |  | |
 
-### Buitengebied-Oosteind-Zuid (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
+### Buitengebied-Oosteind-Zuid (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Ter Horst | other | 3 |  | |
 
-### Dorst (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and unspecified_individual
+### Dorst (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor den Rondenstraat | unspecified individual | 3 |  | |
 
-### Kruidenbuurt (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* flowers, herbs and spices and local people
+### Kruidenbuurt (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* flowers, herbs and spices and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Elkhuizenlaan | other | 3 |  | |
 
-### Oranjepolder (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* unspecified_individual, local landmarks and institutions and mammals
+### Oranjepolder (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* unspecified_individual, local landmarks and institutions and mammals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Metsersweg | unspecified individual | 3 |  | |
 
-### Schildersbuurt (Oosterhout): 1 straat
-*Buurtthema (Buurt theme):* Mostly painters
+### Schildersbuurt (Oosterhout)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly painters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

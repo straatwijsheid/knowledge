@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Gemert-Oost (Gemert-Bakel): 27 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Gemert-Oost (Gemert-Bakel)
+*27 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Town-Major Drakestraat | other | 3 |  | |
 | Wethouder Jaspershof | other | 3 |  | |
 
-### Gemert-Noord (Gemert-Bakel): 26 straten
-*Buurtthema (Buurt theme):* saints and clergy, writers and poets and local field, farm and road names
+### Gemert-Noord (Gemert-Bakel)
+*26 straten (streets). Buurtthema (Buurt theme):* saints and clergy, writers and poets and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vicaris van der Asdonckstraat | religious | 3 |  | |
 | Willem de Haasstraat | other | 3 |  | |
 
-### Gemert-Centrum (Gemert-Bakel): 19 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
+### Gemert-Centrum (Gemert-Bakel)
+*19 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wachtendonkstraat | other | 3 |  | |
 | Weversstraat | other | 3 |  | |
 
-### Verspreide huizen Rips (Gemert-Bakel): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Verspreide huizen Rips (Gemert-Bakel)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Petruslaan | unspecified individual | 3 |  | |
 | Roelvinklaan | unspecified individual | 3 |  | |
 
-### Handel (Gemert-Bakel): 8 straten
-*Buurtthema (Buurt theme):* saints and clergy, local field, farm and road names and local landmarks and institutions
+### Handel (Gemert-Bakel)
+*8 straten (streets). Buurtthema (Buurt theme):* saints and clergy, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Rector Meeuwsstraat | religious | 3 |  | |
 | Rector van de Laarschotstraat | religious | 3 |  | |
 
-### De Rips (Gemert-Bakel): 7 straten
-*Buurtthema (Buurt theme):* birds, local people and saints and clergy
+### De Rips (Gemert-Bakel)
+*7 straten (streets). Buurtthema (Buurt theme):* birds, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Paterslaan | religious | 3 |  | |
 | Van Deursenplein | other | 3 |  | |
 
-### De Mortel (Gemert-Bakel): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
+### De Mortel (Gemert-Bakel)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Sprenksteeg | unspecified individual | 3 |  | |
 | Sprenkstraat | unspecified individual | 3 |  | |
 
-### Verspreide huizen Kampen-Esdonk (Gemert-Bakel): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
+### Verspreide huizen Kampen-Esdonk (Gemert-Bakel)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vroede Vrouwenlaan | other | 3 |  | |
 | Zuster Gertrudastraat | religious | 3 |  | |
 
-### Elsendorp (Gemert-Bakel): 5 straten
-*Buurtthema (Buurt theme):* saints and clergy, local people and local field, farm and road names
+### Elsendorp (Gemert-Bakel)
+*5 straten (streets). Buurtthema (Buurt theme):* saints and clergy, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -176,8 +176,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Rossaertstraat | religious | 3 |  | |
 | Rector Busscherstraat | religious | 3 |  | |
 
-### Milheeze (Gemert-Bakel): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
+### Milheeze (Gemert-Bakel)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -186,8 +186,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Boeijenstraat | religious | 3 |  | |
 | Pastoor Simonisplein | unspecified individual | 3 |  | |
 
-### Bakel (Gemert-Bakel): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and flowers
+### Bakel (Gemert-Bakel)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -195,15 +195,15 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van de Poelstraat | other | 3 |  | |
 | Vlomanshof | other | 3 |  | |
 
-### Verspreide huizen Elsendorp (Gemert-Bakel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Elsendorp (Gemert-Bakel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Hendrik Jan IJpenberglaan | other | 3 |  | |
 
-### Verspreide huizen Mortelse Peel (Gemert-Bakel): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Verspreide huizen Mortelse Peel (Gemert-Bakel)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

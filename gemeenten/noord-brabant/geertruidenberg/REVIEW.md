@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Geertruidenberg-Kom (Geertruidenberg): 14 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
+### Geertruidenberg-Kom (Geertruidenberg)
+*14 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | W. Muldersplein | other | 3 |  | |
 | Zoutmanstraat | military naval or politician | 3 |  | |
 
-### Geertruidenberg-Noord (Geertruidenberg): 12 straten
-*Buurtthema (Buurt theme):* local people, noble houses and estates and unspecified_individual
+### Geertruidenberg-Noord (Geertruidenberg)
+*12 straten (streets). Buurtthema (Buurt theme):* local people, noble houses and estates and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Bergenstraat | unspecified individual | 3 |  | |
 | van der Duynstraat | unspecified individual | 3 |  | |
 
-### Raamsdonksveer (Geertruidenberg): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, painters and composers
+### Raamsdonksveer (Geertruidenberg)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, painters and composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Wijngaardenstraat | artist visual | 4 |  | |
 | van de Poelstraat | artist visual | 4 |  | |
 
-### Geertruidenberg-West (Geertruidenberg): 9 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Geertruidenberg-West (Geertruidenberg)
+*9 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Beverenlaan | monarch statesman | 4 |  | |
 | van der Waalstraat | unspecified individual | 3 |  | |
 
-### Hooipolder en De Hoeven (Geertruidenberg): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, writers and poets and local people
+### Hooipolder en De Hoeven (Geertruidenberg)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, writers and poets and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | P.C. Boutenstraat | other | 3 |  | |
 | Rijvoortshoef | other | 3 |  | |
 
-### Raamsdonk (Geertruidenberg): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Raamsdonk (Geertruidenberg)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

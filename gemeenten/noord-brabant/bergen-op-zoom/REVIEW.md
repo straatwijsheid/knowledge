@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Waterfront-Industriegebied (Bergen op Zoom): 11 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and Dutch regions
+### Waterfront-Industriegebied (Bergen op Zoom)
+*11 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and Dutch regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van den Eijnden pad | unspecified individual | 3 |  | |
 | Vierlinghweg | unspecified individual | 3 |  | |
 
-### Vestinggronden-Noord (Bergen op Zoom): 10 straten
-*Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
+### Vestinggronden-Noord (Bergen op Zoom)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, local landmarks and institutions and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Paulus Backxstraat | other | 3 |  | |
 | Van Overstratenlaan | other | 3 |  | |
 
-### Warande-Oost (Bergen op Zoom): 10 straten
-*Buurtthema (Buurt theme):* mythological figures, scientists and astronomy
+### Warande-Oost (Bergen op Zoom)
+*10 straten (streets). Buurtthema (Buurt theme):* mythological figures, scientists and astronomy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Heelulaan | other | 3 |  | |
 | Van Swietenlaan | other | 3 |  | |
 
-### Centrum (Bergen op Zoom): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Centrum (Bergen op Zoom)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Dedemstraat | other | 3 |  | |
 | Van der Rijtstraat | other | 3 |  | |
 
-### De Schans en Oude Molen (Bergen op Zoom): 9 straten
-*Buurtthema (Buurt theme):* trees and plants, local people and technology and tools
+### De Schans en Oude Molen (Bergen op Zoom)
+*9 straten (streets). Buurtthema (Buurt theme):* trees and plants, local people and technology and tools
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kapitein Vinkesteinstraat | other | 3 |  | |
 | Kapitein Wielmanlaan | other | 3 |  | |
 
-### Het Fort (Bergen op Zoom): 9 straten
-*Buurtthema (Buurt theme):* royals and nobility, local people and local landmarks and institutions
+### Het Fort (Bergen op Zoom)
+*9 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local people and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Hogendorpstraat | other | 3 |  | |
 | Van Oldenbarneveldtstraat | other | 3 |  | |
 
-### Zeekant (Bergen op Zoom): 9 straten
-*Buurtthema (Buurt theme):* rivers, unspecified_individual and local people
+### Zeekant (Bergen op Zoom)
+*9 straten (streets). Buurtthema (Buurt theme):* rivers, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van der Goesstraat | unspecified individual | 3 |  | |
 | Van der Heimstraat | unspecified individual | 3 |  | |
 
-### De Beek (Bergen op Zoom): 8 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, composers and local people
+### De Beek (Bergen op Zoom)
+*8 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, composers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Secretaris Bertenslaan | other | 3 |  | |
 | Wethouder Jonkersstraat | musician composer | 3 |  | |
 
-### Het Glacis (Bergen op Zoom): 7 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
+### Het Glacis (Bergen op Zoom)
+*7 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Luijtenpad | other | 3 |  | |
 | Peter Vineloolaan | other | 3 |  | |
 
-### Meilust Zuid (Bergen op Zoom): 5 straten
-*Buurtthema (Buurt theme):* composers, unspecified_individual and local field, farm and road names
+### Meilust Zuid (Bergen op Zoom)
+*5 straten (streets). Buurtthema (Buurt theme):* composers, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Tinelstraat | musician composer | 4 |  | |
 | Van der Glasstraat | other | 3 |  | |
 
-### Gageldonk-Oost (Bergen op Zoom): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
+### Gageldonk-Oost (Bergen op Zoom)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -165,8 +165,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Talmastraat | politician statesman | 3 |  | |
 | Van Houtenstraat | other | 3 |  | |
 
-### Halsteren-Centrum (Bergen op Zoom): 4 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
+### Halsteren-Centrum (Bergen op Zoom)
+*4 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Kapelaan Molstraat | religious | 3 |  | |
 | Laurent Rampartstraat | other | 3 |  | |
 
-### Warande-West (Bergen op Zoom): 4 straten
-*Buurtthema (Buurt theme):* writers and poets, local people and countries and regions
+### Warande-West (Bergen op Zoom)
+*4 straten (streets). Buurtthema (Buurt theme):* writers and poets, local people and countries and regions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -185,8 +185,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal Spoorstraat | writer poet | 3 |  | |
 | Pastoor Jutenlaan | writer poet | 3 |  | |
 
-### Lepelstraat (Bergen op Zoom): 3 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Lepelstraat (Bergen op Zoom)
+*3 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Dekkersstraat | other | 3 |  | |
 | Wethouder Bogersstraat | other | 3 |  | |
 
-### Vestinggronden-Zuid (Bergen op Zoom): 3 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
+### Vestinggronden-Zuid (Bergen op Zoom)
+*3 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -203,67 +203,67 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Burgemeester Van Hasseltstraat | other | 3 |  | |
 | Meeussenstraat | other | 3 |  | |
 
-### Nieuw Borgvliet (Bergen op Zoom): 2 straten
-*Buurtthema (Buurt theme):* painters, local field, farm and road names and local people
+### Nieuw Borgvliet (Bergen op Zoom)
+*2 straten (streets). Buurtthema (Buurt theme):* painters, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Kastorstraat | artist visual | 4 |  | |
 | Pastoor Kuijpersstraat | artist visual | 3 |  | |
 
-### Schelde Vesting (Bergen op Zoom): 2 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
+### Schelde Vesting (Bergen op Zoom)
+*2 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Van de Laarstraat | unspecified individual | 3 |  | |
 | Doctor Ingenieur Van Veenweg | unspecified individual | 3 |  | |
 
-### Verspreide huizen Vrederust (Bergen op Zoom): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and local landmarks and institutions
+### Verspreide huizen Vrederust (Bergen op Zoom)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jacob Badtweg | other | 3 |  | |
 | Mevrouw Ans van den Berg brug | other | 3 |  | |
 
-### Bergse Plaat (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, birds and vessel_type
+### Bergse Plaat (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, birds and vessel_type
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Dijkgraaf Hazenplein | other | 3 |  | |
 
-### De Markiezaten (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* birds, local field, farm and road names and flowers
+### De Markiezaten (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* birds, local field, farm and road names and flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Sint-Jakobsschelp | religious | 3 |  | |
 
-### Havenkwartier (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and trades, guilds and offices
+### Havenkwartier (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and trades, guilds and offices
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wilhelminaveld | monarch statesman | 3 |  | |
 
-### Lage Meren (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* scientists, unspecified_individual and local field, farm and road names
+### Lage Meren (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* scientists, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Joulehof | scientist | 4 |  | |
 
-### Noordgeest (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, countries and regions and roads named after nearby places
+### Noordgeest (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, countries and regions and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester Wittelaan | other | 3 |  | |
 
-### Verspreide huizen Oud Glymespolder (Bergen op Zoom): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Verspreide huizen Oud Glymespolder (Bergen op Zoom)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

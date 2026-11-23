@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Heuvel (Breda): 31 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
+### Heuvel (Breda)
+*31 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van de Spiegelstraat | other | 3 |  | |
 | van der Duyn van Maasdamstraat | other | 3 |  | |
 
-### Ginneken (Breda): 17 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Ginneken (Breda)
+*17 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Schootenstraat | unspecified individual | 3 |  | |
 | van der Borchlaan | unspecified individual | 3 |  | |
 
-### Geeren-zuid (Breda): 15 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Geeren-zuid (Breda)
+*15 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Thomas Vincidorstraat | other | 3 |  | |
 | Vierlingstraat | other | 4 |  | |
 
-### Princenhage (Breda): 15 straten
-*Buurtthema (Buurt theme):* trades, guilds and offices, local field, farm and road names and unspecified_individual
+### Princenhage (Breda)
+*15 straten (streets). Buurtthema (Buurt theme):* trades, guilds and offices, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Spaandonkstraat | unspecified individual | 3 |  | |
 | Wethouder van Haperenstraat | unspecified individual | 3 |  | |
 
-### Sportpark (Breda): 11 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
+### Sportpark (Breda)
+*11 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | de Wetstraat | mythological figure | 4 |  | |
 | de la Reijweg | other | 3 |  | |
 
-### City (Breda): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
+### City (Breda)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Potkanstraat | unspecified individual | 3 |  | |
 | Torenstraat | unspecified individual | 3 |  | |
 
-### Nieuw Wolfslaar (Breda): 10 straten
-*Buurtthema (Buurt theme):* local people, birds and local field, farm and road names
+### Nieuw Wolfslaar (Breda)
+*10 straten (streets). Buurtthema (Buurt theme):* local people, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prinses van Lotharingenstraat | other | 3 |  | |
 | Prinses van Polenstraat | other | 3 |  | |
 
-### Overakker (Breda): 10 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and scientists
+### Overakker (Breda)
+*10 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and scientists
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -175,8 +175,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Valentijnlaan | unspecified individual | 3 |  | |
 | van 't Hoffstraat | unspecified individual | 3 |  | |
 
-### Prinsenbeek (Breda): 10 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
+### Prinsenbeek (Breda)
+*10 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -191,8 +191,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder van der Westenplein | unspecified individual | 3 |  | |
 | Witte Baan | other | 3 |  | |
 
-### Geeren-noord (Breda): 9 straten
-*Buurtthema (Buurt theme):* Mostly local people
+### Geeren-noord (Breda)
+*9 straten (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -206,8 +206,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Tilman Suysstraat | other | 3 |  | |
 | Tussen de Dijken | other | 4 |  | |
 
-### Kesteren (Breda): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and writers and poets
+### Kesteren (Breda)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and writers and poets
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -221,8 +221,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Nicoline Swijgmanstraat | other | 3 |  | |
 | Pieternel Koomansstraat | other | 3 |  | |
 
-### Ulvenhout (Breda): 9 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
+### Ulvenhout (Breda)
+*9 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and trees and plants
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -236,8 +236,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Vermuntstraat | other | 3 |  | |
 | Van Schermbeeklaan | other | 3 |  | |
 
-### Boeimeer (Breda): 8 straten
-*Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and unspecified_individual
+### Boeimeer (Breda)
+*8 straten (streets). Buurtthema (Buurt theme):* writers and poets, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -250,8 +250,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Generaal van der Plaatstraat | writer poet | 3 |  | |
 | van Gentlaan | writer poet | 4 |  | |
 
-### Ruitersbos (Breda): 8 straten
-*Buurtthema (Buurt theme):* composers, local people and unspecified_individual
+### Ruitersbos (Breda)
+*8 straten (streets). Buurtthema (Buurt theme):* composers, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -264,8 +264,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Schipperspad | unspecified individual | 3 |  | |
 | Schrauwenhof | musician composer | 4 |  | |
 
-### Brabantpark (Breda): 7 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, mammals and unspecified_individual
+### Brabantpark (Breda)
+*7 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, mammals and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -277,8 +277,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur van Hooydonkstraat | unspecified individual | 3 |  | |
 | Pels Rijckenpark | other | 3 |  | |
 
-### Bavel (Breda): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Bavel (Breda)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -289,8 +289,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Verschurenstraat | unspecified individual | 3 |  | |
 | Zuster Boomaarsstraat | religious | 3 |  | |
 
-### Chassé (Breda): 6 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
+### Chassé (Breda)
+*6 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -301,8 +301,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Coothplein | other | 3 |  | |
 | van Goorstraat | unspecified individual | 3 |  | |
 
-### Zandberg (Breda): 6 straten
-*Buurtthema (Buurt theme):* flowers, local field, farm and road names and village
+### Zandberg (Breda)
+*6 straten (streets). Buurtthema (Buurt theme):* flowers, local field, farm and road names and village
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -313,8 +313,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Wethouder Romboutsstraat | other | 3 |  | |
 | de Roy van Zuidewijnlaan | other | 3 |  | |
 
-### Blauwe Kei (Breda): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Blauwe Kei (Breda)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -324,8 +324,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pelsakker | writer poet | 4 |  | |
 | Schrepelstraat | writer poet | 4 |  | |
 
-### Doornbos-Linie (Breda): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, scientists and unspecified_individual
+### Doornbos-Linie (Breda)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, scientists and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -335,8 +335,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lachappellestraat | scientist | 4 |  | |
 | Lous van Beusekomlaan | other | 3 |  | |
 
-### Teteringen (Breda): 5 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
+### Teteringen (Breda)
+*5 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, unspecified_individual and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -346,8 +346,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Doctor Hein Hoeben laan | unspecified individual | 3 |  | |
 | Pieter van Ginnekenstraat | other | 3 |  | |
 
-### Haagpoort (Breda): 4 straten
-*Buurtthema (Buurt theme):* rivers, painters and unspecified_individual
+### Haagpoort (Breda)
+*4 straten (streets). Buurtthema (Buurt theme):* rivers, painters and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -356,8 +356,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Nuijtsstraat | unspecified individual | 3 |  | |
 | van Vlietstraat | unspecified individual | 3 |  | |
 
-### Tuinzigt (Breda): 4 straten
-*Buurtthema (Buurt theme):* trees and plants, flowers and unspecified_individual
+### Tuinzigt (Breda)
+*4 straten (streets). Buurtthema (Buurt theme):* trees and plants, flowers and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -366,90 +366,90 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | van Hegelsomstraat | other | 3 |  | |
 | van Meterenstraat | other | 3 |  | |
 
-### Belcrum (Breda): 2 straten
-*Buurtthema (Buurt theme):* birds, local field, farm and road names and local landmarks and institutions
+### Belcrum (Breda)
+*2 straten (streets). Buurtthema (Buurt theme):* birds, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Minister Kanstraat | unspecified individual | 3 |  | |
 | Pastoor Pottersplein | unspecified individual | 3 |  | |
 
-### Buitengebied Teteringen (Breda): 2 straten
-*Buurtthema (Buurt theme):* unspecified_individual, birds and local field, farm and road names
+### Buitengebied Teteringen (Breda)
+*2 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, birds and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Haenenpad | unspecified individual | 3 |  | |
 | Maria Rabbonistraat | other | 3 |  | |
 
-### Effen-Rith (Breda): 2 straten
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Effen-Rith (Breda)
+*2 straten (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meester Van Meelstraat | other | 3 |  | |
 | Pastoor Anssemsstraat | other | 3 |  | |
 
-### Station (Breda): 2 straten
-*Buurtthema (Buurt theme):* local landmarks and institutions, trades, guilds and offices and royals and nobility
+### Station (Breda)
+*2 straten (streets). Buurtthema (Buurt theme):* local landmarks and institutions, trades, guilds and offices and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Meerten Verhoffstraat | other | 3 |  | |
 | Smits van Waesberghestraat | other | 3 |  | |
 
-### Valkenberg (Breda): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and unspecified_individual
+### Valkenberg (Breda)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, royals and nobility and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Schootsteeg | unspecified individual | 3 |  | |
 | Seeligsingel | monarch statesman | 4 |  | |
 
-### Buitengebied Ulvenhout (Breda): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
+### Buitengebied Ulvenhout (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, roads named after nearby places and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | F. Kellyweg | other | 3 |  | |
 
-### Emer (Breda): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Emer (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Charles Stulemeijerweg | other | 3 |  | |
 
-### Fellenoord (Breda): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
+### Fellenoord (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Oede van Hoornestraat | other | 3 |  | |
 
-### Heilaar (Breda): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Heilaar (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van de Reijtstraat | other | 3 |  | |
 
-### Mastbos (Breda): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Mastbos (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Burgemeester de Manlaan | other | 3 |  | |
 
-### Steenakker (Breda): 1 straat
-*Buurtthema (Buurt theme):* Mostly local field, farm and road names
+### Steenakker (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Rat Verleghstraat | other | 3 |  | |
 
-### Ypelaar (Breda): 1 straat
-*Buurtthema (Buurt theme):* Mostly noble houses and estates
+### Ypelaar (Breda)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly noble houses and estates
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Waalre (Waalre): 23 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and mammals
+### Waalre (Waalre)
+*23 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and mammals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Elderenlaan | other | 3 |  | |
 | Van Gastelhof | other | 3 |  | |
 
-### Ekenrooi (Waalre): 14 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, composers and royals and nobility
+### Ekenrooi (Waalre)
+*14 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, composers and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Baarlaan | other | 3 |  | |
 | Willem Frisostraat | other | 3 |  | |
 
-### Aalst (Waalre): 5 straten
-*Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and local landmarks and institutions
+### Aalst (Waalre)
+*5 straten (streets). Buurtthema (Buurt theme):* royals and nobility, local field, farm and road names and local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vincent Cleerdinlaan | other | 3 |  | |
 | Willem Smuldersplein | other | 3 |  | |
 
-### Voldijn (Waalre): 4 straten
-*Buurtthema (Buurt theme):* Mostly flowers
+### Voldijn (Waalre)
+*4 straten (streets). Buurtthema (Buurt theme):* Mostly flowers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

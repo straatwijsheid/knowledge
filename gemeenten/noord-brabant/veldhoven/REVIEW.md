@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Meerveldhoven (Veldhoven): 13 straten
-*Buurtthema (Buurt theme):* House of Orange-Nassau royalty ('-dreef' names), plus local place and family names
+### Meerveldhoven (Veldhoven)
+*13 straten (streets). Buurtthema (Buurt theme):* House of Orange-Nassau royalty ('-dreef' names), plus local place and family names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Sledsenpad | unspecified individual | 3 |  | |
 | Van Vroonhovenlaan | other | 3 |  | |
 
-### Veldhoven (Veldhoven): 11 straten
-*Buurtthema (Buurt theme):* Rivers (Dutch and European), church/monastery terms, and local notables
+### Veldhoven (Veldhoven)
+*11 straten (streets). Buurtthema (Buurt theme):* Rivers (Dutch and European), church/monastery terms, and local notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Piet van der Lindenstraat | other | 3 |  | |
 | Plankerf | unspecified individual | 3 |  | |
 
-### Zeelst (Veldhoven): 8 straten
-*Buurtthema (Buurt theme):* Local hamlet ('-eind') and farm names, plus House of Orange-Nassau, WWII liberation and saints sub-clusters
+### Zeelst (Veldhoven)
+*8 straten (streets). Buurtthema (Buurt theme):* Local hamlet ('-eind') and farm names, plus House of Orange-Nassau, WWII liberation and saints sub-clusters
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Stulp | monarch statesman | 4 |  | |
 | Vingerhoetspad | unspecified individual | 3 |  | |
 
-### D'Ekker (Veldhoven): 5 straten
-*Buurtthema (Buurt theme):* Wildflowers/weeds and historic field names, plus abbey and local-history references (Floreffe abbey, saints)
+### D'Ekker (Veldhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* Wildflowers/weeds and historic field names, plus abbey and local-history references (Floreffe abbey, saints)
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Aelstlaan | other | 3 |  | |
 | Van Eijkstraat | other | 3 |  | |
 
-### Oerle (Veldhoven): 5 straten
-*Buurtthema (Buurt theme):* Archaeology/Latin farm terms, old cattle breeds, and local dialect names
+### Oerle (Veldhoven)
+*5 straten (streets). Buurtthema (Buurt theme):* Archaeology/Latin farm terms, old cattle breeds, and local dialect names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

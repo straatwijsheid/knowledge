@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Hoevenseveld (Uden): 8 straten
-*Buurtthema (Buurt theme):* Local people, flowers and noble houses and estates
+### Hoevenseveld (Uden)
+*8 straten (streets). Buurtthema (Buurt theme):* Local people, flowers and noble houses and estates
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Walravenstraat | other | 3 |  | |
 | Wolfgangstraat | other | 3 |  | |
 
-### Moleneind-Groenewoud (Uden): 8 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, local people and saints and clergy
+### Moleneind-Groenewoud (Uden)
+*8 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, local people and saints and clergy
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Jan van Oortstraat | other | 3 |  | |
 | Peerke Verkuijlenstraat | other | 3 |  | |
 
-### Centrum (Uden): 6 straten
-*Buurtthema (Buurt theme):* Local landmarks and institutions, saints and clergy and royals and nobility
+### Centrum (Uden)
+*6 straten (streets). Buurtthema (Buurt theme):* Local landmarks and institutions, saints and clergy and royals and nobility
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor Spieringsstraat | religious | 3 |  | |
 | Petrushof | religious | 3 |  | |
 
-### Bogerd-Vijfhuis (Uden): 3 straten
-*Buurtthema (Buurt theme):* Fruit and crops, unspecified_individual and local field, farm and road names
+### Bogerd-Vijfhuis (Uden)
+*3 straten (streets). Buurtthema (Buurt theme):* Fruit and crops, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Doornstraat | religious | 3 |  | |
 | Verduijnstraat | other | 3 |  | |
 
-### Schutveld (Uden): 3 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, flowers and local people
+### Schutveld (Uden)
+*3 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -66,31 +66,31 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Prior van Milstraat | other | 3 |  | |
 | Professor Pulsersstraat | other | 3 |  | |
 
-### Kom Volkel (Uden): 2 straten
-*Buurtthema (Buurt theme):* Mammals, unspecified_individual and local field, farm and road names
+### Kom Volkel (Uden)
+*2 straten (streets). Buurtthema (Buurt theme):* Mammals, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jochem de Wildstraat | other | 3 |  | |
 | Rudigerstraat | other | 3 |  | |
 
-### Loopkant-Liessent-Goorkens (Uden): 2 straten
-*Buurtthema (Buurt theme):* Local field, farm and road names, trades, guilds and offices and unspecified_individual
+### Loopkant-Liessent-Goorkens (Uden)
+*2 straten (streets). Buurtthema (Buurt theme):* Local field, farm and road names, trades, guilds and offices and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Handelslaan | musician composer | 3 |  | |
 | Zuster Theodardahof | other | 3 |  | |
 
-### Raam (Uden): 1 straat
-*Buurtthema (Buurt theme):* Unspecified_individual, local field, farm and road names and roads named after nearby places
+### Raam (Uden)
+*1 straat (streets). Buurtthema (Buurt theme):* Unspecified_individual, local field, farm and road names and roads named after nearby places
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Jonkerveld | unspecified individual | 3 |  | |
 
-### Sportpark Volkelseweg (Uden): 1 straat
-*Buurtthema (Buurt theme):* Mostly local landmarks and institutions
+### Sportpark Volkelseweg (Uden)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local landmarks and institutions
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

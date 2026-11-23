@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Sander-Banken 3 (Etten-Leur): 14 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and politicians
+### Sander-Banken 3 (Etten-Leur)
+*14 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and politicians
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Vondelinghof | politician statesman | 4 |  | |
 | Wouter Berthoutlaan | other | 3 |  | |
 
-### Centrum Oost 1 (Etten-Leur): 8 straten
-*Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
+### Centrum Oost 1 (Etten-Leur)
+*8 straten (streets). Buurtthema (Buurt theme):* local people, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Poelsstraat | monarch statesman | 4 |  | |
 | Schonckweg | monarch statesman | 4 |  | |
 
-### Baai 2 (Etten-Leur): 7 straten
-*Buurtthema (Buurt theme):* unspecified_individual, local people and foreign towns
+### Baai 2 (Etten-Leur)
+*7 straten (streets). Buurtthema (Buurt theme):* unspecified_individual, local people and foreign towns
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Glabbeekstraat | other | 3 |  | |
 | Van Rooylaan | unspecified individual | 3 |  | |
 
-### Centrum Oost 2 (Etten-Leur): 6 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
+### Centrum Oost 2 (Etten-Leur)
+*6 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, local people and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pastoor van Weesstraat | other | 3 |  | |
 | Van den Elsenstraat | other | 3 |  | |
 
-### Baai 1 (Etten-Leur): 4 straten
-*Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
+### Baai 1 (Etten-Leur)
+*4 straten (streets). Buurtthema (Buurt theme):* local people, local field, farm and road names and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -77,65 +77,65 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Pater Arnold Damenstraat | other | 3 |  | |
 | Van der Poest Clementstraat | other | 3 |  | |
 
-### Banakkers 4 (Etten-Leur): 2 straten
-*Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and local people
+### Banakkers 4 (Etten-Leur)
+*2 straten (streets). Buurtthema (Buurt theme):* local field, farm and road names, technology and tools and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Wethouder Feskensstraat | other | 3 |  | |
 | Wethouder Pijsstraat | other | 3 |  | |
 
-### Banakkers 3 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* writers and poets, local landmarks and institutions and unspecified_individual
+### Banakkers 3 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* writers and poets, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Schendelstraat | writer poet | 4 |  | |
 
-### Centrum West 1 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
+### Centrum West 1 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, local landmarks and institutions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Bruininkhuizen | other | 3 |  | |
 
-### Midden landelijk gebied (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* Mostly local people
+### Midden landelijk gebied (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* Mostly local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Teerlingstraat | other | 3 |  | |
 
-### Noord 2 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* trees and plants, flowers and local people
+### Noord 2 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* trees and plants, flowers and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Bergenplein | other | 3 |  | |
 
-### Noord 4 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and local people
+### Noord 4 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* local landmarks and institutions, local field, farm and road names and local people
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Pastoor Binckstraat | other | 3 |  | |
 
-### Sander-Banken 4 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, Dutch regions and unspecified_individual
+### Sander-Banken 4 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, Dutch regions and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Deken Koopmanslaan | unspecified individual | 3 |  | |
 
-### Schoenmakershoek (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* trades, guilds and offices, unspecified_individual and local field, farm and road names
+### Schoenmakershoek (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* trades, guilds and offices, unspecified_individual and local field, farm and road names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Veermanweg | other | 3 |  | |
 
-### Zuid landelijk gebied 4 (Etten-Leur): 1 straat
-*Buurtthema (Buurt theme):* local field, farm and road names, human settlement and unspecified_individual
+### Zuid landelijk gebied 4 (Etten-Leur)
+*1 straat (streets). Buurtthema (Buurt theme):* local field, farm and road names, human settlement and unspecified_individual
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

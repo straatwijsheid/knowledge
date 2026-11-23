@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Helvoirt (Vught): 16 straten
-*Buurtthema (Buurt theme):* Times of day, trees and local notables
+### Helvoirt (Vught)
+*16 straten (streets). Buurtthema (Buurt theme):* Times of day, trees and local notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Grevenbroeckstraat | unspecified individual | 3 |  | |
 | Van de Meerstraat | unspecified individual | 3 |  | |
 
-### Loyolaan en omgeving (Vught): 16 straten
-*Buurtthema (Buurt theme):* House of Orange (stadholders and princes), plus Jesuit/fortress names
+### Loyolaan en omgeving (Vught)
+*16 straten (streets). Buurtthema (Buurt theme):* House of Orange (stadholders and princes), plus Jesuit/fortress names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Verlengde Kampdijklaan | monarch statesman | 4 |  | |
 | Vughterhage | monarch statesman | 4 |  | |
 
-### Schoonveld (Vught): 16 straten
-*Buurtthema (Buurt theme):* Local notables and saints, plus Dutch admirals
+### Schoonveld (Vught)
+*16 straten (streets). Buurtthema (Buurt theme):* Local notables and saints, plus Dutch admirals
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Versterplein | religious | 4 |  | |
 | Versterstraat | religious | 4 |  | |
 
-### Centrum (Vught): 6 straten
-*Buurtthema (Buurt theme):* House of Orange, plus local mayors and notables
+### Centrum (Vught)
+*6 straten (streets). Buurtthema (Buurt theme):* House of Orange, plus local mayors and notables
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Taterhof | monarch statesman | 4 |  | |
 | Willem van Beuningenlaan | other | 3 |  | |
 
-### De Baarzen (Vught): 6 straten
-*Buurtthema (Buurt theme):* Brabant regions and Renaissance composers
+### De Baarzen (Vught)
+*6 straten (streets). Buurtthema (Buurt theme):* Brabant regions and Renaissance composers
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Monseigneur Goossenssingel | musician composer | 3 |  | |
 | Rouppe van der Voortlaan | other | 3 |  | |
 
-### Molenstraat en omgeving (Vught): 6 straten
-*Buurtthema (Buurt theme):* Dutch writers, admirals and saints
+### Molenstraat en omgeving (Vught)
+*6 straten (streets). Buurtthema (Buurt theme):* Dutch writers, admirals and saints
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Beurdenstraat | writer poet | 4 |  | |
 | Van den Elsenstraat | writer poet | 4 |  | |
 
-### Loonsebaan (Vught): 4 straten
-*Buurtthema (Buurt theme):* Local nobility, plus trees
+### Loonsebaan (Vught)
+*4 straten (streets). Buurtthema (Buurt theme):* Local nobility, plus trees
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Van Doernestraat | unspecified individual | 3 |  | |
 | Van den Wijghaertstraat | other | 3 |  | |
 
-### Vughtse Heide en Lunetten (Vught): 4 straten
-*Buurtthema (Buurt theme):* House of Nassau history (William the Silent and his wives), plus ships
+### Vughtse Heide en Lunetten (Vught)
+*4 straten (streets). Buurtthema (Buurt theme):* House of Nassau history (William the Silent and his wives), plus ships
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Lunettenpad | monarch statesman | 4 |  | |
 | Van Brederodelaan | other | 3 |  | |
 
-### Taalstraat en omgeving (Vught): 3 straten
-*Buurtthema (Buurt theme):* Painters, plus saints and local names
+### Taalstraat en omgeving (Vught)
+*3 straten (streets). Buurtthema (Buurt theme):* Painters, plus saints and local names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
@@ -139,16 +139,16 @@ Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was 
 | Deken van Oss-straat | artist visual | 3 |  | |
 | Heunpark | unspecified individual | 3 |  | |
 
-### Cromvoirt (Vught): 2 straten
-*Buurtthema (Buurt theme):* Rural or scattered streets; generic names
+### Cromvoirt (Vught)
+*2 straten (streets). Buurtthema (Buurt theme):* Rural or scattered streets; generic names
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
 | Van Rijswijkstraat | other | 3 |  | |
 | Van de Goorstraat | other | 3 |  | |
 
-### Villapark (Vught): 1 straat
-*Buurtthema (Buurt theme):* Birds and trees
+### Villapark (Vught)
+*1 straat (streets). Buurtthema (Buurt theme):* Birds and trees
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|

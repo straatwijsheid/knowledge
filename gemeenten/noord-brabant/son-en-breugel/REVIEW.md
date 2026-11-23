@@ -8,8 +8,8 @@ Welkom! Dit blad vraagt om uw lokale kennis. Waar we een straatnaam niet kunnen 
 
 Deze straten lezen we als *een persoon van een bepaald soort*, maar wie het was weten we niet. Per buurt: het naamgevingsthema dat we zagen. *We read these as a kind of person but have not identified who; per buurt, the naming theme we detected.*
 
-### Son (Son en Breugel): 1 straat
-*Buurtthema (Buurt theme):* Flowers, animals, Dutch writers, painters and composers, plus House of Orange
+### Son (Son en Breugel)
+*1 straat (streets). Buurtthema (Buurt theme):* Flowers, animals, Dutch writers, painters and composers, plus House of Orange
 
 | Straat (Street) | Wij lezen het als (We read it as) | Niveau (Tier) | Onze notitie (Our note) | Uw antwoord (Your answer) |
 |---|---|---|---|---|
